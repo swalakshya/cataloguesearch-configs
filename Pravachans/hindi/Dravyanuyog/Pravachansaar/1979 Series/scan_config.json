@@ -1,0 +1,103 @@
+{
+  "default": {
+    "header_regex": [
+      "^.{0,5}गाथा.{0,30}$",
+      "^.{0,5}कलश.{0,30}$",
+      "^.{0,5}श्लोक.{0,30}$",
+      "^प्रवचन\\s+नं\\.?.*$",
+      "^प्रवच्चन\\s+नं\\.?.*$",
+      "^[०-९\\s]*$",
+      "^.{0,5}प्रवचन\\s+सुधा.*भाग.*$",
+      "^.{0,5}प्रवच्चन\\s+सुधा.*भाग.*$"
+    ]
+  },
+  "Pravachan_Sudha_Part_1_H": {
+    "header_prefix": [
+      "^\\[प्रवचनसार\\s+गाथा.*\\]",
+      "^\\[प्रवचनसार\\s+सुधा.*\\]",
+      "^प्रवचनसार\\s+गाथा-?\\s+[०-९]*\\s+[०-९]*"
+    ],
+    "start_page": 10,
+    "end_page": 261
+  },
+  "Pravachan_Sudha_Part_2_H": {
+    "header_prefix": [
+      "^\\[प्रवचनसार\\s+गाथा.*\\]",
+      "^\\[प्रवचनसार\\s+सुधा.*\\]"
+    ],
+    "start_page": 10,
+    "end_page": 600
+  },
+  "Pravachan_Sudha_Part_3_H": {
+    "header_prefix": [
+      "^\\[प्रवचनसार\\s+गाथा.*\\]",
+      "^\\[प्रवचनसार\\s+सुधा.*\\]"
+    ],
+    "start_page": 10,
+    "end_page": 635
+  },
+  "Pravachan_Sudha_Part_4_H": {
+    "header_prefix": [
+      "^\\[प्रवचनसार\\s+गाथा.*\\]",
+      "^\\[प्रवचनसार\\s+सुधा.*\\]"
+    ],
+    "start_page": 9,
+    "end_page": 516
+  },
+  "Pravachan_Sudha_Part_5_H": {
+    "header_prefix": [
+      "^\\[प्रवचनसार\\s+गाथा.*\\]",
+      "^\\[प्रवचनसार\\s+सुधा.*\\]"
+    ],
+    "start_page": 8,
+    "end_page": 516
+  },
+  "Pravachan_Sudha_Part_6_H": {
+    "header_prefix": [
+      "^\\[प्रवचनसार\\s+गाथा.*\\]",
+      "^\\[प्रवचनसार\\s+सुधा.*\\]"
+    ],
+    "start_page": 8,
+    "end_page": 545
+  },
+  "Pravachan_Sudha_Part_7_H": {
+    "header_prefix": [
+      "^\\[प्रवचनसार\\s+गाथा.*\\]",
+      "^\\[प्रवचनसार\\s+सुधा.*\\]"
+    ],
+    "start_page": 8,
+    "end_page": 339
+  },
+  "Pravachan_Sudha_Part_8_H": {
+    "header_prefix": [
+      "^\\[प्रवचनसार\\s+गाथा.*\\]",
+      "^\\[प्रवचनसार\\s+सुधा.*\\]"
+    ],
+    "start_page": 8,
+    "end_page": 375
+  },
+  "Pravachan_Sudha_Part_9_H": {
+    "header_prefix": [
+      "^\\[प्रवचनसार\\s+गाथा.*\\]",
+      "^\\[प्रवचनसार\\s+सुधा.*\\]"
+    ],
+    "start_page": 10,
+    "end_page": 413
+  },
+  "Pravachan_Sudha_Part_10_H": {
+    "header_prefix": [
+      "^\\[प्रवचनसार\\s+गाथा.*\\]",
+      "^\\[प्रवचनसार\\s+सुधा.*\\]"
+    ],
+    "start_page": 9,
+    "end_page": 520
+  },
+  "Pravachan_Sudha_Part_11_H": {
+    "header_prefix": [
+      "^\\[प्रवचनसार\\s+गाथा.*\\]",
+      "^\\[प्रवचनसार\\s+सुधा.*\\]"
+    ],
+    "start_page": 10,
+    "end_page": 411
+  }
+}
