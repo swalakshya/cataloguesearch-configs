@@ -1,0 +1,51 @@
+{
+  "default": {
+    "header_regex": [
+      "^.{0,8}\\s*अष्टपाहुड़.*\\s+.*प्रवचन\\s+\\(?भाग\\s*-?\\s*[०-९]+\\)?\\s+",
+      "^.{0,5}\\s*गाथा-?[०-९]+\\s+[०-९]+",
+      "^प्रवचन.*-[०-९][०-९][०-९][०-९]",
+      "^[०-९]+"
+    ],
+    "header_prefix": [
+      "^.{0,5}$",
+      "^.{0,5}गाथा.{0,30}$",
+      "^.{0,6}अष्टपाहुड़.*\\s+.*प्रवचन.{0,30}$",
+      "^.{0,5}कलश.{0,30}$",
+      "^.{0,5}श्लोक.{0,30}$",
+      "^प्रवचन\\s+नं\\.?.*$",
+      "^[०-९\\s]*$",
+      "^.*पर\\s+प्रवचन.*$",
+      "^.*श्लोक.*प्रवचन.*$",
+      "^\\*\\s+",
+      "^[०-९]+(?!\\.)"
+    ]
+  },
+  "Asht_Pahud_Pravachan_Part-1_H": {
+    "start_page": 13,
+    "end_page": 420
+  },
+  "Asht_Pahud_Pravachan_Part-2_H": {
+    "start_page": 15,
+    "end_page": 546
+  },
+  "Asht_Pahud_Pravachan_Part-3_H": {
+    "start_page": 14,
+    "end_page": 490
+  },
+  "Asht_Pahud_Pravachan_Part-4_H": {
+    "start_page": 14,
+    "end_page": 531
+  },
+  "Asht_Pahud_Pravachan_Part-5_H": {
+    "start_page": 15,
+    "end_page": 688
+  },
+  "Asht_Pahud_Pravachan_Part-6_H": {
+    "start_page": 15,
+    "end_page": 843
+  },
+  "Asht_Pahud_Pravachan_Part-7_H": {
+    "start_page": 13,
+    "end_page": 417
+  }
+}
