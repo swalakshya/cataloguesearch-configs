@@ -1,0 +1,54 @@
+{
+  "default": {
+    "header_regex": [
+      "^[०-९\\s]$",
+      "^[०-९]+(?!\\. )$",
+      "^.{0,10}परमात्मप्रकाश\\s+प्रवचन.{0,20}भाग.{0,20}$",
+      "^.{0,5}वीर संवत्.{0,80}प्रवचन-[०-९]+$"
+    ],
+    "header_prefix": [
+      "^.{0,5}गाथा.{0,20}[०-९]{0,4}",
+      "^.{0,5}श्लोक.{0,20}[०-९]{0,4}"
+    ]
+  },
+  "ParmatmaPrakash_Pravachan_Part-1_H": {
+    "file_url": "https://vitragvani.com/uploads/pdfs/C/ParmatmaPrakash%20Pravachan%20Part-1_H.pdf",
+    "start_page": 15,
+    "end_page": 562
+  },
+  "ParmatmaPrakash_Pravachan_Part-2_H": {
+    "file_url": "https://vitragvani.com/uploads/pdfs/C/ParmatmaPrakash%20Pravachan%20Part-2_H.pdf",
+    "start_page": 14,
+    "end_page": 513
+  },
+  "ParmatmaPrakash_Pravachan_Part-3_H": {
+    "file_url": "https://vitragvani.com/uploads/pdfs/C/ParmatmaPrakash%20Pravachan%20Part-3_H.pdf",
+    "start_page": 14,
+    "end_page": 631
+  },
+  "ParmatmaPrakash_Pravachan_Part-4_H": {
+    "file_url": "https://vitragvani.com/uploads/pdfs/C/ParmatmaPrakash%20Pravachan%20Part-4_H.pdf",
+    "start_page": 14,
+    "end_page": 632
+  },
+  "ParmatmaPrakash_Pravachan_Part-5_H": {
+    "file_url": "https://vitragvani.com/uploads/pdfs/C/ParmatmaPrakash%20Pravachan%20Part-5_H.pdf",
+    "start_page": 14,
+    "end_page": 594
+  },
+  "ParmatmaPrakash_Pravachan_Part-6_H": {
+    "file_url": "https://vitragvani.com/uploads/pdfs/C/ParmatmaPrakash%20Pravachan%20Part-6_H.pdf",
+    "start_page": 14,
+    "end_page": 541
+  },
+  "ParmatmaPrakash_Pravachan_Part-7_H": {
+    "file_url": "https://vitragvani.com/uploads/pdfs/C/ParmatmaPrakash%20Pravachan%20Part-7_H.pdf",
+    "start_page": 14,
+    "end_page": 571
+  },
+  "ParmatmaPrakash_Pravachan_Part-8_H": {
+    "file_url": "https://vitragvani.com/uploads/pdfs/C/ParmatmaPrakash%20Pravachan%20Part-8_H.pdf",
+    "start_page": 14,
+    "end_page": 569
+  }
+}
