@@ -1,0 +1,29 @@
+{
+  "default": {
+     "header_prefix": [
+       "^.{0,15}पुरुषार्थसिद्धि\\-?उपाय\\s+प्रवचन.{0,20}$"
+     ],
+    "header_regex": [
+      "^.{0,15}पुरुषार्थसिद्धि\\-?उपाय\\s+प्रवचन\\(.{0,15}\\)$"
+    ],
+    "crop": {
+      "top": 9,
+      "bottom": 9
+    }
+  },
+  "Purusarthsiddhi_Upay_Pravachan_Part-01H": {
+    "file_url": "https://vitragvani.com/uploads/pdfs/C/Purusarthsiddhi_Upay_Pravachan_Part-01H.pdf",
+    "start_page": 17,
+    "end_page": 621
+  },
+  "Purusarthsiddhi_Upay_Pravachan_Part-02H": {
+    "file_url": "https://vitragvani.com/uploads/pdfs/C/Purusarthsiddhi_Upay_Pravachan_Part-02H.pdf",
+    "start_page": 16,
+    "end_page": 680
+  },
+  "Purusarthsiddhi_Upay_Pravachan_Part-03H": {
+    "file_url": "https://vitragvani.com/uploads/pdfs/C/Purusarthsiddhi_Upay_Pravachan_Part-03H.pdf",
+    "start_page": 16,
+    "end_page": 655
+  }
+}

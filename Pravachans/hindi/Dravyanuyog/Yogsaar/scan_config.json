@@ -1,0 +1,22 @@
+{
+  "default": {
+    "header_regex": [
+      "^.{0,10}योगसार\\s+प्रवचन.{0,30}$",
+      "^{०,१०}वीर\\s+संवत.{0,50}प्रवचन\\s+नं\\s+[०-९]{0,3}$"
+    ],
+    "header_prefix": [
+      "^{०,१०}वीर\\s+संवत.{0,50}प्रवचन\\s+नं\\s+[०-९]{0,3}"
+    ]
+  },
+  "Yogsaar_Pravachan_Part-01_H": {
+    "file_url": "https://www.vitragvani.com/uploads/pdfs/C/Yogsaar_Pravachan_Part-01_H.pdf",
+    "start_page": 14,
+    "end_page": 501
+  },
+  "Yogsaar_Pravachan_Part-02_H": {
+    "file_url": "https://www.vitragvani.com/uploads/pdfs/C/Yogsaar_Pravachan_Part-02_H.pdf",
+    "start_page": 14,
+    "end_page": 432
+
+  }
+}
