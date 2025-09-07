@@ -5,9 +5,9 @@
       "^.{0,10}प्रवचन\\s?नं\\..{0,40}दिनांक.{0,60}$",
       "^.{0,20}द्वार.{0,50}काव्य.{0,40}[०-९]{0,4}$"
     ],
-    "header_prefix": {
+    "header_prefix": [
       "^.{0,20}द्वार.{0,50}काव्य.{0,40}[०-९]{0,4}"
-    }
+    ]
   },
   "Nataksamaysaar_Pravachan_Part-1_H": {
     "file_url": "https://www.vitragvani.com/uploads/pdfs/C/Nataksamaysaar_Pravachan_Part-1_H.pdf",

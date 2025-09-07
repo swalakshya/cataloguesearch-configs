@@ -1,0 +1,13 @@
+{
+  "default": {
+    "header_prefix": [
+
+    ],
+    "header_regex": [
+
+    ],
+    "typo_list": [
+
+    ]
+  }
+}
