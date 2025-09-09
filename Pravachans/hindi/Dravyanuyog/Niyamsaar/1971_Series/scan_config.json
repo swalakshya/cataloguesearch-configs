@@ -1,0 +1,40 @@
+{
+  "default": {
+
+  },
+  "Niyamka_Saar_Part_1_H": {
+    "file_url": "https://vitragvani.com/uploads/pdfs/C/Niyamka%20Saar%20Part%201_H.pdf",
+    "start_page": 18,
+    "end_page": 550
+  },
+  "Niyamka_Saar_Part_2_H": {
+    "file_url": "https://vitragvani.com/uploads/pdfs/C/Niyamka%20Saar%20Part%202_H.pdf",
+    "start_page": 18,
+    "end_page": 585
+  },
+  "Niyamka_Saar_Part_3_H": {
+    "file_url": "https://vitragvani.com/uploads/pdfs/C/Niyamka%20Saar%20Part%203_H.pdf",
+    "start_page": 18,
+    "end_page": 609
+  },
+  "Niyamka_Saar_Part 4_H": {
+    "file_url": "https://vitragvani.com/uploads/pdfs/C/Niyamka%20Saar%20Part%204_H.pdf",
+    "start_page": 18,
+    "end_page": 393
+  },
+  "Niyamka_Saar_Part_5_H": {
+    "file_url": "https://vitragvani.com/uploads/pdfs/C/Niyamka%20Saar%20Part%205_H.pdf",
+    "start_page": 18,
+    "end_page": 429
+  },
+  "Niyamka_Saar_Part_6_H": {
+    "file_url": "https://vitragvani.com/uploads/pdfs/C/Niyamka%20Saar%20Part%206_H.pdf",
+    "start_page": 18,
+    "end_page": 397
+  },
+  "Niyamka_Saar_Part_7_H": {
+    "file_url": "https://vitragvani.com/uploads/pdfs/C/Niyamka%20Saar%20Part%207_H.pdf",
+    "start_page": 17,
+    "end_page": 328
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "default": {
+    "header_regex": [
+      "^.{0,5}कार्तिकेयानुप्रेक्षा प्रवचन"
+    ]
+  },
+  "Kartikeyaanuprekshaa_Pravachan_part_1_hin": {
+    "file_url": "https://vitragvani.com/uploads/pdfs/C/Kartikeyaanuprekshaa_Pravachan_part_1_hin.pdf",
+    "start_page": 32,
+    "end_page": 601
+  },
+  "Kartikeyaanuprekshaa_Pravachan_part_2_hin": {
+    "file_url": "https://vitragvani.com/uploads/pdfs/C/Kartikeyaanuprekshaa_Pravachan_part_2_hin.pdf",
+    "start_page": 9,
+    "end_page": 556
+  }
+}
