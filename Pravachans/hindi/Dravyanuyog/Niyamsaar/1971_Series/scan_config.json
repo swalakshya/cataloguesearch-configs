@@ -1,6 +1,12 @@
 {
   "default": {
-
+    "crop": {
+      "top": 16,
+      "bottom": 5
+    },
+    "header_regex": [
+      "^.{0,80}प्रवचन-?[०-९]{0,4}$"
+    ]
   },
   "Niyamka_Saar_Part_1_H": {
     "file_url": "https://vitragvani.com/uploads/pdfs/C/Niyamka%20Saar%20Part%201_H.pdf",
@@ -17,7 +23,7 @@
     "start_page": 18,
     "end_page": 609
   },
-  "Niyamka_Saar_Part 4_H": {
+  "Niyamka_Saar_Part_4_H": {
     "file_url": "https://vitragvani.com/uploads/pdfs/C/Niyamka%20Saar%20Part%204_H.pdf",
     "start_page": 18,
     "end_page": 393

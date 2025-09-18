@@ -7,7 +7,11 @@
       "^.{0,10}સમયસાર વૈભવ.{0,5}ભાગ.{0,5}$",
       "^.{0,10}સમયસાર વૈભવ.{0,10}$"
 
-    ]
+    ],
+    "crop": {
+      "top": 10,
+      "bottom": 7
+    }
   },
   "Samaysaar_Vaibhav_Bhag-1G": {
     "file_url": "https://vitragvani.com/uploads/pdfs/C/Samaysaar_Vaibhav_Bhag-1G.pdf",
