@@ -3,7 +3,11 @@
     "crop": {
       "top": 16,
       "bottom": 10
-    }
+    },
+    "header_regex": [
+      "^.{0,5}वचनामृत.{0,20}प्रवचन.{0,5}[०-९]{0,4}$",
+      "^.{0,50}[०-९]{2,4}.{0,4}[०-९]{2,4}.{0,4}[०-९]{2,4}$"
+    ]
   },
   "Amrut_Pravachan_Part-1_H": {
     "file_url": "https://vitragvani.com/uploads/pdfs/C/Amrut_Pravachan_Part-1_H.pdf",
