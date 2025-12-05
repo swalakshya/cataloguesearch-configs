@@ -2,11 +2,16 @@
   "default": {
     "header_regex": [
       "^.{0,10}इष्टोपदेश\\s+प्रवचन.{0,30}$",
-      "^.{0,5}प्रवचन\\s?नं.{0,50}[०-९]{1,6}.{0,20}$"
+      "^.{0,5}प्रवचन\\s?नं.{0,50}[०-९]{1,6}.{0,20}$",
+      "^.{0,30}वीर संवत्.{0,20}[०-९]{2,4}.{0,10}$"
     ],
     "header_prefix": [
       "^.{0,5}प्रवचन\\s?नं.{0,50}[०-९]{1,6}"
-    ]
+    ],
+    "crop": {
+      "top": 14,
+      "bottom": 5
+    }
   },
   "Ishtopadesh_Pravachan_Bhag-1_H": {
     "file_url": "https://vitragvani.com/uploads/pdfs/C/Ishtopadesh_Pravachan_Bhag-1_H.pdf",

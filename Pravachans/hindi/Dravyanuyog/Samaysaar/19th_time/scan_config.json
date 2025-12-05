@@ -12,19 +12,26 @@
       "^[०-९\\s]*समयसार\\s+सिद्धि,?.*भाग-[०-९]\\s*[-।]?,?\\s*\\(.{0,20}\\)",
       "^[०-९\\s]*समयसार\\s+सिद्धि,?.*भाग-[०-९]\\s*[-।]?,?\\s*",
       "^.{0,5}श्लोक.{0,20}[०-९]{0,4}"
-    ]
+    ],
+    "crop": {
+      "top": 12,
+      "bottom": 5
+    }
   },
   "Samaysaar_Siddhi_Part-01H": {
     "file_url": "https://vitragvani.com/uploads/pdfs/C/Samaysaar_Siddhi_Part-01H.pdf",
     "start_page": 19,
-    "end_page": 698
+    "end_page": 698,
+    "crop": {
+      "top": 8,
+      "bottom": 5
+    }
   },
   "Samaysaar_Siddhi_Part-02H": {
     "file_url": "https://vitragvani.com/uploads/pdfs/C/Samaysaar_Siddhi_Part-02H_Pu_Ut.pdf",
     "page_list": [
       { "start": 20, "end":  509 },
       {"start": 528, "end": 987}
-
     ]
   },
   "Samaysaar_Siddhi_Part-03H": {
@@ -60,26 +67,46 @@
   "Samaysaar_Siddhi_Part-09H": {
     "file_url": "https://vitragvani.com/uploads/pdfs/C/Samaysaar_Siddhi_Part-09H.pdf",
     "start_page": 18,
-    "end_page": 665
+    "end_page": 665,
+    "crop": {
+      "top": 14,
+      "bottom": 5
+    }
   },
   "Samaysaar_Siddhi_Part-10H": {
     "file_url": "https://vitragvani.com/uploads/pdfs/C/Samaysaar_Siddhi_Part-10H.pdf",
     "start_page": 18,
-    "end_page": 763
+    "end_page": 763,
+    "crop": {
+      "top": 14,
+      "bottom": 5
+    }
   },
   "Samaysaar_Siddhi_Part-11H": {
     "file_url": "https://vitragvani.com/uploads/pdfs/C/Samaysaar_Siddhi_Part-11H.pdf",
     "start_page": 18,
-    "end_page": 729
+    "end_page": 729,
+    "crop": {
+      "top": 14,
+      "bottom": 5
+    }
   },
   "Samaysaar_Siddhi_Part-12H": {
     "file_url": "https://vitragvani.com/uploads/pdfs/C/Samaysaar_Siddhi_Part-12H.pdf",
     "start_page": 18,
-    "end_page": 691
+    "end_page": 691,
+    "crop": {
+      "top": 14,
+      "bottom": 5
+    }
   },
   "Samaysaar_Siddhi_Part-13H": {
     "file_url": "https://vitragvani.com/uploads/pdfs/C/Samaysaar_Siddhi_Part-13H.pdf",
     "start_page": 17,
-    "end_page": 288
+    "end_page": 288,
+    "crop": {
+      "top": 14,
+      "bottom": 5
+    }
   }
 }

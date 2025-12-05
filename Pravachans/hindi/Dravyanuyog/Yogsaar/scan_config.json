@@ -6,7 +6,11 @@
     ],
     "header_prefix": [
       "^.{0,10}वीर\\s+संवत.{0,70}प्रवचन\\s+नं\\.?\\s+[०-९]{0,3}"
-    ]
+    ],
+    "crop": {
+      "top": 14,
+      "bottom": 5
+    }
   },
   "Yogsaar_Pravachan_Part-01_H": {
     "file_url": "https://www.vitragvani.com/uploads/pdfs/C/Yogsaar_Pravachan_Part-01_H.pdf",

@@ -17,7 +17,11 @@
       "^विशेष आयेगा",
       "^विशेष कहेंगे",
       "^\\(?श्रोता: प्रमाण वचन"
-    ]
+    ],
+    "crop": {
+      "top": 15,
+      "bottom": 5
+    }
   },
   "Karan_Karya_Niyam_Part_1_H": {
     "file_url": "https://vitragvani.com/uploads/pdfs/C/Karan-karya_Niyam_Part-1_H.pdf",

@@ -25,56 +25,100 @@
   "Pravachan_Sudha_Part_1_H": {
     "file_url": "https://vitragvani.com/uploads/pdfs/C/Pravachan_sudha_part_1_H.pdf",
     "start_page": 10,
-    "end_page": 261
+    "end_page": 261,
+    "crop": {
+      "top": 13,
+      "bottom": 5
+    }
   },
   "Pravachan_Sudha_Part_2_H": {
     "file_url": "https://vitragvani.com/uploads/pdfs/C/Pravachan_sudha_part_2_H.pdf",
     "start_page": 10,
-    "end_page": 600
+    "end_page": 600,
+    "crop": {
+      "top": 18,
+      "bottom": 5
+    }
   },
   "Pravachan_Sudha_Part_3_H": {
     "file_url": "https://vitragvani.com/uploads/pdfs/C/Pravachan_sudha_part_3_H.pdf",
     "start_page": 10,
-    "end_page": 635
+    "end_page": 635,
+    "crop": {
+      "top": 14,
+      "bottom": 5
+    }
   },
   "Pravachan_Sudha_Part_4_H": {
     "file_url": "https://vitragvani.com/uploads/pdfs/C/Pravachan_Sudha_Part_4_H.pdf",
     "start_page": 9,
-    "end_page": 516
+    "end_page": 516,
+    "crop": {
+      "top": 12,
+      "bottom": 5
+    }
   },
   "Pravachan_Sudha_Part_5_H": {
     "file_url": "https://vitragvani.com/uploads/pdfs/C/Pravachan_Sudha_Part-5_H.pdf",
     "start_page": 8,
-    "end_page": 516
+    "end_page": 516,
+    "crop": {
+      "top": 16,
+      "bottom": 5
+    }
   },
   "Pravachan_Sudha_Part_6_H": {
     "file_url": "https://vitragvani.com/uploads/pdfs/C/Pravachan_Sudha_Part-6_H.pdf",
     "start_page": 8,
-    "end_page": 545
+    "end_page": 545,
+    "crop": {
+      "top": 16,
+      "bottom": 5
+    }
   },
   "Pravachan_Sudha_Part_7_H": {
     "file_url": "https://vitragvani.com/uploads/pdfs/C/Pravachan_Sudha_Part-7_H.pdf",
     "start_page": 8,
-    "end_page": 339
+    "end_page": 339,
+    "crop": {
+      "top": 16,
+      "bottom": 5
+    }
   },
   "Pravachan_Sudha_Part_8_H": {
     "file_url": "https://vitragvani.com/uploads/pdfs/C/Pravachan_Sudha_Part-8_H.pdf",
     "start_page": 8,
-    "end_page": 375
+    "end_page": 375,
+    "crop": {
+      "top": 16,
+      "bottom": 5
+    }
   },
   "Pravachan_Sudha_Part_9_H": {
     "file_url": "https://vitragvani.com/uploads/pdfs/C/Pravachan_Sudha_Part-9_H.pdf",
     "start_page": 10,
-    "end_page": 413
+    "end_page": 413,
+    "crop": {
+      "top": 16,
+      "bottom": 5
+    }
   },
   "Pravachan_Sudha_Part_10_H": {
     "file_url": "https://vitragvani.com/uploads/pdfs/C/Pravachan_Sudha_Part-10_H.pdf",
     "start_page": 9,
-    "end_page": 520
+    "end_page": 520,
+    "crop": {
+      "top": 16,
+      "bottom": 5
+    }
   },
   "Pravachan_Sudha_Part_11_H": {
     "file_url": "https://vitragvani.com/uploads/pdfs/C/Pravachan_Sudha_Part-11_H.pdf",
     "start_page": 10,
-    "end_page": 411
+    "end_page": 411,
+    "crop": {
+      "top": 10,
+      "bottom": 5
+    }
   }
 }

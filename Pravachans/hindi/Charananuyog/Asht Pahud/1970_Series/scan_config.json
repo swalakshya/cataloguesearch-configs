@@ -9,7 +9,11 @@
     ],
     "header_prefix": [
       "^.{0,8}\\s*अष्टपाहुड़.{0,3}\\s+.{0,3}प्रवचन\\s+\\(?भाग[\\s-]?\\s?[०-९]+\\)"
-    ]
+    ],
+    "crop": {
+      "top": 16,
+      "bottom": 4
+    }
   },
   "Asht_Pahud_Pravachan_Part-1_H": {
     "file_url": "https://vitragvani.com/uploads/pdfs/C/Ashthpahud_Pravchan_Part-1_H.pdf",

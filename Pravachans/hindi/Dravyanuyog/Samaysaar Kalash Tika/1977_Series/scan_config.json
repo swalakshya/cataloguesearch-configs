@@ -9,7 +9,11 @@
     "header_prefix": [
       "^.{0,5}कलश.{0,20}[०-९]{0,4}",
       "^.{0,5}श्लोक.{0,20}[०-९]{0,4}"
-    ]
+    ],
+    "crop": {
+      "top": 15,
+      "bottom": 5
+    }
   },
   "Kalash_Tika_Pravachan_Part_02_H": {
     "file_url": "https://vitragvani.com/uploads/pdfs/C/Kalash_Tika_Pravachan_Part_02_H.pdf",
