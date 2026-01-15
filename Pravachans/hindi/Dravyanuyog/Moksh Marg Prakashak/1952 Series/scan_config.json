@@ -1,0 +1,40 @@
+{
+    "default": {
+        "header_regex": [],
+        "chunk_strategy": "paragraph",
+        "psm": 3,
+        "ignore_bookmarks": true
+    },
+    "Mokshmarg_Prakashak_Pravachan_Part-01_H": {
+        "file_url": "https://vitragvani.com/uploads/pdfs/C/Mokshmarg_Prakashak_Pravachan_Part-01_H.pdf",
+        "start_page": 17,
+        "end_page": 452,
+        "crop": {
+            "top": 7
+        }
+    },
+    "Mokshmarg_Prakashak_Pravachan_Part-02_H": {
+        "file_url": "https://vitragvani.com/uploads/pdfs/C/Mokshmarg_Prakashak_Pravachan_Part-02_H.pdf",
+        "start_page": 17,
+        "end_page": 285,
+        "crop": {
+            "top": 7
+        }
+    },
+    "Mokshmarg_Prakashak_Pravachan_Part-03_H": {
+        "file_url": "https://vitragvani.com/uploads/pdfs/C/Mokshmarg_Prakashak_Pravachan_Part-03_H.pdf",
+        "start_page": 18,
+        "end_page": 565,
+        "crop": {
+            "top": 7
+        }
+    },
+    "Mokshmarg_Prakashak_Pravachan_Part-04_H": {
+        "file_url": "https://vitragvani.com/uploads/pdfs/C/Mokshmarg_Prakashak_Pravachan_Part-04_H.pdf",
+        "start_page": 32,
+        "end_page": 389,
+        "crop": {
+            "top": 12
+        }
+    }
+}
