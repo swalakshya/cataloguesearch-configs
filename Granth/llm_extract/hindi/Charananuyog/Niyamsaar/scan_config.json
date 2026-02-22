@@ -1,0 +1,19 @@
+{
+    "default": {
+        "crop": {
+            "top": 16,
+            "bottom": 9
+        },
+        "ocr_engine": "llm",
+        "verses": [
+            "prakrit_verse",
+            "hindi_verse",
+            "sanskrit_verse"
+        ]
+    },
+    "Niyamsaar": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/Niyamsar_Hi.pdf",
+        "start_page": 28,
+        "end_page": 402
+    }
+}
