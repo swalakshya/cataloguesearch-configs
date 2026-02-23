@@ -1,0 +1,19 @@
+{
+    "default": {
+        "crop": {
+            "top": 7,
+            "bottom": 4
+        },
+        "ocr_engine": "llm",
+        "verses": [
+            "prakrit_verse",
+            "hindi_verse",
+            "sanskrit_verse"
+        ]
+    },
+    "Panchastikaya": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/punchaastikaaisangrah_hin_txt.pdf",
+        "start_page": 30,
+        "end_page": 293
+    }
+}
