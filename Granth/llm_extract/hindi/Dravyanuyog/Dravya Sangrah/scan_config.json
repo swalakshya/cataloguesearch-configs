@@ -1,0 +1,19 @@
+{
+    "default": {
+        "crop": {
+            "top": 7,
+            "bottom": 3
+        },
+        "ocr_engine": "llm",
+        "verses": [
+            "hindi_verse",
+            "prakrit_verse",
+            "sanskrit_verse"
+        ]
+    },
+    "BruhadDravyaSangrah": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/Bruhad_Dravya_Sangrah_H.pdf",
+        "start_page": 15,
+        "end_page": 285
+    }
+}

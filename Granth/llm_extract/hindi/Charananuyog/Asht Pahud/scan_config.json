@@ -1,0 +1,67 @@
+{
+    "default": {
+        "crop": {
+            "top": 14,
+            "bottom": 5
+        },
+        "ocr_engine": "llm",
+        "verses": [
+            "hindi_verse",
+            "prakrit_verse",
+            "sanskrit_verse"
+        ]
+    },
+    "AshtPahud": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/Ashtpahud_H.PDF",
+        "sub_sections": [
+            {
+                "field": "Pahud",
+                "name": "Darshan Pahud",
+                "start_page": 39,
+                "end_page": 72
+            },
+            {
+                "field": "Pahud",
+                "name": "Sutra Pahud",
+                "start_page": 73,
+                "end_page": 97
+            },
+            {
+                "field": "Pahud",
+                "name": "Charitra Pahud",
+                "start_page": 98,
+                "end_page": 125
+            },
+            {
+                "field": "Pahud",
+                "name": "Bodh Pahud",
+                "start_page": 126,
+                "end_page": 167
+            },
+            {
+                "field": "Pahud",
+                "name": "Bhav Pahud",
+                "start_page": 168,
+                "end_page": 275
+            },
+            {
+                "field": "Pahud",
+                "name": "Moksha Pahud",
+                "start_page": 276,
+                "end_page": 343
+            },
+            {
+                "field": "Pahud",
+                "name": "Ling Pahud",
+                "start_page": 344,
+                "end_page": 357
+            },
+            {
+                "field": "Pahud",
+                "name": "Sheel Pahud",
+                "start_page": 358,
+                "end_page": 385
+            }
+        ]
+    }
+}
