@@ -1,0 +1,29 @@
+{
+    "default": {
+        "crop": {
+            "top": 16,
+            "bottom": 8
+        },
+        "ocr_engine": "llm",
+        "verses": [
+            "hindi_verse"
+        ]
+    },
+    "Moksh Marg Prakashak": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/B/Mokshmarg_Prakashak_HI.pdf",
+        "sub_sections": [
+            {
+                "field": "Adhyaya",
+                "name": "Parmarth Vachanika",
+                "start_page": 368,
+                "end_page": 373
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Nimitt Upadan ki Chitthi",
+                "start_page": 374,
+                "end_page": 377
+            }
+        ]
+    }
+}

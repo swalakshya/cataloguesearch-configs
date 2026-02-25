@@ -1,0 +1,83 @@
+{
+    "default": {
+        "crop": {
+            "top": 16,
+            "bottom": 8
+        },
+        "ocr_engine": "llm",
+        "verses": [
+            "hindi_verse"
+        ]
+    },
+    "Moksh Marg Prakashak": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/B/Mokshmarg_Prakashak_HI.pdf",
+        "sub_sections": [
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 1",
+                "start_page": 19,
+                "end_page": 38
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 2",
+                "start_page": 39,
+                "end_page": 62
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 3",
+                "start_page": 63,
+                "end_page": 93
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 4",
+                "start_page": 94,
+                "end_page": 112
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 5",
+                "start_page": 113,
+                "end_page": 185
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 6",
+                "start_page": 186,
+                "end_page": 210
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 7",
+                "start_page": 211,
+                "end_page": 285
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 8",
+                "start_page": 286,
+                "end_page": 322
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 9",
+                "start_page": 323,
+                "end_page": 357
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Samadhimaran Swaroop",
+                "start_page": 358,
+                "end_page": 358
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Rahasyapurn Chitthi",
+                "start_page": 359,
+                "end_page": 367
+            }
+        ]
+    }
+}

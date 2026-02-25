@@ -1,0 +1,19 @@
+{
+    "default": {
+        "crop": {
+            "top": 16,
+            "bottom": 4
+        },
+        "ocr_engine": "llm",
+        "verses": [
+            "prakrit_verse",
+            "hindi_verse",
+            "sanskrit_verse"
+        ]
+    },
+    "Ishtopadesh": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/Ishtopdesh_H.pdf",
+        "start_page": 25,
+        "end_page": 141
+    }
+}
