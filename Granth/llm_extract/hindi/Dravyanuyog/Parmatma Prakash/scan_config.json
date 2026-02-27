@@ -1,0 +1,37 @@
+{
+    "default": {
+        "crop": {
+            "top": 7,
+            "bottom": 5
+        },
+        "ocr_engine": "llm",
+        "verses": [
+            "hindi_verse",
+            "sanskrit_verse",
+            "prakrit_verse"
+        ]
+    },
+    "ParmatmaPrakash": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/parmatmaprakash_hin_scn.pdf",
+        "sub_sections": [
+            {
+                "field": "Adhikar",
+                "name": "TrividhAtmaAdhikar",
+                "start_page": 53,
+                "end_page": 222
+            },
+            {
+                "field": "Adhikar",
+                "name": "DwitiyaMahaAdhikar",
+                "start_page": 223,
+                "end_page": 387
+            },
+            {
+                "field": "Adhikar",
+                "name": "ChulikaAdhikar",
+                "start_page": 388,
+                "end_page": 522
+            }
+        ]
+    }
+}

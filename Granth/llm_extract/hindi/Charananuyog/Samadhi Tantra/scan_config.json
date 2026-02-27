@@ -1,0 +1,18 @@
+{
+    "default": {
+        "crop": {
+            "top": 16,
+            "bottom": 5
+        },
+        "ocr_engine": "llm",
+        "verses": [
+            "hindi_verse",
+            "sanskrit_verse"
+        ]
+    },
+    "SamadhiTantra": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/Samadhitantra_H.pdf",
+        "start_page": 27,
+        "end_page": 221
+    }
+}
