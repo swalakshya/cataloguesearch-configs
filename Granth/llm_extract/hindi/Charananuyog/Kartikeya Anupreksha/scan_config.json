@@ -1,0 +1,103 @@
+{
+  "default": {
+    "crop": {
+      "top": 17,
+      "bottom": 5
+    },
+    "ocr_engine": "llm",
+    "verses": [
+      "hindi_verse",
+      "prakrit_verse",
+      "sanskrit_verse"
+    ]
+  },
+  "KartikeyaAnupreksha": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/Kartikeyanupreksha_H.pdf",
+    "sub_sections": [
+      {
+        "field": "Anupreksha",
+        "name": "Mangalacharan",
+        "start_page": 35,
+        "end_page": 38
+      },
+      {
+        "field": "Anupreksha",
+        "name": "Anitya Anupreksha",
+        "start_page": 39,
+        "end_page": 48
+      },
+      {
+        "field": "Anupreksha",
+        "name": "Asharan Anupreksha",
+        "start_page": 49,
+        "end_page": 53
+      },
+      {
+        "field": "Anupreksha",
+        "name": "Sansar Anupreksha",
+        "start_page": 54,
+        "end_page": 75
+      },
+      {
+        "field": "Anupreksha",
+        "name": "Ekatva Anupreksha",
+        "start_page": 76,
+        "end_page": 79
+      },
+      {
+        "field": "Anupreksha",
+        "name": "Anyatva Anupreksha",
+        "start_page": 80,
+        "end_page": 81
+      },
+      {
+        "field": "Anupreksha",
+        "name": "Asuchi Anupreksha",
+        "start_page": 82,
+        "end_page": 84
+      },
+      {
+        "field": "Anupreksha",
+        "name": "Aasrav Anupreksha",
+        "start_page": 85,
+        "end_page": 88
+      },
+      {
+        "field": "Anupreksha",
+        "name": "Samvar Anupreksha",
+        "start_page": 89,
+        "end_page": 91
+      },
+      {
+        "field": "Anupreksha",
+        "name": "Nirjara Anupreksha",
+        "start_page": 92,
+        "end_page": 98
+      },
+      {
+        "field": "Anupreksha",
+        "name": "Lok Anupreksha",
+        "start_page": 99,
+        "end_page": 186
+      },
+      {
+        "field": "Anupreksha",
+        "name": "Bodhi Durlabh Anupreksha",
+        "start_page": 187,
+        "end_page": 194
+      },
+      {
+        "field": "Anupreksha",
+        "name": "Dharm Anupreksha",
+        "start_page": 195,
+        "end_page": 279
+      },
+      {
+        "field": "Anupreksha",
+        "name": "Dwadash Tap",
+        "start_page": 280,
+        "end_page": 312
+      }
+    ]
+  }
+}

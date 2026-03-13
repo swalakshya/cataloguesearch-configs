@@ -1,0 +1,17 @@
+{
+  "default": {
+    "crop": {
+      "top": 9,
+      "bottom": 5
+    },
+    "ocr_engine": "llm",
+    "verses": [
+      "sanskrit_verse"
+    ]
+  },
+  "SamaysaarKalashTika": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/samaysaarkalash_hin_txt.pdf",
+    "start_page": 32,
+    "end_page": 283
+  }
+}
