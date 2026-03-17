@@ -1,0 +1,70 @@
+{
+    "default": {
+        "crop": {
+            "top": 9,
+            "bottom": 4
+        },
+        "ocr_engine": "llm",
+        "verses": [
+            "hindi_verse"
+        ],
+        "multi_page": true,
+        "split_percentage": 50
+    },
+    "JainSiddhantPraveshika": {
+        "file_url": "https://vitragelibrary.org/documents/default.aspx?f=shastra/pdf/Shree%20Jain%20Siddhant%20Praveshika.pdf",
+        "qa_merge": false,
+        "book_start_page": 17,
+        "book_start_side": "right",
+        "sub_sections": [
+            {
+                "field": "Adhyaya",
+                "name": "Pratham Adhyaya - Dravya Gun Paryay",
+                "start_page": 18,
+                "start_side": "right",
+                "end_page": 30,
+                "end_side": "left"
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Dwitiya Adhyaya - Karma ka Swaroop",
+                "start_page": 30,
+                "start_side": "right",
+                "end_page": 51,
+                "end_side": "left"
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Trutiya Adhyaya - Jeev ki Khoj",
+                "start_page": 51,
+                "start_side": "right",
+                "end_page": 64,
+                "end_side": "left"
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Chaturtha Adhyaya - Mukti ka Sopaan",
+                "start_page": 64,
+                "start_side": "right",
+                "end_page": 79,
+                "end_side": "left"
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Pancham Adhyaya - Adhigam ka Upay",
+                "start_page": 79,
+                "start_side": "right",
+                "end_page": 88,
+                "end_side": "right"
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Granthkarta ka Antim Vaktavya",
+                "start_page": 89,
+                "start_side": "left",
+                "end_page": 90,
+                "end_side": "left"
+            }
+        ]
+    }
+}
