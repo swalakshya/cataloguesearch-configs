@@ -1,0 +1,14 @@
+{
+    "default": {
+        "crop": {
+            "top": 9,
+            "bottom": 2
+        },
+        "ocr_engine": "llm"
+    },
+    "Shakahaar": {
+        "file_url": "https://ptst.in/snatak/admin/docs/files_suchipatra/128.Shaakahaar.pdf",
+        "start_page": 7,
+        "end_page": 26
+    }
+}

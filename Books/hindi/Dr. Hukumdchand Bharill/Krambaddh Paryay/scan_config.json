@@ -1,0 +1,15 @@
+{
+    "default": {
+        "crop": {
+            "top": 8,
+            "bottom": 3
+        },
+        "ocr_engine": "llm"
+    },
+    "KrambaddhParyay": {
+        "file_url": "https://ptst.in/snatak/admin/docs/files_suchipatra/100.%20Krambaddh%20Pariyay.pdf",
+        "qa_merge": false,
+        "start_page": 19,
+        "end_page": 133
+    }
+}
