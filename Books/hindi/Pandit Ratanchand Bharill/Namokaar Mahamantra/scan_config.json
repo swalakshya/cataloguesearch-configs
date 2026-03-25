@@ -1,0 +1,123 @@
+{
+    "default": {
+        "crop": {
+            "top": 9,
+            "bottom": 3
+        },
+        "ocr_engine": "llm"
+    },
+    "NamokaarMantra": {
+        "file_url": "https://ptst.in/snatak/admin/docs/files_suchipatra/172.%20Namokar%20Mahamantra%20-%20Ek%20Anushilan.pdf",
+        "qa_merge": false,
+        "sub_sections": [
+            {
+                "field": "Adhyaya",
+                "name": "Mangalacharan",
+                "start_page": 10,
+                "end_page": 13
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Arihant Parmeshthi",
+                "start_page": 14,
+                "end_page": 25
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Siddh Parmeshthi",
+                "start_page": 26,
+                "end_page": 28
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Acharya Parmeshthi",
+                "start_page": 29,
+                "end_page": 33
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Upadhyay Parmeshthi",
+                "start_page": 34,
+                "end_page": 36
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Sadhu Parmeshthi",
+                "start_page": 37,
+                "end_page": 43
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Samanya Sadhu ka Swaroop",
+                "start_page": 44,
+                "end_page": 48
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Nirgranth Muni",
+                "start_page": 49,
+                "end_page": 53
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Chattari Mangal",
+                "start_page": 54,
+                "end_page": 59
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Mahatmya",
+                "start_page": 60,
+                "end_page": 65
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Anaadi ya Aadi",
+                "start_page": 66,
+                "end_page": 67
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Padkram",
+                "start_page": 68,
+                "end_page": 71
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Shabd Shakti",
+                "start_page": 72,
+                "end_page": 74
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Manorath Purti",
+                "start_page": 75,
+                "end_page": 76
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Paath Bhed",
+                "start_page": 77,
+                "end_page": 77
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Dravya Shrut",
+                "start_page": 78,
+                "end_page": 79
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Upsanhaar",
+                "start_page": 80,
+                "end_page": 81
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Kathayein",
+                "start_page": 82,
+                "end_page": 88
+            }
+        ]
+    }
+}

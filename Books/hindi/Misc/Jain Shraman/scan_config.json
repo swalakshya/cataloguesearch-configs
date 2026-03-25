@@ -1,0 +1,53 @@
+{
+    "default": {
+        "crop": {
+            "top": 15,
+            "bottom": 8,
+            "left": 6,
+            "right": 6
+        },
+        "ocr_engine": "llm",
+        "multi_page": true,
+        "split_percentage": 50
+    },
+    "JainShraman": {
+        "file_url": "https://storage.googleapis.com/jain-granths/jain-shraman.pdf",
+        "qa_merge": false,
+        "book_start_page": 14,
+        "book_start_side": "right",
+        "sub_sections": [
+            {
+                "field": "Adhyaya",
+                "name": "Pratham Adhyaya — Shraman Vichaardhara ki Prashthbumi",
+                "start_page": 14,
+                "start_side": "right",
+                "end_page": 50,
+                "end_side": "left"
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Dwitiya Adhyaya — Sraman Dharm ka Swaroop",
+                "start_page": 53,
+                "start_side": "right",
+                "end_page": 102,
+                "end_side": "right"
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Tritiya Adhyaya — Jain Shraman ki Achar Sanhita",
+                "start_page": 107,
+                "start_side": "right",
+                "end_page": 171,
+                "end_side": "left"
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Chaturtha Adhyaya — Jain Shraman ke Bhed Prabhed",
+                "start_page": 177,
+                "start_side": "right",
+                "end_page": 193,
+                "end_side": "left"
+            }
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "default": {
+    "crop": {
+      "top": 6,
+      "bottom": 6,
+      "left": 15,
+      "right": 15
+    },
+    "ocr_engine": "llm"
+  },
+  "ShalakshaPurush_Part1": {
+    "file_url": "https://ptst.in/snatak/admin/docs/files_suchipatra/166.SalakaPurushPart1.pdf",
+    "start_page":8,
+    "end_page":277
+  },
+  "ShalakshaPurush_Part2": {
+    "file_url": "https://ptst.in/snatak/admin/docs/files_suchipatra/167.SalakaPurushPart2.pdf",
+    "start_page": 9,
+    "end_page": 384
+  }
+}

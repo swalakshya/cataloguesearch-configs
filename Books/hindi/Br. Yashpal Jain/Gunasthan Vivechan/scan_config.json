@@ -1,0 +1,21 @@
+{
+  "default": {
+    "crop": {
+      "top": 9,
+      "bottom": 2
+    },
+    "ocr_engine": "llm",
+    "multi_page": true,
+    "split_percentage": 50
+  },
+  "GunasthanVivechan": {
+    "file_url": "https://ptst.in/snatak/admin/docs/files_suchipatra/190.GunsthanVivechan.pdf",
+    "qa_merge": false,
+    "book_start_page": 5,
+    "book_start_side": "right",
+    "start_page": 5,
+    "start_side": "right",
+    "end_page": 140,
+    "end_side": "right"
+  }
+}
