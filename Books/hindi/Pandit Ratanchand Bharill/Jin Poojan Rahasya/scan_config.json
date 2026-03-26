@@ -1,0 +1,15 @@
+{
+    "default": {
+        "crop": {
+            "top": 3,
+            "bottom": 10
+        },
+        "ocr_engine": "llm"
+    },
+    "JinPoojanRahasya": {
+        "file_url": "https://ptst.in/snatak/admin/docs/files_suchipatra/324..JinendraArchana.pdf",
+        "qa_merge": "false",
+        "start_page": 9,
+        "end_page": 46
+    }
+}
