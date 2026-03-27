@@ -1,0 +1,15 @@
+{
+    "default": {
+        "crop": {
+            "top": 18,
+            "bottom": 10,
+            "left": 15,
+            "right": 15
+        }
+    },
+    "KundkundDev": {
+        "file_url": "https://vitragelibrary.org/documents/default.aspx?f=shastra/pdf/acharya-kundkund-dev-hin-2237.pdf",
+        "start_page": 9,
+        "end_page": 125
+    }
+}
