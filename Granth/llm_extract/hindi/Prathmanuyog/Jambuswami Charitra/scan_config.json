@@ -1,0 +1,15 @@
+{
+    "default": {
+        "crop": {
+            "top": 18,
+            "bottom": 10,
+            "left": 10,
+            "right": 10
+        }
+    },
+    "JambuSwamiChatitra": {
+        "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/jambu-swami-charitra-hin-2303.pdf",
+        "start_page": 6,
+        "end_page": 204
+    }
+}
