@@ -1,0 +1,13 @@
+{
+    "default": {
+        "crop": {
+            "top": 9,
+            "bottom": 3
+        }
+    },
+    "KarmchakraSeSiddhchakra": {
+        "file_url": "https://ptst.in/snatak/admin/docs/files_suchipatra/Karmchakr%20Se%20Sidhchakra.pdf",
+        "start_page": 6,
+        "end_page": 193
+    }
+}

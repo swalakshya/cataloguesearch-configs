@@ -1,0 +1,83 @@
+{
+    "default": {
+        "crop": {
+            "top": 9,
+            "bottom": 3
+        }
+    },
+    "MokshmargSanjeevani": {
+        "file_url": "https://ptst.in/snatak/admin/docs/files_suchipatra/Mokshmarg%20Sanjivani.pdf",
+        "sub_sections": [
+            {
+                "field": "Adhyaya",
+                "name": "Acharyakalp Pandit Todarmal — Ek Parichary",
+                "start_page": 6,
+                "end_page": 8
+
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Mokshmarg Prakashak — Vishayvastu",
+                "start_page": 9,
+                "end_page": 10
+
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Pratham Adhyaya ka Saar",
+                "start_page": 11,
+                "end_page": 18
+
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Dwitiya Adhyaya ka Saar",
+                "start_page": 19,
+                "end_page": 32
+
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Trutiya Adhyaya ka Saar",
+                "start_page": 33,
+                "end_page": 46
+
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Chaturtha Adhyaya ka Saar",
+                "start_page": 47,
+                "end_page": 65
+
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Chathe Adhyaya ka Saar",
+                "start_page": 66,
+                "end_page": 81
+
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Saatve Adhyaya ka Saar",
+                "start_page": 82,
+                "end_page": 113
+
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Aathve Adhyaya ka Saar",
+                "start_page": 114,
+                "end_page": 126
+
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Navam Adhyaya ka Saar",
+                "start_page": 127,
+                "end_page": 144
+
+            }
+        ]
+    }
+}
