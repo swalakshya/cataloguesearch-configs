@@ -1,7 +1,6 @@
 {
     "default": {
         "header_regex": [],
-        "chunk_strategy": "paragraph",
         "psm": 3,
         "ignore_bookmarks": true
     },

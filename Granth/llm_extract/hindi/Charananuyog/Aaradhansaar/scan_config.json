@@ -1,0 +1,15 @@
+{
+    "default": {
+        "crop": {
+            "top": 16,
+            "bottom": 5
+        },
+        "ocr_engine": "llm"
+    },
+    "Aaradhansar": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/Aaradhanasar_H.pdf",
+        "qa_merge": false,
+        "start_page": 25,
+        "end_page": 243
+    }
+}
