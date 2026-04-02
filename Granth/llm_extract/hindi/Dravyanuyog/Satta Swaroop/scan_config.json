@@ -1,0 +1,19 @@
+{
+    "default": {
+        "crop": {
+            "top": 9
+        },
+        "multi_page": true,
+        "split_percentage": 50
+    },
+    "SattaSwaroop": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/B/Satta_Swaroop_H.pdf",
+        "qa_merge": false,
+        "book_start_page": 8,
+        "book_start_side": "left",
+        "start_page": 8,
+        "start_side": "left",
+        "end_page": 66,
+        "end_side": "left"
+    }
+}

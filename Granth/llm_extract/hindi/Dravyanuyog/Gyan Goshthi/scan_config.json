@@ -1,0 +1,25 @@
+{
+    "default": {
+        "crop": {
+            "top": 16,
+            "bottom": 2
+        },
+        "ocr_engine": "llm",
+        "qa_merge": false,
+        "header_regex": [
+            "^\\(\\d+\\)$",
+            "^\\(आत्मधर्म.{0,60}\\)$"
+        ],
+        "strip_regex": [
+            ["।\\s*\\d+", "।"],
+            ["!\\s*\\d+", "!"],
+            ["\\?\\s*\\d+", "?"],
+            ["\\(आत्मधर्म.{0,60}\\)", ""]
+        ]
+    },
+    "GyanGoshthi": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Gyangoshti_Part-1_H.pdf",
+        "start_page": 7,
+        "end_page": 339
+    }
+}
