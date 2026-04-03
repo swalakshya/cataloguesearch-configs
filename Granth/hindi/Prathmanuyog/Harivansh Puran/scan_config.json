@@ -1,0 +1,410 @@
+{
+    "default": {
+        "crop": {
+            "top": 8,
+            "bottom": 3
+        },
+        "ocr_engine": "llm"
+    },
+    "HarivanshPuran": {
+        "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/Harivansh%20Puran.pdf",
+        "sub_sections": [
+            {
+                "field": "Sarg",
+                "name": "1st Sarg",
+                "start_page": 39,
+                "end_page": 49
+            },
+            {
+                "field": "Sarg",
+                "name": "2nd Sarg",
+                "start_page": 50,
+                "end_page": 61
+            },
+            {
+                "field": "Sarg",
+                "name": "3rd Sarg",
+                "start_page": 62,
+                "end_page": 79
+            },
+            {
+                "field": "Sarg",
+                "name": "4th Sarg",
+                "start_page": 80,
+                "end_page": 107
+            },
+            {
+                "field": "Sarg",
+                "name": "5th Sarg",
+                "start_page": 108,
+                "end_page": 158
+            },
+            {
+                "field": "Sarg",
+                "name": "6th Sarg",
+                "start_page": 159,
+                "end_page": 169
+            },
+            {
+                "field": "Sarg",
+                "name": "7th Sarg",
+                "start_page": 170,
+                "end_page": 183
+            },
+            {
+                "field": "Sarg",
+                "name": "8th Sarg",
+                "start_page": 184,
+                "end_page": 203
+            },
+            {
+                "field": "Sarg",
+                "name": "9th Sarg",
+                "start_page": 204,
+                "end_page": 222
+            },
+            {
+                "field": "Sarg",
+                "name": "10th Sarg",
+                "start_page": 223,
+                "end_page": 235
+            },
+            {
+                "field": "Sarg",
+                "name": "11th Sarg",
+                "start_page": 236,
+                "end_page": 246
+            },
+            {
+                "field": "Sarg",
+                "name": "12th Sarg",
+                "start_page": 247,
+                "end_page": 253
+            },
+            {
+                "field": "Sarg",
+                "name": "13th Sarg",
+                "start_page": 254,
+                "end_page": 256
+            },
+            {
+                "field": "Sarg",
+                "name": "14th Sarg",
+                "start_page": 257,
+                "end_page": 266
+            },
+            {
+                "field": "Sarg",
+                "name": "15th Sarg",
+                "start_page": 267,
+                "end_page": 274
+            },
+            {
+                "field": "Sarg",
+                "name": "16th Sarg",
+                "start_page": 275,
+                "end_page": 285
+            },
+            {
+                "field": "Sarg",
+                "name": "17th Sarg",
+                "start_page": 286,
+                "end_page": 299
+            },
+            {
+                "field": "Sarg",
+                "name": "18th Sarg",
+                "start_page": 300,
+                "end_page": 313
+            },
+            {
+                "field": "Sarg",
+                "name": "19th Sarg",
+                "start_page": 314,
+                "end_page": 335
+            },
+            {
+                "field": "Sarg",
+                "name": "20th Sarg",
+                "start_page": 336,
+                "end_page": 341
+            },
+            {
+                "field": "Sarg",
+                "name": "21st Sarg",
+                "start_page": 342,
+                "end_page": 356
+            },
+            {
+                "field": "Sarg",
+                "name": "22nd Sarg",
+                "start_page": 357,
+                "end_page": 368
+            },
+            {
+                "field": "Sarg",
+                "name": "23rd Sarg",
+                "start_page": 369,
+                "end_page": 381
+            },
+            {
+                "field": "Sarg",
+                "name": "24th Sarg",
+                "start_page": 382,
+                "end_page": 388
+            },
+            {
+                "field": "Sarg",
+                "name": "25th Sarg",
+                "start_page": 389,
+                "end_page": 394
+            },
+            {
+                "field": "Sarg",
+                "name": "26th Sarg",
+                "start_page": 395,
+                "end_page": 399
+            },
+            {
+                "field": "Sarg",
+                "name": "27th Sarg",
+                "start_page": 400,
+                "end_page": 410
+            },
+            {
+                "field": "Sarg",
+                "name": "28th Sarg",
+                "start_page": 411,
+                "end_page": 415
+            },
+            {
+                "field": "Sarg",
+                "name": "29th Sarg",
+                "start_page": 416,
+                "end_page": 421
+            },
+            {
+                "field": "Sarg",
+                "name": "30th Sarg",
+                "start_page": 422,
+                "end_page": 426
+            },
+            {
+                "field": "Sarg",
+                "name": "31st Sarg",
+                "start_page": 427,
+                "end_page": 437
+            },
+            {
+                "field": "Sarg",
+                "name": "32nd Sarg",
+                "start_page": 438,
+                "end_page": 441
+            },
+            {
+                "field": "Sarg",
+                "name": "33rd Sarg",
+                "start_page": 442,
+                "end_page": 456
+            },
+            {
+                "field": "Sarg",
+                "name": "34th Sarg",
+                "start_page": 457,
+                "end_page": 485
+            },
+            {
+                "field": "Sarg",
+                "name": "35th Sarg",
+                "start_page": 486,
+                "end_page": 496
+            },
+            {
+                "field": "Sarg",
+                "name": "36th Sarg",
+                "start_page": 497,
+                "end_page": 508
+            },
+            {
+                "field": "Sarg",
+                "name": "37th Sarg",
+                "start_page": 509,
+                "end_page": 515
+            },
+            {
+                "field": "Sarg",
+                "name": "38th Sarg",
+                "start_page": 516,
+                "end_page": 524
+            },
+            {
+                "field": "Sarg",
+                "name": "39th Sarg",
+                "start_page": 525,
+                "end_page": 531
+            },
+            {
+                "field": "Sarg",
+                "name": "40th Sarg",
+                "start_page": 532,
+                "end_page": 535
+            },
+            {
+                "field": "Sarg",
+                "name": "41st Sarg",
+                "start_page": 536,
+                "end_page": 541
+            },
+            {
+                "field": "Sarg",
+                "name": "42nd Sarg",
+                "start_page": 542,
+                "end_page": 551
+            },
+            {
+                "field": "Sarg",
+                "name": "43rd Sarg",
+                "start_page": 552,
+                "end_page": 570
+            },
+            {
+                "field": "Sarg",
+                "name": "44th Sarg",
+                "start_page": 571,
+                "end_page": 575
+            },
+            {
+                "field": "Sarg",
+                "name": "45th Sarg",
+                "start_page": 576,
+                "end_page": 588
+            },
+            {
+                "field": "Sarg",
+                "name": "46th Sarg",
+                "start_page": 589,
+                "end_page": 594
+            },
+            {
+                "field": "Sarg",
+                "name": "47th Sarg",
+                "start_page": 595,
+                "end_page": 606
+            },
+            {
+                "field": "Sarg",
+                "name": "48th Sarg",
+                "start_page": 607,
+                "end_page": 612
+            },
+            {
+                "field": "Sarg",
+                "name": "49th Sarg",
+                "start_page": 613,
+                "end_page": 620
+            },
+            {
+                "field": "Sarg",
+                "name": "50th Sarg",
+                "start_page": 621,
+                "end_page": 630
+            },
+            {
+                "field": "Sarg",
+                "name": "51st Sarg",
+                "start_page": 631,
+                "end_page": 634
+            },
+            {
+                "field": "Sarg",
+                "name": "52nd Sarg",
+                "start_page": 635,
+                "end_page": 641
+            },
+            {
+                "field": "Sarg",
+                "name": "53rd Sarg",
+                "start_page": 642,
+                "end_page": 646
+            },
+            {
+                "field": "Sarg",
+                "name": "54th Sarg",
+                "start_page": 647,
+                "end_page": 653
+            },
+            {
+                "field": "Sarg",
+                "name": "55th Sarg",
+                "start_page": 654,
+                "end_page": 672
+            },
+            {
+                "field": "Sarg",
+                "name": "56th Sarg",
+                "start_page": 673,
+                "end_page": 683
+            },
+            {
+                "field": "Sarg",
+                "name": "57th Sarg",
+                "start_page": 684,
+                "end_page": 697
+            },
+            {
+                "field": "Sarg",
+                "name": "58th Sarg",
+                "start_page": 698,
+                "end_page": 731
+            },
+            {
+                "field": "Sarg",
+                "name": "59th Sarg",
+                "start_page": 732,
+                "end_page": 743
+            },
+            {
+                "field": "Sarg",
+                "name": "60th Sarg",
+                "start_page": 744,
+                "end_page": 791
+            },
+            {
+                "field": "Sarg",
+                "name": "61st Sarg",
+                "start_page": 792,
+                "end_page": 800
+            },
+            {
+                "field": "Sarg",
+                "name": "62nd Sarg",
+                "start_page": 801,
+                "end_page": 806
+            },
+            {
+                "field": "Sarg",
+                "name": "63rd Sarg",
+                "start_page": 807,
+                "end_page": 821
+            },
+            {
+                "field": "Sarg",
+                "name": "64th Sarg",
+                "start_page": 822,
+                "end_page": 835
+            },
+            {
+                "field": "Sarg",
+                "name": "65th Sarg",
+                "start_page": 836,
+                "end_page": 841
+            },
+            {
+                "field": "Sarg",
+                "name": "66th Sarg",
+                "start_page": 842,
+                "end_page": 849
+            }
+        ]
+    }
+}
