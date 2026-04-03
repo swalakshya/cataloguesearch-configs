@@ -1,0 +1,43 @@
+{
+    "default": {
+        "crop": {
+            "top": 12,
+            "bottom": 7
+        }
+    },
+    "MoolMaBhool": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Mulme%20Bhul.pdf",
+        "sub_sections": [
+            {
+                "field": "Bhag",
+                "name": "Bhag 1",
+                "start_page": 11,
+                "end_page": 112
+            },
+            {
+                "field": "Bhag",
+                "name": "Bhag 2",
+                "start_page": 115,
+                "end_page": 129
+            },
+            {
+                "field": "Bhag",
+                "name": "Bhag 3",
+                "start_page": 131,
+                "end_page": 172
+            },
+            {
+                "field": "Bhag",
+                "name": "Bhag 4",
+                "start_page": 173,
+                "end_page": 175
+            },
+            {
+                "field": "Bhag",
+                "name": "Bhag 5",
+                "start_page": 176,
+                "end_page": 208
+            }
+        ]
+    }
+}
