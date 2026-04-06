@@ -1,0 +1,58 @@
+{
+    "default": {
+        "ocr_engine": "llm"
+    },
+    "JainSiddhantDarpan": {
+        "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/jain-siddhant-darpan-hin-2251.pdf",
+        "sub_sections": [
+            {
+                "field": "Adhikaar",
+                "name": "Pratham Adhikaar — Lakshan, Praman, Nay, Nikshep",
+                "start_page": 9,
+                "end_page": 34
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Dwitiya Adhikaar - Dravya Samanya",
+                "start_page": 35,
+                "end_page": 90
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Trutiya Adhikaar — Ajeev Dravya",
+                "start_page": 91,
+                "end_page": 102
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Chaturtha Adhikaar — Pudgal Dravya",
+                "start_page": 103,
+                "end_page": 112
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Pancham Adhikaar — Dravya and Adharma Dravya",
+                "start_page": 113,
+                "end_page": 118
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Chatta Adhikaar — Aakash Dravya",
+                "start_page": 119,
+                "end_page": 140
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Saptam Adhikaar — Kaal Dravya",
+                "start_page": 141,
+                "end_page": 150
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Ashtam Adhikaar — Srushti Kartratv Mimansa",
+                "start_page": 151,
+                "end_page": 170
+            }
+        ]
+    }
+}
