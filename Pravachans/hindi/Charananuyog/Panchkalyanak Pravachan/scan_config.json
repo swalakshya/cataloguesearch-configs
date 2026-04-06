@@ -1,0 +1,13 @@
+{
+    "default": {
+        "crop": {
+            "top": 18,
+            "bottom": 10
+        }
+    },
+    "Panchkalyank_Pravachan_H": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Panchkalyank_Pravachan_H.pdf",
+        "start_page": 15,
+        "end_page": 293
+    }
+}
