@@ -1,23 +1,26 @@
 {
-    "default": {
-        "crop": {
-            "top": 16,
-            "bottom": 5
-        }
-    },
-    "Dhanya_Munidasha_1_Hin": {
-        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Dhanya_Munidasha_1_Hin.pdf",
-        "start_page": 16,
-        "end_page": 327
-    },
-    "Dhanya_Munidasha-02_H": {
-        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Dhanya_Munidasha-02_H.pdf",
-        "start_page": 17,
-        "end_page": 303
-    },
-    "Dhanya_Munidasha-03_H": {
-        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Dhanya_Munidasha-03_H.pdf",
-        "start_page": 17,
-        "end_page": 389
+  "default": {
+    "crop": {
+      "top": 16,
+      "bottom": 5
     }
+  },
+  "Dhanya_Munidasha_1_Hin": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Dhanya_Munidasha_1_Hin.pdf",
+    "volume": 1,
+    "start_page": 16,
+    "end_page": 327
+  },
+  "Dhanya_Munidasha-02_H": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Dhanya_Munidasha-02_H.pdf",
+    "volume": 2,
+    "start_page": 17,
+    "end_page": 303
+  },
+  "Dhanya_Munidasha-03_H": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Dhanya_Munidasha-03_H.pdf",
+    "volume": 3,
+    "start_page": 17,
+    "end_page": 389
+  }
 }

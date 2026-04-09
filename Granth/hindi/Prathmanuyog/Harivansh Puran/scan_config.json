@@ -4,7 +4,8 @@
             "top": 8,
             "bottom": 3
         },
-        "ocr_engine": "llm"
+        "ocr_engine": "llm",
+        "ignore_bookmarks": true
     },
     "HarivanshPuran": {
         "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/Harivansh%20Puran.pdf",

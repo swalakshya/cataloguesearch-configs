@@ -14,13 +14,14 @@
   },
   "Yogsaar_Pravachan_Part-01_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Yogsaar_Pravachan_Part-01_H.pdf",
+    "volume": 1,
     "start_page": 14,
     "end_page": 501
   },
   "Yogsaar_Pravachan_Part-02_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Yogsaar_Pravachan_Part-02_H.pdf",
+    "volume": 2,
     "start_page": 14,
     "end_page": 432
-
   }
 }

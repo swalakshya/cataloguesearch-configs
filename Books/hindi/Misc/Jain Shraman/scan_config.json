@@ -8,7 +8,8 @@
         },
         "ocr_engine": "llm",
         "multi_page": true,
-        "split_percentage": 50
+        "split_percentage": 50,
+        "ignore_bookmarks": true
     },
     "JainShraman": {
         "file_url": "https://storage.googleapis.com/jain-granths/jain-shraman.pdf",

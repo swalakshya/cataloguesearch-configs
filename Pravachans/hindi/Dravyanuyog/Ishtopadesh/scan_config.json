@@ -15,13 +15,14 @@
   },
   "Ishtopadesh_Pravachan_Bhag-1_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Ishtopadesh_Pravachan_Bhag-1_H.pdf",
+    "volume": 1,
     "start_page": 18,
     "end_page": 567
   },
   "Ishtopadesh_Pravachan_Bhag-2_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Ishtopadesh_Pravachan_Bhag-2_H.pdf",
+    "volume": 2,
     "start_page": 18,
     "end_page": 531
-
   }
 }

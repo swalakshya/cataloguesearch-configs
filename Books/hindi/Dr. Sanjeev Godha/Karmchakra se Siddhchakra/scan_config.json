@@ -3,7 +3,8 @@
         "crop": {
             "top": 9,
             "bottom": 3
-        }
+        },
+        "ignore_bookmarks": true
     },
     "KarmchakraSeSiddhchakra": {
         "file_url": "https://ptst.in/snatak/admin/docs/files_suchipatra/Karmchakr%20Se%20Sidhchakra.pdf",

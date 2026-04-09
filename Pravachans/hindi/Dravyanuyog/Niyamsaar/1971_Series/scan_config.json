@@ -6,44 +6,47 @@
     },
     "header_regex": [
       "^.{0,80}प्रवचन-?[०-९]{0,4}$"
-    ],
-    "crop": {
-      "top": 16,
-      "bottom": 5
-    }
+    ]
   },
   "Niyamka_Saar_Part_1_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Niyamka%20Saar%20Part%201_H.pdf",
+    "volume": 1,
     "start_page": 18,
     "end_page": 550
   },
   "Niyamka_Saar_Part_2_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Niyamka%20Saar%20Part%202_H.pdf",
+    "volume": 2,
     "start_page": 18,
     "end_page": 585
   },
   "Niyamka_Saar_Part_3_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Niyamka%20Saar%20Part%203_H.pdf",
+    "volume": 3,
     "start_page": 18,
     "end_page": 609
   },
   "Niyamka_Saar_Part_4_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Niyamka%20Saar%20Part%204_H.pdf",
+    "volume": 4,
     "start_page": 18,
     "end_page": 393
   },
   "Niyamka_Saar_Part_5_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Niyamka%20Saar%20Part%205_H.pdf",
+    "volume": 5,
     "start_page": 18,
     "end_page": 429
   },
   "Niyamka_Saar_Part_6_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Niyamka%20Saar%20Part%206_H.pdf",
+    "volume": 6,
     "start_page": 18,
     "end_page": 397
   },
   "Niyamka_Saar_Part_7_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Niyamka%20Saar%20Part%207_H.pdf",
+    "volume": 7,
     "start_page": 17,
     "end_page": 328
   }

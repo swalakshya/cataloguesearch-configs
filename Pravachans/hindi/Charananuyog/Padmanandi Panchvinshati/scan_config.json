@@ -1,8 +1,6 @@
 {
   "default": {
-    "header_prefix": [
-
-    ],
+    "header_prefix": [],
     "header_regex": [
       "^.{0,15}स्त्रोत्र.{0,20}गाथा।{0,10}[०-९]{0,3}.{0,10}$",
       "^.{0,20}पंचविंशति.{0,10}प्रवचन.{0,10}भाग.{0,10}$",
@@ -18,16 +16,19 @@
   },
   "Padmanandi_Panchvinshanti_Pravachan_Bhag_1_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Padmanandi_Panchvinshanti_Pravachan_Bhag_1_H.pdf",
+    "volume": 1,
     "start_page": 13,
     "end_page": 399
   },
   "Padmanandi_Panchvinshanti_Pravachan_Part-2_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Padmanandi_Panchvinshanti_Pravachan_Part-2_H.pdf",
+    "volume": 2,
     "start_page": 15,
     "end_page": 480
   },
   "Padmanandi_Panchvinshanti_Pravachan_Bhag-3_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Padmanandi_Panchvinshanti_Pravachan_Bhag-3_H.pdf",
+    "volume": 3,
     "start_page": 15,
     "end_page": 493
   },

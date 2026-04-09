@@ -13,32 +13,43 @@
       "^.{0,60}[०-९]{3,4}.{0,50}प्रवचन[\\s-]?[०-९]{2,4}$"
     ],
     "typo_list": [
-      ["समाधिततन्त्र", "समाधितन्त्र"],
-      ["समाधितलन्त्र", "समाधितन्त्र"]
+      [
+        "समाधिततन्त्र",
+        "समाधितन्त्र"
+      ],
+      [
+        "समाधितलन्त्र",
+        "समाधितन्त्र"
+      ]
     ]
   },
   "Samadhitantra Pravachan Part-1_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samadhitantra%20Pravachan%20Part-1_H.pdf",
+    "volume": 1,
     "start_page": 18,
     "end_page": 265
   },
   "Samadhitantra Pravachan Part-2_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samadhitantra%20Pravachan%20Part-2_H.pdf",
+    "volume": 2,
     "start_page": 18,
     "end_page": 419
   },
   "Samadhitantra Pravachan Part-3_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samadhitantra%20Pravachan%20Part-3_H.pdf",
+    "volume": 3,
     "start_page": 18,
     "end_page": 412
   },
   "Samadhitantra Pravachan Part-4_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samadhitantra%20Pravachan%20Part-4_H.pdf",
+    "volume": 4,
     "start_page": 18,
     "end_page": 418
   },
   "Samadhitantra Pravachan Part-5_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samadhitantra%20Pravachan%20Part-5_H.pdf",
+    "volume": 5,
     "start_page": 18,
     "end_page": 490
   }

@@ -22,21 +22,25 @@
   },
   "PanchastikaySangrah_Pravachan_Part-01_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/PanchastikaySangrah_Pravachan_Part-01_H.pdf",
+    "volume": 1,
     "start_page": 14,
     "end_page": 638
   },
   "PanchastikaySangrah_Pravachan_Part-02_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/PanchastikaySangrah_Pravachan_Part-02_H.pdf",
+    "volume": 2,
     "start_page": 15,
     "end_page": 643
   },
   "PanchastikaySangrah_Pravachan_Part-03_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/PanchastikaySangrah_Pravachan_Part-03_H.pdf",
+    "volume": 3,
     "start_page": 15,
     "end_page": 714
   },
   "PanchastikaySangrah_Pravachan_Part-04_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/PanchastikaySangrah_Pravachan_Part-04_H.pdf",
+    "volume": 4,
     "start_page": 15,
     "end_page": 640
   }

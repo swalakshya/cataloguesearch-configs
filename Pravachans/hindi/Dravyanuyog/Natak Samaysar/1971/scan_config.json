@@ -15,31 +15,37 @@
   },
   "Nataksamaysaar_Pravachan_Part-1_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Nataksamaysaar_Pravachan_Part-1_H.pdf",
+    "volume": 1,
     "start_page": 19,
     "end_page": 666
   },
   "Nataksamaysaar_Pravachan_Part-2_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Nataksamaysaar_Pravachan_Part-2_H.pdf",
+    "volume": 2,
     "start_page": 17,
     "end_page": 692
   },
   "Nataksamaysaar_Pravachan_Part-3_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Nataksamaysaar_Pravachan_Part-3_H.pdf",
+    "volume": 3,
     "start_page": 18,
     "end_page": 641
   },
   "Nataksamaysaar_Pravachan_Part-4_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Nataksamaysaar_Pravachan_Part-4_H.pdf",
+    "volume": 4,
     "start_page": 18,
     "end_page": 685
   },
   "Nataksamaysaar_Pravachan_Part-5_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Nataksamaysaar_Pravachan_Part-5_H.pdf",
+    "volume": 5,
     "start_page": 18,
     "end_page": 665
   },
   "Nataksamaysaar_Pravachan_Part-6_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Nataksamaysaar_Pravachan_Part-6_H.pdf",
+    "volume": 6,
     "start_page": 18,
     "end_page": 703
   }

@@ -7,7 +7,8 @@
         "ocr_engine": "llm",
         "verses": [
             "hindi_verse"
-        ]
+        ],
+        "ignore_bookmarks": true
     },
     "Moksh Marg Prakashak": {
         "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/B/Mokshmarg_Prakashak_HI.pdf",

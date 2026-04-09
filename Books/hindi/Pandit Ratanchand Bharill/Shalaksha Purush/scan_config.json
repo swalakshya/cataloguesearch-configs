@@ -6,7 +6,8 @@
       "left": 15,
       "right": 15
     },
-    "ocr_engine": "llm"
+    "ocr_engine": "llm",
+    "ignore_bookmarks": true
   },
   "ShalakshaPurush_Part1": {
     "file_url": "https://ptst.in/snatak/admin/docs/files_suchipatra/166.SalakaPurushPart1.pdf",

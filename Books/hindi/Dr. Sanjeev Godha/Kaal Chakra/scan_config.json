@@ -6,7 +6,8 @@
         },
         "ocr_engine": "llm",
         "multi_page": true,
-        "split_percentage": 50
+        "split_percentage": 50,
+        "ignore_bookmarks": true
     },
     "KaalChakra": {
         "file_url": "https://ptst.in/snatak/admin/docs/files_suchipatra/251.%20KALCHAKRA.pdf",

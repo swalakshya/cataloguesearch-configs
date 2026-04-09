@@ -1,6 +1,7 @@
 {
     "default": {
-        "ocr_engine": "llm"
+        "ocr_engine": "llm",
+        "ignore_bookmarks": true
     },
     "JainSiddhantDarpan": {
         "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/jain-siddhant-darpan-hin-2251.pdf",

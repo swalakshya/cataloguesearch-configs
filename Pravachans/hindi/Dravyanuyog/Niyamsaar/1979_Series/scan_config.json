@@ -1,13 +1,13 @@
 {
   "default": {
     "header_regex": [
-        "^.{0,5}गाथा.{0,30}$",
-        "^.{0,5}कलश.{0,30}$",
-        "^प्रवचन\\s+नं\\.?.*$",
+      "^.{0,5}गाथा.{0,30}$",
+      "^.{0,5}कलश.{0,30}$",
+      "^प्रवचन\\s+नं\\.?.*$",
       "^.{0,5}कारण\\s*.?\\s*कार्य\\s*.?\\s*नियम(?:\\s+\\(?भाग\\s*-?\\s*[०-९]+\\s*\\)?)?(?:\\s+[०-९]+)*\\s*$",
-        "^प्रवचन-[०-९]+,?\\s*(?:(?:श्लोक|गाथा)-[०-९]+(?:(?:\\s+से)?\\s+[०-९]+)*,?\\s*)?.*?दिनांक\\s+[०-९]+(?:-[०-९]+){2}\\s*",
-        "^प्रवचन-[०-९]+$",
-        "^वी\\.?\\s+सं\\.?"
+      "^प्रवचन-[०-९]+,?\\s*(?:(?:श्लोक|गाथा)-[०-९]+(?:(?:\\s+से)?\\s+[०-९]+)*,?\\s*)?.*?दिनांक\\s+[०-९]+(?:-[०-९]+){2}\\s*",
+      "^प्रवचन-[०-९]+$",
+      "^वी\\.?\\s+सं\\.?"
     ],
     "header_prefix": [
       "^.{0,5}कारण\\s*.?\\s*कार्य\\s*.?\\s*नियम(?:\\s+\\(?भाग\\s*-?\\s*[०-९]+\\s*\\)?)?(?:\\s+[०-९]+)*\\s*",
@@ -25,36 +25,43 @@
   },
   "Karan_Karya_Niyam_Part_1_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Karan-karya_Niyam_Part-1_H.pdf",
+    "volume": 1,
     "start_page": 17,
     "end_page": 617
   },
   "Karan_Karya_Niyam_Part_2_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Karan-karya_Niyam_Part-2_H.pdf",
+    "volume": 2,
     "start_page": 17,
     "end_page": 455
   },
   "Karan_Karya_Niyam_Part_3_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Karan-karya_Niyam_Part-3_H.pdf",
+    "volume": 3,
     "start_page": 17,
     "end_page": 655
   },
   "Karan_Karya_Niyam_Part_4_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Karan_Karya_Niyam_Bhag_4_H.pdf",
+    "volume": 4,
     "start_page": 17,
     "end_page": 666
   },
   "Karan_Karya_Niyam_Part_5_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Karan_Karya_Niyam_Part_5_H.pdf",
+    "volume": 5,
     "start_page": 17,
     "end_page": 406
   },
   "Karan_Karya_Niyam_Part_6_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Karan_Karya_Niyam_Part-6_H.pdf",
+    "volume": 6,
     "start_page": 17,
     "end_page": 404
   },
   "Karan_Karya_Niyam_Part_7_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Karan-karya_Niyam_Part-7_H.pdf",
+    "volume": 7,
     "start_page": 17,
     "end_page": 518
   }

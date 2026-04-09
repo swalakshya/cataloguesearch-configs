@@ -20,6 +20,7 @@
   },
   "Samaysaar_Siddhi_Part-01H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Siddhi_Part-01H.pdf",
+    "volume": 1,
     "start_page": 19,
     "end_page": 698,
     "crop": {
@@ -29,43 +30,57 @@
   },
   "Samaysaar_Siddhi_Part-02H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Siddhi_Part-02H_Pu_Ut.pdf",
+    "volume": 2,
     "page_list": [
-      { "start": 20, "end":  509 },
-      {"start": 528, "end": 987}
+      {
+        "start": 20,
+        "end": 509
+      },
+      {
+        "start": 528,
+        "end": 987
+      }
     ]
   },
   "Samaysaar_Siddhi_Part-03H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Siddhi_Part-03H.pdf",
+    "volume": 3,
     "start_page": 20,
     "end_page": 552
   },
   "Samaysaar_Siddhi_Part-04H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Siddhi_Part-04H.pdf",
+    "volume": 4,
     "start_page": 19,
     "end_page": 749
   },
   "Samaysaar_Siddhi_Part-05H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Siddhi_Part-05H.pdf",
+    "volume": 5,
     "start_page": 20,
     "end_page": 779
   },
   "Samaysaar_Siddhi_Part-06H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Siddhi_Part-06H.pdf",
+    "volume": 6,
     "start_page": 20,
     "end_page": 723
   },
   "Samaysaar_Siddhi_Part-07H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Siddhi_Part-07H.pdf",
+    "volume": 7,
     "start_page": 18,
     "end_page": 729
   },
   "Samaysaar_Siddhi_Part-08H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Siddhi_Part-08H.pdf",
+    "volume": 8,
     "start_page": 18,
     "end_page": 760
   },
   "Samaysaar_Siddhi_Part-09H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Siddhi_Part-09H.pdf",
+    "volume": 9,
     "start_page": 18,
     "end_page": 665,
     "crop": {
@@ -75,6 +90,7 @@
   },
   "Samaysaar_Siddhi_Part-10H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Siddhi_Part-10H.pdf",
+    "volume": 10,
     "start_page": 18,
     "end_page": 763,
     "crop": {
@@ -84,6 +100,7 @@
   },
   "Samaysaar_Siddhi_Part-11H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Siddhi_Part-11H.pdf",
+    "volume": 11,
     "start_page": 18,
     "end_page": 729,
     "crop": {
@@ -93,6 +110,7 @@
   },
   "Samaysaar_Siddhi_Part-12H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Siddhi_Part-12H.pdf",
+    "volume": 12,
     "start_page": 18,
     "end_page": 691,
     "crop": {
@@ -102,6 +120,7 @@
   },
   "Samaysaar_Siddhi_Part-13H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Siddhi_Part-13H.pdf",
+    "volume": 13,
     "start_page": 17,
     "end_page": 288,
     "crop": {

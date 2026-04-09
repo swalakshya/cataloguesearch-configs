@@ -1,12 +1,9 @@
 {
   "default": {
-    "header_prefix": [
-
-    ],
+    "header_prefix": [],
     "header_regex": [
       "^.{0,10}સમયસાર વૈભવ.{0,5}ભાગ.{0,5}$",
       "^.{0,10}સમયસાર વૈભવ.{0,10}$"
-
     ],
     "crop": {
       "top": 10,
@@ -15,106 +12,127 @@
   },
   "Samaysaar_Vaibhav_Bhag-1G": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Vaibhav_Bhag-1G.pdf",
+    "volume": 1,
     "start_page": 14,
     "end_page": 436
   },
   "Samaysaar_Vaibhav_Bhag-2G": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Vaibhav_Bhag-2G.pdf",
+    "volume": 2,
     "start_page": 14,
     "end_page": 508
   },
   "Samaysaar_Vaibhav_Bhag-3G": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Vaibhav_Bhag-3G.pdf",
+    "volume": 3,
     "start_page": 14,
     "end_page": 434
   },
   "Samaysaar_Vaibhav_Bhag-4G": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Vaibhav_Bhag-4G.pdf",
+    "volume": 4,
     "start_page": 14,
     "end_page": 459
   },
   "Samaysaar_Vaibhav_Bhag-5G": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Vaibhav_Bhag-5G.pdf",
+    "volume": 5,
     "start_page": 14,
     "end_page": 439
   },
   "Samaysaar_Vaibhav_Bhag-6G": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Vaibhav_Bhag-6G.pdf",
+    "volume": 6,
     "start_page": 14,
     "end_page": 447
   },
   "Samaysaar_Vaibhav_Bhag-7G": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Vaibhav_Bhag-7G.pdf",
+    "volume": 7,
     "start_page": 14,
     "end_page": 404
   },
   "Samaysaar_Vaibhav_Bhag-8G": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Vaibhav_Bhag-8G.pdf",
+    "volume": 8,
     "start_page": 14,
     "end_page": 429
   },
   "Samaysaar_Vaibhav_Bhag-9G": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Vaibhav_Bhag-9G.pdf",
+    "volume": 9,
     "start_page": 14,
     "end_page": 470
   },
   "Samaysaar_Vaibhav_Bhag-10G": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Vaibhav_Bhag-10G.pdf",
+    "volume": 10,
     "start_page": 14,
     "end_page": 469
   },
   "Samaysaar_Vaibhav_Bhag-11G": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Vaibhav_Bhag-11G.pdf",
+    "volume": 11,
     "start_page": 14,
     "end_page": 455
   },
   "Samaysaar_Vaibhav_Bhag-12G": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Vaibhav_Bhag-12G.pdf",
+    "volume": 12,
     "start_page": 14,
     "end_page": 408
   },
   "Samaysaar_Vaibhav_Bhag-13G": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Vaibhav_Bhag-13G.pdf",
+    "volume": 13,
     "start_page": 14,
     "end_page": 455
   },
   "Samaysaar_Vaibhav_Bhag-14G": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Vaibhav_Bhag-14G.pdf",
+    "volume": 14,
     "start_page": 14,
     "end_page": 504
   },
   "Samaysaar_Vaibhav_Bhag-15G": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Vaibhav_Bhag-15G.pdf",
+    "volume": 15,
     "start_page": 14,
     "end_page": 466
   },
   "Samaysaar_Vaibhav_Bhag-16G": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Vaibhav_Bhag-16G.pdf",
+    "volume": 16,
     "start_page": 14,
     "end_page": 475
   },
   "Samaysaar_Vaibhav_Bhag-17G": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Vaibhav_Bhag-17G.pdf",
+    "volume": 17,
     "start_page": 14,
     "end_page": 474
   },
   "Samaysaar_Vaibhav_Bhag-18G": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Vaibhav_Bhag-18G.pdf",
+    "volume": 18,
     "start_page": 14,
     "end_page": 513
   },
   "Samaysaar_Vaibhav_Bhag-19G": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Vaibhav_Bhag-19G.pdf",
+    "volume": 19,
     "start_page": 14,
     "end_page": 523
   },
   "Samaysaar_Vaibhav_Bhag-20G": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Vaibhav_Bhag-20G.pdf",
+    "volume": 20,
     "start_page": 14,
     "end_page": 247
   },
   "Samaysaar_Vaibhav_Bhag-21G": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Samaysaar_Vaibhav_Bhag-21G.pdf",
+    "volume": 21,
     "start_page": 14,
     "end_page": 491
   }

@@ -5,7 +5,8 @@
             "bottom": 10,
             "left": 10,
             "right": 10
-        }
+        },
+        "ignore_bookmarks": true
     },
     "JambuSwamiChatitra": {
         "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/jambu-swami-charitra-hin-2303.pdf",

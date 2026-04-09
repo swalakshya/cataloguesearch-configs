@@ -10,11 +10,13 @@
   },
   "Kartikeyaanuprekshaa_Pravachan_part_1_hin": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Kartikeyaanuprekshaa_Pravachan_part_1_hin.pdf",
+    "volume": 1,
     "start_page": 32,
     "end_page": 601
   },
   "Kartikeyaanuprekshaa_Pravachan_part_2_hin": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Kartikeyaanuprekshaa_Pravachan_part_2_hin.pdf",
+    "volume": 2,
     "start_page": 9,
     "end_page": 556
   }

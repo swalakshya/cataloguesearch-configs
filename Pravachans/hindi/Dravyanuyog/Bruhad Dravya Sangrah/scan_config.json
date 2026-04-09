@@ -7,11 +7,13 @@
   },
   "Bruhad_Dravya_Sangrah_Pravachan_Part_01_hin": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Bruhad_Dravya_Sangrah_Pravachan_Part_01_hin.pdf",
+    "volume": 1,
     "start_page": 8,
     "end_page": 332
   },
   "Bruhad_Dravya_Sangrah_Pravachan_Part-2_H": {
     "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Bruhad_Dravya_Sangrah_Pravachan_Part-2_H.pdf",
+    "volume": 2,
     "start_page": 11,
     "end_page": 489
   }

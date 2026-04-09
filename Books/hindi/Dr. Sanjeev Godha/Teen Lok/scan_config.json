@@ -4,7 +4,8 @@
             "top": 7,
             "bottom": 7
         },
-        "ocr_engine": "llm"
+        "ocr_engine": "llm",
+        "ignore_bookmarks": true
     },
     "TeenLok": {
         "file_url": "https://ptst.in/snatak/admin/docs/files_suchipatra/Teen%20Lok.pdf",

@@ -3,7 +3,8 @@
         "crop": {
             "top": 9,
             "bottom": 3
-        }
+        },
+        "ignore_bookmarks": true
     },
     "MokshmargSanjeevani": {
         "file_url": "https://ptst.in/snatak/admin/docs/files_suchipatra/Mokshmarg%20Sanjivani.pdf",

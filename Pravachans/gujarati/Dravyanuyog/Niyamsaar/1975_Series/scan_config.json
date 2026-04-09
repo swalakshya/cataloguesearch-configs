@@ -1,38 +1,44 @@
 {
-    "default": {
-        "crop": {
-            "top": 11,
-            "bottom": 4
-        }
-    },
-    "Brahmopdeshpart-1_G": {
-        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Brahmopdesh%20part-1_G.pdf",
-        "start_page": 23,
-        "end_page": 378
-    },
-    "Brahmopdesh%20part-2_G": {
-        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Brahmopdesh%20part-2_G.pdf",
-        "start_page": 23,
-        "end_page": 410
-    },
-    "Brahmopdesh%20part-3_G": {
-        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Brahmopdesh%20part-3_G.pdf",
-        "start_page": 23,
-        "end_page": 404
-    },
-    "Brahmopdesh%20part-4_G": {
-        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Brahmopdesh%20part-4_G.pdf",
-        "start_page": 23,
-        "end_page": 418
-    },
-    "Brahmopdesh%20part-5_G": {
-        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Brahmopdesh%20part-5_G.pdf",
-        "start_page": 21,
-        "end_page": 396
-    },
-    "Brahmopdesh%20part-6_G": {
-        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Brahmopdesh%20part-6_G.pdf",
-        "start_page": 21,
-        "end_page": 370
+  "default": {
+    "crop": {
+      "top": 11,
+      "bottom": 4
     }
+  },
+  "Brahmopdeshpart-1_G": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Brahmopdesh%20part-1_G.pdf",
+    "volume": 1,
+    "start_page": 23,
+    "end_page": 378
+  },
+  "Brahmopdesh%20part-2_G": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Brahmopdesh%20part-2_G.pdf",
+    "volume": 2,
+    "start_page": 23,
+    "end_page": 410
+  },
+  "Brahmopdesh%20part-3_G": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Brahmopdesh%20part-3_G.pdf",
+    "volume": 3,
+    "start_page": 23,
+    "end_page": 404
+  },
+  "Brahmopdesh%20part-4_G": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Brahmopdesh%20part-4_G.pdf",
+    "volume": 4,
+    "start_page": 23,
+    "end_page": 418
+  },
+  "Brahmopdesh%20part-5_G": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Brahmopdesh%20part-5_G.pdf",
+    "volume": 5,
+    "start_page": 21,
+    "end_page": 396
+  },
+  "Brahmopdesh%20part-6_G": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Brahmopdesh%20part-6_G.pdf",
+    "volume": 6,
+    "start_page": 21,
+    "end_page": 370
+  }
 }

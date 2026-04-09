@@ -4,7 +4,8 @@
             "top": 9,
             "bottom": 2
         },
-        "ocr_engine": "llm"
+        "ocr_engine": "llm",
+        "ignore_bookmarks": true
     },
     "NimittUpadan": {
         "file_url": "https://ptst.in/snatak/admin/docs/files_suchipatra/114..Nimit-Upadaan.pdf",
