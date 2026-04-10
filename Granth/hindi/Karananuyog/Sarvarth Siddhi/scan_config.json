@@ -1,0 +1,69 @@
+{
+    "default": {
+        "crop": {
+            "top": 8,
+            "bottom": 3
+        },
+        "ocr_engine": "llm",
+        "ignore_bookmarks": true
+    },
+    "SarvarthaSiddhi": {
+        "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/Sarvarth%20Siddhi_H.pdf",
+        "sub_sections": [
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 1",
+                "start_page": 28,
+                "end_page": 133
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 2",
+                "start_page": 134,
+                "end_page": 176
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 3",
+                "start_page": 177,
+                "end_page": 203
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 4",
+                "start_page": 204,
+                "end_page": 227
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 5",
+                "start_page": 228,
+                "end_page": 270
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 6",
+                "start_page": 271,
+                "end_page": 290
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 8",
+                "start_page": 291,
+                "end_page": 344
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 9",
+                "start_page": 345,
+                "end_page": 393
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 10",
+                "start_page": 394,
+                "end_page": 402
+            }
+        ]
+    }
+}

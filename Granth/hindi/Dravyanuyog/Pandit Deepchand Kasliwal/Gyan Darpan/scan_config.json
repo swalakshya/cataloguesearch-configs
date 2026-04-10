@@ -1,0 +1,14 @@
+{
+    "default": {
+        "crop": {
+            "top": 7,
+            "bottom": 3
+        },
+        "ocr_engine": "llm"
+    },
+    "GyanDarpan": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/B/gnaandarpan_hin_scn.pdf",
+        "start_page": 10,
+        "end_page": 117
+    }
+}
