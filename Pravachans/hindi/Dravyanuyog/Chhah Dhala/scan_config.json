@@ -1,0 +1,20 @@
+{
+    "default": {
+        "crop": {
+            "top": 18,
+            "bottom": 4
+        }
+    },
+    "Chhadhala_Pravachan_Part-1H": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Chhadhala_Pravachan_Part-1H.pdf",
+        "volume": 1,
+        "start_page": 9,
+        "end_page": 499
+    },
+    "Chhadhala_Pravachan_Part-2H": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Chhadhala_Pravachan_Part-2H.pdf",
+        "volume": 2,
+        "start_page": 9,
+        "end_page": 572
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "default": {
+        "crop": {
+            "top": 8,
+            "bottom": 3
+        },
+        "ocr_engine": "llm",
+        "ignore_bookmarks": true
+    },
+    "JainTattvaMimamsa": {
+        "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/jain-tattva-mimansa-hin-1070.pdf",
+        "sub_sections": [
+            {
+                "field": "Mimamsa",
+                "name": "Vishay Pravesh",
+                "start_page": 31,
+                "end_page": 65
+            },
+            {
+                "field": "Mimamsa",
+                "name": "Vastu Swabhav Mimamsa",
+                "start_page": 66,
+                "end_page": 79
+            },
+            {
+                "field": "Mimamsa",
+                "name": "Bahya Karan Mimamsa",
+                "start_page": 80,
+                "end_page": 122
+            },
+            {
+                "field": "Mimamsa",
+                "name": "Nishchay Upadaan Mimamsa",
+                "start_page": 123,
+                "end_page": 160
+            },
+            {
+                "field": "Mimamsa",
+                "name": "Ubhay Nimitt Mimamsa",
+                "start_page": 161,
+                "end_page": 217
+            },
+            {
+                "field": "Mimamsa",
+                "name": "Kartra Karm Mimamsa",
+                "start_page": 218,
+                "end_page": 266
+            },
+            {
+                "field": "Mimamsa",
+                "name": "Shhat Karak Mimamsa",
+                "start_page": 267,
+                "end_page": 310
+            },
+            {
+                "field": "Mimamsa",
+                "name": "Kram Niyamit Paryay Mimamsa",
+                "start_page": 311,
+                "end_page": 379
+            },
+            {
+                "field": "Mimamsa",
+                "name": "Samyak Niyati Swaroop Mimamsa",
+                "start_page": 380,
+                "end_page": 402
+            },
+            {
+                "field": "Mimamsa",
+                "name": "Nishchay Vyavhaar Mimamsa",
+                "start_page": 403,
+                "end_page": 479
+            },
+            {
+                "field": "Mimamsa",
+                "name": "Anekant Syadvad Mimamsa",
+                "start_page": 480,
+                "end_page": 530
+            },
+            {
+                "field": "Mimamsa",
+                "name": "Kevalgyan Swabhav Mimamsa",
+                "start_page": 531,
+                "end_page": 556
+            }
+        ]
+    }
+}

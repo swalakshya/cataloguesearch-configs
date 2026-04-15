@@ -1,0 +1,16 @@
+{
+    "default": {
+        "crop": {
+            "top": 10,
+            "bottom": 3
+        },
+        "ocr_engine": "llm",
+        "ignore_bookmarks": true
+    },
+    "CharchaSangrah": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/E/CHARCHA%20SANGRAH.pdf",
+        "qa_merge": false,
+        "start_page": 8,
+        "end_page": 129
+    }
+}
