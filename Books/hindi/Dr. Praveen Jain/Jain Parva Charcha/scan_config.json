@@ -1,0 +1,15 @@
+{
+    "default": {
+        "crop": {
+            "top": 11,
+            "bottom": 2
+        },
+        "ocr_engine": "llm",
+        "ignore_bookmarks": true
+    },
+    "JainParvaCharcha": {
+        "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/jain-parv-charcha-hin-1126.pdf",
+        "start_page": 17,
+        "end_page": 122
+    }
+}
