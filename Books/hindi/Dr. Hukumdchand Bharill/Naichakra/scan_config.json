@@ -1,0 +1,15 @@
+{
+    "default": {
+        "crop": {
+            "top": 8,
+            "bottom": 1
+        },
+        "ocr_engine": "llm",
+        "ignore_bookmarks": true
+    },
+    "Naichakra": {
+        "file_url": "https://ptst.in/snatak/admin/docs/files_suchipatra/76.Parambhav%20Prakashak%20Naychakra.pdf",
+        "start_page": 19,
+        "end_page": 367
+    }
+}
