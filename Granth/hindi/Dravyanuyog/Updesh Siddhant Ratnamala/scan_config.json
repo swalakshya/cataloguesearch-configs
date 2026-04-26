@@ -1,0 +1,18 @@
+{
+    "default": {
+        "crop": {
+            "top": 18,
+            "bottom": 5
+        },
+        "ocr_engine": "llm",
+        "verses": [
+            "hindi_verse",
+            "prakrit_verse"
+        ]
+    },
+    "UpdeshSiddhantRatnamala": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/B/Upadesh_Siddhant_Ratnamala_H.pdf",
+        "start_page": 13,
+        "end_page": 99
+    }
+}

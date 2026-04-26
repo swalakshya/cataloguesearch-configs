@@ -1,0 +1,18 @@
+{
+    "default": {
+        "crop": {
+            "top": 16,
+            "bottom": 5
+        },
+        "ocr_engine": "llm",
+        "verses": [
+            "prakrit_verse",
+            "hindi_verse"
+        ]
+    },
+    "TattvagyanTarangini": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/B/Tatvagnaan_Taranginee_Hin.pdf",
+        "start_page": 27,
+        "end_page": 292
+    }
+}

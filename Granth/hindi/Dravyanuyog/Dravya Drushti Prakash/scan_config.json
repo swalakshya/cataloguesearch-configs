@@ -1,0 +1,16 @@
+{
+  "default": {
+    "crop": {
+      "top": 5,
+      "bottom": 0
+    },
+    "skip_pages": [191, 258],
+    "ignore_bookmarks": true
+  },
+  "DravyaDrushtiPrakash": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/B/Dravya_Drashti_Prakash_H.pdf",
+    "start_page": 189,
+    "end_page": 334,
+    "hard_end_regex": ["[0-9०-९]+\\.\\s*$"]
+  }
+}
