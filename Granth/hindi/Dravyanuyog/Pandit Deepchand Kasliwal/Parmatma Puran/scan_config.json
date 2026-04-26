@@ -1,0 +1,15 @@
+{
+    "default": {
+        "crop": {
+            "top": 7,
+            "bottom": 2
+        },
+        "ocr_engine": "llm",
+        "ignore_bookmarks": true
+    },
+    "ParmatmaPuran": {
+        "file_url": "https://ptst.in/snatak/admin/docs/files_suchipatra/Pandit%20Dipchand%20Granthavali%202.pdf",
+        "start_page": 149,
+        "end_page": 197
+    }
+}

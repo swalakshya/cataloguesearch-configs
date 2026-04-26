@@ -1,0 +1,63 @@
+{
+    "default": {
+        "crop": {
+            "top": 7,
+            "bottom": 2
+        },
+        "ocr_engine": "llm",
+        "ignore_bookmarks": true
+    },
+    "BhavDeepika": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/B/bhavdipika_hin_scn.pdf",
+        "sub_sections": [
+            {
+                "field": "Adhikaar",
+                "name": "Samanya Adhikaar",
+                "start_page": 13,
+                "end_page": 17
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Parinamik Adhikaar",
+                "start_page": 18,
+                "end_page": 21
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Karm Adhikaar",
+                "start_page": 22,
+                "end_page": 34
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Audayik Bhav Adhikaar",
+                "start_page": 35,
+                "end_page": 105
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Kshayopshamik Bhav Adhikaar",
+                "start_page": 106,
+                "end_page": 191
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Aupshamik Bhav Adhikaar",
+                "start_page": 192,
+                "end_page": 205
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Kshayik Bhav Adhikaar",
+                "start_page": 206,
+                "end_page": 226
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Chulika Adhikaar",
+                "start_page": 227,
+                "end_page": 255
+            }
+        ]
+    }
+}

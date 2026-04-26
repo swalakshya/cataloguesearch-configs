@@ -1,0 +1,15 @@
+{
+    "default": {
+        "crop": {
+            "top": 7,
+            "bottom": 2
+        },
+        "ocr_engine": "llm",
+        "ignore_bookmarks": true
+    },
+    "ChidVilas": {
+        "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/pandit-deepchand-granthavali-bhag-1-hin-3380.pdf",
+        "start_page": 271,
+        "end_page": 384
+    }
+}

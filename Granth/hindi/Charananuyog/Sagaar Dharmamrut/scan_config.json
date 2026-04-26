@@ -1,0 +1,14 @@
+{
+    "default": {
+        "crop": {
+            "top": 9,
+            "bottom": 3
+        },
+        "ocr_engine": "llm"
+    },
+    "SagaarDharmamrut": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/B/dharmamrutsagaar_hin_scn.pdf",
+        "start_page": 31,
+        "end_page": 384
+    }
+}

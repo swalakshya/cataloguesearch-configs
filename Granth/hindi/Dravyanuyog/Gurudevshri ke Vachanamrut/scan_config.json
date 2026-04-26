@@ -1,0 +1,20 @@
+{
+    "default": {
+        "crop": {
+            "top": 8,
+            "bottom": 2
+        },
+        "ocr_engine": "llm",
+        "ignore_bookmarks": true,
+        "hard_end_regex": [
+            "\\|\\s*[\\d०-९]+\\s*\\|",
+            "\\|\\s*[\\d०-९]+\\s*$",
+            "।\\s+[\\d०-९]+\\s*$"
+        ]
+    },
+    "GurudevshriKeVachanamrut": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/B/Gurudev_Vachanamrut_H.pdf",
+        "start_page": 18,
+        "end_page": 113
+    }
+}

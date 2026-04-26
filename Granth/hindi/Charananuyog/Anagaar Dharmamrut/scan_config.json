@@ -1,0 +1,19 @@
+{
+    "default": {
+        "crop": {
+            "top": 14,
+            "bottom": 3
+        },
+        "ocr_engine": "llm",
+        "verses": [
+            "prakrit_verse",
+            "hindi_verse",
+            "sanskrit_verse"
+        ]
+    },
+    "AnagaarDharmamrut": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/B/Anagaar%20Dharmaamrut_H.pdf",
+        "start_page": 12,
+        "end_page": 889
+    }
+}
