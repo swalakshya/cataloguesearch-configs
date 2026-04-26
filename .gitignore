@@ -3,3 +3,5 @@
 .idea
 _ignore
 .DS_Store
+.claude
+.vscode
