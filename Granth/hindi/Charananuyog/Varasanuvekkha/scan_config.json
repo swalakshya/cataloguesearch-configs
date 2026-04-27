@@ -1,0 +1,109 @@
+{
+    "default": {
+        "crop": {
+            "top": 7,
+            "bottom": 6
+        },
+        "ocr_engine": "llm",
+        "verses": [
+            "prakrit_verse",
+            "sanskrit_verse"
+        ],
+        "ignore_bookmarks": true
+    },
+    "Varasanuvekkha": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/varasanuvekha_hin_scn.pdf",
+        "sub_sections": [
+            {
+                "field": "Adhyaya",
+                "name": "Prastavana",
+                "start_page": 6,
+                "end_page": 52
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Mangalacharan",
+                "start_page": 60,
+                "end_page": 61
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Anitya Anupreksha",
+                "start_page": 62,
+                "end_page": 66
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Asharan Anupreksha",
+                "start_page": 67,
+                "end_page": 72
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Ekatva Anupreksha",
+                "start_page": 73,
+                "end_page": 79
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Anyatva Anupreksha",
+                "start_page": 80,
+                "end_page": 82
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Sansar Anupreksha",
+                "start_page": 83,
+                "end_page": 96
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Lok Anupreksha",
+                "start_page": 97,
+                "end_page": 101
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Ashuchi Anupreksha",
+                "start_page": 102,
+                "end_page": 105
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Aashrav Anupreksha",
+                "start_page": 106,
+                "end_page": 119
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Samvar Anupreksha",
+                "start_page": 120,
+                "end_page": 124
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Nirjara Anupreksha",
+                "start_page": 125,
+                "end_page": 126
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Dharm Anupreksha",
+                "start_page": 127,
+                "end_page": 141
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Bodhi Anupreksha",
+                "start_page": 142,
+                "end_page": 145
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Upsanhaar",
+                "start_page": 146,
+                "end_page": 151
+            }
+        ]
+    }
+}

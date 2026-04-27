@@ -1,0 +1,23 @@
+{
+    "default": {
+        "crop": {
+            "top": 9,
+            "bottom": 2
+        },
+        "ocr_engine": "llm",
+        "verses": [
+            "sanskrit_verse"
+        ]
+    },
+    "Tattvanushashan": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/TatvanuShasan_H.pdf",
+        "multi_page": true,
+        "split_percentage": 50,
+        "book_start_page": 5,
+        "book_start_side": "left",
+        "start_page": 5,
+        "start_side": "left",
+        "end_page": 38,
+        "end_side": "right"
+    }
+}

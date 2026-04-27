@@ -1,0 +1,71 @@
+{
+    "default": {
+        "crop": {
+            "top": 12,
+            "bottom": 2
+        },
+        "ocr_engine": "llm",
+        "verses": [
+            "sanskrit_verse"
+        ]
+    },
+    "Yogsaar": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/Yogsar_Prabhrut_H.pdf",
+        "sub_sections": [
+            {
+                "field": "Adhikaar",
+                "name": "Jeev Adhikaar",
+                "start_page": 7,
+                "end_page": 45
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Ajeev Adhikaar",
+                "start_page": 46,
+                "end_page": 78
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Aasrav Adhikaar",
+                "start_page": 79,
+                "end_page": 101
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Bandh Adhikaar",
+                "start_page": 102,
+                "end_page": 125
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Samvar Adhikaar",
+                "start_page": 126,
+                "end_page": 159
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Nirjara Adhikaar",
+                "start_page": 160,
+                "end_page": 188
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Moksh Adhikaar",
+                "start_page": 189,
+                "end_page": 216
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Charitra Adhikaar",
+                "start_page": 217,
+                "end_page": 266
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Chulika Adhikaar",
+                "start_page": 267,
+                "end_page": 314
+            }
+        ]
+    }
+}
