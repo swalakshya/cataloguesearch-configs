@@ -1,0 +1,58 @@
+{
+    "default": {
+        "crop": {
+            "top": 19,
+            "bottom": 10
+        },
+        "ocr_engine": "llm"
+    },
+    "Gnaanarnav": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/Gnaanarnav_H.pdf",
+        "start_page": 44,
+        "end_page": 749,
+        "sub_sections": [
+            {"name": "SatshrutPrashansaa", "start_page": 44, "end_page": 65},
+            {"name": "Dwaadash Bhavana", "start_page": 66, "end_page": 136},
+            {"name": "Sankshep Se Dhyaan Ka Swaroop", "start_page": 137, "end_page": 148},
+            {"name": "Dhyaan Ka Varnan", "start_page": 149, "end_page": 171},
+            {"name": "Dhyaataa Ki Prashansaa", "start_page": 172, "end_page": 182},
+            {"name": "SamyagDarshan", "start_page": 183, "end_page": 202},
+            {"name": "SamyagGnaan", "start_page": 203, "end_page": 210},
+            {"name": "Ahinsaa Mahaavrat - SamyagChaaritra", "start_page": 211, "end_page": 229},
+            {"name": "Satya Mahaavrat", "start_page": 230, "end_page": 242},
+            {"name": "Asteya Mahaavrat", "start_page": 243, "end_page": 249},
+            {"name": "BrahamCharya Mahaavrat", "start_page": 250, "end_page": 263},
+            {"name": "ShtreeSwaroop Varnan", "start_page": 264, "end_page": 281},
+            {"name": "MaithunTyaagopadesh", "start_page": 282, "end_page": 289},
+            {"name": "ShtreeSansarga Nishedh", "start_page": 290, "end_page": 302},
+            {"name": "VruddhSevaa Ki Prashansaa", "start_page": 303, "end_page": 318},
+            {"name": "ParigrahTyaag Mahaavrat", "start_page": 319, "end_page": 330},
+            {"name": "Asha Ki Nindaa", "start_page": 331, "end_page": 337},
+            {"name": "Punch Samiti Aadi Ka Varnan", "start_page": 338, "end_page": 350},
+            {"name": "Kashaay Ki Nindaa", "start_page": 351, "end_page": 376},
+            {"name": "IndiyaJay Ka Upadesh", "start_page": 377, "end_page": 388},
+            {"name": "TriTatva Varnan", "start_page": 389, "end_page": 411},
+            {"name": "Man Vash Karane Ka Upadesh", "start_page": 412, "end_page": 422},
+            {"name": "RaagDwesh Rokane Ka Varnan", "start_page": 423, "end_page": 433},
+            {"name": "Saamyabhaav Ka Varnan", "start_page": 434, "end_page": 444},
+            {"name": "AartraDhyaan Ka Varnan", "start_page": 445, "end_page": 458},
+            {"name": "RaudraDhyaan Ka Varnan", "start_page": 459, "end_page": 472},
+            {"name": "DhyaanViruddh Sthaano Ka Varnan", "start_page": 473, "end_page": 481},
+            {"name": "AasanJay Ka Varnan", "start_page": 482, "end_page": 493},
+            {"name": "Praanaayam Varnan", "start_page": 494, "end_page": 525},
+            {"name": "PratyaahaarDhaaranaa Ka Varnan", "start_page": 526, "end_page": 530},
+            {"name": "SaviryaDhyaan Ka Varnan", "start_page": 531, "end_page": 544},
+            {"name": "Shuddhopayog Ka Varnan", "start_page": 545, "end_page": 575},
+            {"name": "AgyaaVichay - DharmDhyaan", "start_page": 576, "end_page": 584},
+            {"name": "ApaayVichay - DharmDhyaan", "start_page": 585, "end_page": 590},
+            {"name": "VipaakVichay - DharmDhyaan", "start_page": 591, "end_page": 600},
+            {"name": "SansthaanVichay - DharmDhyaan", "start_page": 601, "end_page": 645},
+            {"name": "Pindasth Dhyaan Ka Varnan", "start_page": 646, "end_page": 656},
+            {"name": "Padasth Dhyaan Ka Varnan", "start_page": 657, "end_page": 690},
+            {"name": "Rupasth Dhyaan Ka Varnan", "start_page": 691, "end_page": 701},
+            {"name": "Rupaatit Dhyaan Ka Varnan", "start_page": 702, "end_page": 712},
+            {"name": "DharmDhyaan Ke Fal Ka Varnan", "start_page": 713, "end_page": 721},
+            {"name": "ShuklaDhyaan Ka Swaroop", "start_page": 722, "end_page": 749}
+        ]
+    }
+}

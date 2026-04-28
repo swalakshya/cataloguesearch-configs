@@ -1,0 +1,111 @@
+{
+    "default": {
+        "crop": {
+            "top": 6,
+            "bottom": 17,
+            "left": 17,
+            "right": 17
+        }
+    },
+    "ShantinathPuran": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/Shantinath_Puraan_G.pdf",
+        "sub_sections": [
+            {
+                "field": "Adhikaar",
+                "name": "Adhikaar no. 1",
+                "start_page": 10,
+                "end_page": 18
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Adhikaar no. 2",
+                "start_page": 19,
+                "end_page": 35
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Adhikaar no. 3",
+                "start_page": 36,
+                "end_page": 48
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Adhikaar no. 4",
+                "start_page": 49,
+                "end_page": 61
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Adhikaar no. 5",
+                "start_page": 62,
+                "end_page": 74
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Adhikaar no. 6",
+                "start_page": 75,
+                "end_page": 88
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Adhikaar no. 7",
+                "start_page": 89,
+                "end_page": 106
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Adhikaar no. 8",
+                "start_page": 107,
+                "end_page": 124
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Adhikaar no. 9",
+                "start_page": 125,
+                "end_page": 144
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Adhikaar no. 10",
+                "start_page": 145,
+                "end_page": 163
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Adhikaar no. 11",
+                "start_page": 164,
+                "end_page": 183
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Adhikaar no. 12",
+                "start_page": 184,
+                "end_page": 204
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Adhikaar no. 13",
+                "start_page": 205,
+                "end_page": 229
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Adhikaar no. 14",
+                "start_page": 230,
+                "end_page": 250
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Adhikaar no. 15",
+                "start_page": 251,
+                "end_page": 271
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Adhikaar no. 16",
+                "start_page": 272,
+                "end_page": 288
+            }
+        ]
+    }
+}

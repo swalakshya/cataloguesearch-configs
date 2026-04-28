@@ -1,0 +1,13 @@
+{
+    "default": {
+        "crop": {
+            "top": 14,
+            "bottom": 0
+        }
+    },
+    "RishabhStotra": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Dekho_Ji_%20Aadishwar_Swami_Hin.pdf",
+        "start_page": 16,
+        "end_page": 252
+    }
+}

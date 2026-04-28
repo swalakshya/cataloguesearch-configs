@@ -1,0 +1,104 @@
+{
+    "default": {
+        "crop": {
+            "top": 16,
+            "bottom": 0
+        },
+        "ocr_engine": "llm"
+    },
+    "Moksha Shastra": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/Moksha_shastra_H.pdf",
+        "sub_sections": [
+            {
+                "field": "Adhyaya",
+                "name": "Mangalacharan",
+                "start_page": 51,
+                "end_page": 53
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 1",
+                "start_page": 54,
+                "end_page": 225
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 2",
+                "start_page": 226,
+                "end_page": 294
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 3",
+                "start_page": 295,
+                "end_page": 328
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 4",
+                "start_page": 329,
+                "end_page": 369
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 5",
+                "start_page": 370,
+                "end_page": 451
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 6",
+                "start_page": 452,
+                "end_page": 499
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 7",
+                "start_page": 500,
+                "end_page": 552
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 8",
+                "start_page": 553,
+                "end_page": 583
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 9",
+                "start_page": 584,
+                "end_page": 669
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Adhyaya 10",
+                "start_page": 670,
+                "end_page": 690
+            },
+            {
+                "field": "Parishisht",
+                "name": "Parishisht 1",
+                "start_page": 691,
+                "end_page": 700
+            },
+            {
+                "field": "Parishisht",
+                "name": "Parishisht 2",
+                "start_page": 701,
+                "end_page": 702
+            },
+            {
+                "field": "Parishisht",
+                "name": "Parishisht 3",
+                "start_page": 703,
+                "end_page": 705
+            },
+            {
+                "field": "Parishisht",
+                "name": "Parishisht 4",
+                "start_page": 706,
+                "end_page": 707
+            }
+        ]
+    }
+}

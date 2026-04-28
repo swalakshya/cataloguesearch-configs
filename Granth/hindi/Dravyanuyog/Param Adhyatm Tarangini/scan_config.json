@@ -1,0 +1,25 @@
+{
+    "default": {
+        "ocr_engine": "llm",
+        "crop": {"top": 16}
+    },
+    "ParamAadhyatmTarngini": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/Param_Aadhyatm_Tarngini_H.pdf",
+        "start_page": 29,
+        "end_page": 452,
+        "sub_sections": [
+            {"name": "Purvarang", "start_page": 29, "end_page": 59},
+            {"name": "Jeev Ajeev Adhikaar", "start_page": 60, "end_page": 108},
+            {"name": "Karta Karm Adhikaar", "start_page": 109, "end_page": 170},
+            {"name": "Punya Paap Adhikaar", "start_page": 171, "end_page": 190},
+            {"name": "Aasrav Adhikaar", "start_page": 191, "end_page": 209},
+            {"name": "Samvar Adhikaar", "start_page": 210, "end_page": 221},
+            {"name": "Niraja Adhikaar", "start_page": 222, "end_page": 267},
+            {"name": "Bandh Adhikaar", "start_page": 268, "end_page": 291},
+            {"name": "Moksh Adhikaar", "start_page": 292, "end_page": 311},
+            {"name": "Sarv Visshudh Gyan Adhikaar", "start_page": 312, "end_page": 391},
+            {"name": "Syadvad Adhikaar", "start_page": 392, "end_page": 450},
+            {"name": "Tikakar's Prashashti", "start_page": 451, "end_page": 452}
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "default": {
+        "crop": {
+            "top": 4,
+            "bottom": 10
+        },
+        "ocr_engine": "llm",
+        "ignore_bookmarks": true,
+        "verses": [
+            "prakrit_verse",
+            "sanskrit_verse",
+            "hindi_verse"
+        ]
+    },
+    "BhagwatiAradhana": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/Bhagwati_Aaradhana_H.pdf",
+        "start_page": 16,
+        "end_page": 929
+    }
+}

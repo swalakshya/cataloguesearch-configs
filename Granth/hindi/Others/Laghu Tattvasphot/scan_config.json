@@ -1,0 +1,15 @@
+{
+    "default": {
+        "crop": {
+            "top": 16,
+            "bottom": 8
+        },
+        "ocr_engine": "llm",
+        "ignore_bookmarks": true
+    },
+    "LaghuTattvasphot": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/LaghuTatvaSfot_H.pdf",
+        "start_page": 73,
+        "end_page": 479
+    }
+}

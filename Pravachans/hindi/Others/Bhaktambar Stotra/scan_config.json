@@ -1,0 +1,18 @@
+{
+    "default": {
+        "crop": {
+            "top": 10,
+            "bottom": 0
+        },
+        "ocr_engine": "llm",
+        "verses": [
+            "sanskrit_verse",
+            "prakrit_verse"
+        ]
+    },
+    "BhaktambarStotra": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Bhaktaamar_Rahasya_Hindi.pdf",
+        "start_page": 19,
+        "end_page": 262
+    }
+}
