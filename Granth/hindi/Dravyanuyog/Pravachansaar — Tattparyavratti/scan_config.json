@@ -1,0 +1,15 @@
+{
+  "default": {
+    "ocr_engine": "llm",
+    "verses": ["hindi_verse", "prakrit_verse"],
+    "ignore_bookmarks": true
+  },
+  "pravachansaartatparyavruttitika": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/pravachansaartatparyavruttitika_hin_scn.pdf",
+    "sub_sections": [
+      { "field": "Adhikaar", "name": "Samyag Gyan Adhikaar", "start_page": 43, "end_page": 179 },
+      { "field": "Adhikaar", "name": "Samyag Darshan Adhikaar", "start_page": 180, "end_page": 343 },
+      { "field": "Adhikaar", "name": "Samyag Charitra Adhikaar", "start_page": 344, "end_page": 454 }
+    ]
+  }
+}

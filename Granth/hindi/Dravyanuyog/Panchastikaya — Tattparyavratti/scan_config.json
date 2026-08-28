@@ -1,0 +1,11 @@
+{
+  "default": {
+    "ocr_engine": "llm",
+    "verses": ["hindi_verse", "prakrit_verse"]
+  },
+  "Panchastikaya — Tattparyavratti": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/Panchastikay_Sangrah_Jaysenaacharya_H.pdf",
+    "start_page": 35,
+    "end_page": 343
+  }
+}
