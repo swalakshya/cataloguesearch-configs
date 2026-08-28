@@ -1,0 +1,750 @@
+{
+  "default": {
+    "ocr_engine": "tesseract",
+    "chunk_strategy": "advanced",
+    "ignore_bookmarks": true
+  },
+  "PadmaPuran": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/padmapuran_guj_txt.pdf",
+    "sub_sections": [
+      {
+        "field": "Parva",
+        "name": "Parva no. 1",
+        "start_page": 22,
+        "end_page": 31
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 2",
+        "start_page": 32,
+        "end_page": 41
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 3",
+        "start_page": 42,
+        "end_page": 53
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 4",
+        "start_page": 54,
+        "end_page": 57
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 5",
+        "start_page": 58,
+        "end_page": 73
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 6",
+        "start_page": 74,
+        "end_page": 92
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 7",
+        "start_page": 93,
+        "end_page": 107
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 8",
+        "start_page": 108,
+        "end_page": 125
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 9",
+        "start_page": 126,
+        "end_page": 134
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 10",
+        "start_page": 135,
+        "end_page": 141
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 11",
+        "start_page": 142,
+        "end_page": 153
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 12",
+        "start_page": 154,
+        "end_page": 166
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 13",
+        "start_page": 167,
+        "end_page": 170
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 14",
+        "start_page": 171,
+        "end_page": 186
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 15",
+        "start_page": 187,
+        "end_page": 194
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 16",
+        "start_page": 195,
+        "end_page": 202
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 17",
+        "start_page": 203,
+        "end_page": 217
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 18",
+        "start_page": 218,
+        "end_page": 223
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 19",
+        "start_page": 224,
+        "end_page": 228
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 20",
+        "start_page": 229,
+        "end_page": 240
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 21",
+        "start_page": 241,
+        "end_page": 247
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 22",
+        "start_page": 248,
+        "end_page": 255
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 23",
+        "start_page": 256,
+        "end_page": 258
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 24",
+        "start_page": 259,
+        "end_page": 261
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 25",
+        "start_page": 262,
+        "end_page": 264
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 26",
+        "start_page": 265,
+        "end_page": 272
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 27",
+        "start_page": 273,
+        "end_page": 276
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 28",
+        "start_page": 277,
+        "end_page": 288
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 29",
+        "start_page": 289,
+        "end_page": 292
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 30",
+        "start_page": 293,
+        "end_page": 299
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 31",
+        "start_page": 300,
+        "end_page": 309
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 32",
+        "start_page": 310,
+        "end_page": 316
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 33",
+        "start_page": 317,
+        "end_page": 328
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 34",
+        "start_page": 329,
+        "end_page": 332
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 35",
+        "start_page": 333,
+        "end_page": 339
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 36",
+        "start_page": 340,
+        "end_page": 342
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 37",
+        "start_page": 343,
+        "end_page": 348
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 38",
+        "start_page": 349,
+        "end_page": 353
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 39",
+        "start_page": 354,
+        "end_page": 362
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 40",
+        "start_page": 363,
+        "end_page": 364
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 41",
+        "start_page": 365,
+        "end_page": 370
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 42",
+        "start_page": 371,
+        "end_page": 375
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 43",
+        "start_page": 376,
+        "end_page": 379
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 44",
+        "start_page": 380,
+        "end_page": 386
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 45",
+        "start_page": 387,
+        "end_page": 390
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 46",
+        "start_page": 391,
+        "end_page": 398
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 47",
+        "start_page": 399,
+        "end_page": 403
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 48",
+        "start_page": 404,
+        "end_page": 412
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 49",
+        "start_page": 413,
+        "end_page": 416
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 50",
+        "start_page": 417,
+        "end_page": 418
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 51",
+        "start_page": 419,
+        "end_page": 420
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 52",
+        "start_page": 421,
+        "end_page": 424
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 53",
+        "start_page": 425,
+        "end_page": 433
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 54",
+        "start_page": 434,
+        "end_page": 435
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 55",
+        "start_page": 436,
+        "end_page": 440
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 56",
+        "start_page": 441,
+        "end_page": 441
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 57",
+        "start_page": 442,
+        "end_page": 445
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 58",
+        "start_page": 446,
+        "end_page": 446
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 59",
+        "start_page": 447,
+        "end_page": 448
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 60",
+        "start_page": 449,
+        "end_page": 453
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 61",
+        "start_page": 454,
+        "end_page": 454
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 62",
+        "start_page": 455,
+        "end_page": 458
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 63",
+        "start_page": 459,
+        "end_page": 460
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 64",
+        "start_page": 461,
+        "end_page": 464
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 65",
+        "start_page": 465,
+        "end_page": 467
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 66",
+        "start_page": 468,
+        "end_page": 471
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 67",
+        "start_page": 472,
+        "end_page": 472
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 68",
+        "start_page": 473,
+        "end_page": 473
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 69",
+        "start_page": 474,
+        "end_page": 474
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 70",
+        "start_page": 475,
+        "end_page": 478
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 71",
+        "start_page": 479,
+        "end_page": 480
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 72",
+        "start_page": 481,
+        "end_page": 484
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 73",
+        "start_page": 485,
+        "end_page": 491
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 74",
+        "start_page": 492,
+        "end_page": 495
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 75",
+        "start_page": 496,
+        "end_page": 497
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 76",
+        "start_page": 498,
+        "end_page": 499
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 77",
+        "start_page": 500,
+        "end_page": 502
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 78",
+        "start_page": 503,
+        "end_page": 508
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 79",
+        "start_page": 509,
+        "end_page": 510
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 80",
+        "start_page": 511,
+        "end_page": 518
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 81",
+        "start_page": 519,
+        "end_page": 522
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 82",
+        "start_page": 523,
+        "end_page": 525
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 83",
+        "start_page": 526,
+        "end_page": 530
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 84",
+        "start_page": 531,
+        "end_page": 531
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 85",
+        "start_page": 532,
+        "end_page": 538
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 86",
+        "start_page": 539,
+        "end_page": 540
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 87",
+        "start_page": 541,
+        "end_page": 541
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 88",
+        "start_page": 542,
+        "end_page": 543
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 89",
+        "start_page": 544,
+        "end_page": 548
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 90",
+        "start_page": 549,
+        "end_page": 549
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 91",
+        "start_page": 550,
+        "end_page": 551
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 92",
+        "start_page": 552,
+        "end_page": 555
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 93",
+        "start_page": 556,
+        "end_page": 556
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 94",
+        "start_page": 557,
+        "end_page": 558
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 95",
+        "start_page": 559,
+        "end_page": 560
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 96",
+        "start_page": 561,
+        "end_page": 563
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 97",
+        "start_page": 564,
+        "end_page": 570
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 98",
+        "start_page": 571,
+        "end_page": 574
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 99",
+        "start_page": 575,
+        "end_page": 579
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 100",
+        "start_page": 580,
+        "end_page": 582
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 101",
+        "start_page": 583,
+        "end_page": 585
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 102",
+        "start_page": 586,
+        "end_page": 592
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 103",
+        "start_page": 593,
+        "end_page": 595
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 104",
+        "start_page": 596,
+        "end_page": 600
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 105",
+        "start_page": 601,
+        "end_page": 614
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 106",
+        "start_page": 615,
+        "end_page": 625
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 107",
+        "start_page": 626,
+        "end_page": 627
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 108",
+        "start_page": 628,
+        "end_page": 629
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 109",
+        "start_page": 630,
+        "end_page": 636
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 110",
+        "start_page": 637,
+        "end_page": 641
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 111",
+        "start_page": 642,
+        "end_page": 642
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 112",
+        "start_page": 643,
+        "end_page": 646
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 113",
+        "start_page": 647,
+        "end_page": 648
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 114",
+        "start_page": 649,
+        "end_page": 651
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 115",
+        "start_page": 652,
+        "end_page": 654
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 116",
+        "start_page": 655,
+        "end_page": 656
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 117",
+        "start_page": 657,
+        "end_page": 658
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 118",
+        "start_page": 659,
+        "end_page": 663
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 119",
+        "start_page": 664,
+        "end_page": 666
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 120",
+        "start_page": 667,
+        "end_page": 667
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 121",
+        "start_page": 668,
+        "end_page": 668
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 122",
+        "start_page": 669,
+        "end_page": 671
+      },
+      {
+        "field": "Parva",
+        "name": "Parva no. 123",
+        "start_page": 672,
+        "end_page": 680
+      }
+    ]
+  }
+}

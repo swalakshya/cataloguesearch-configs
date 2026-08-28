@@ -1,0 +1,168 @@
+{
+  "default": {
+    "ocr_engine": "tesseract",
+    "chunk_strategy": "advanced",
+    "ignore_bookmarks": true
+  },
+  "PandavPuran": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/PandavPuran_G.pdf",
+    "sub_sections": [
+      {
+        "field": "Adhyaya",
+        "name": "Adhyaya no. 1",
+        "start_page": 12,
+        "end_page": 24
+      },
+      {
+        "field": "Adhyaya",
+        "name": "Adhyaya no. 2",
+        "start_page": 25,
+        "end_page": 39
+      },
+      {
+        "field": "Adhyaya",
+        "name": "Adhyaya no. 3",
+        "start_page": 40,
+        "end_page": 59
+      },
+      {
+        "field": "Adhyaya",
+        "name": "Adhyaya no. 4",
+        "start_page": 60,
+        "end_page": 79
+      },
+      {
+        "field": "Adhyaya",
+        "name": "Adhyaya no. 5",
+        "start_page": 80,
+        "end_page": 90
+      },
+      {
+        "field": "Adhyaya",
+        "name": "Adhyaya no. 6",
+        "start_page": 91,
+        "end_page": 93
+      },
+      {
+        "field": "Adhyaya",
+        "name": "Adhyaya no. 7",
+        "start_page": 94,
+        "end_page": 95
+      },
+      {
+        "field": "Adhyaya",
+        "name": "Adhyaya no. 8",
+        "start_page": 96,
+        "end_page": 112
+      },
+      {
+        "field": "Adhyaya",
+        "name": "Adhyaya no. 9",
+        "start_page": 113,
+        "end_page": 122
+      },
+      {
+        "field": "Adhyaya",
+        "name": "Adhyaya no. 10",
+        "start_page": 123,
+        "end_page": 134
+      },
+      {
+        "field": "Adhyaya",
+        "name": "Adhyaya no. 11",
+        "start_page": 135,
+        "end_page": 145
+      },
+      {
+        "field": "Adhyaya",
+        "name": "Adhyaya no. 12",
+        "start_page": 146,
+        "end_page": 154
+      },
+      {
+        "field": "Adhyaya",
+        "name": "Adhyaya no. 13",
+        "start_page": 155,
+        "end_page": 173
+      },
+      {
+        "field": "Adhyaya",
+        "name": "Adhyaya no. 14",
+        "start_page": 174,
+        "end_page": 181
+      },
+      {
+        "field": "Adhyaya",
+        "name": "Adhyaya no. 15",
+        "start_page": 182,
+        "end_page": 190
+      },
+      {
+        "field": "Adhyaya",
+        "name": "Adhyaya no. 16",
+        "start_page": 191,
+        "end_page": 200
+      },
+      {
+        "field": "Adhyaya",
+        "name": "Adhyaya no. 17",
+        "start_page": 201,
+        "end_page": 205
+      },
+      {
+        "field": "Adhyaya",
+        "name": "Adhyaya no. 18",
+        "start_page": 206,
+        "end_page": 220
+      },
+      {
+        "field": "Adhyaya",
+        "name": "Adhyaya no. 19",
+        "start_page": 221,
+        "end_page": 229
+      },
+      {
+        "field": "Adhyaya",
+        "name": "Adhyaya no. 20",
+        "start_page": 230,
+        "end_page": 242
+      },
+      {
+        "field": "Adhyaya",
+        "name": "Adhyaya no. 21",
+        "start_page": 243,
+        "end_page": 260
+      },
+      {
+        "field": "Adhyaya",
+        "name": "Adhyaya no. 22",
+        "start_page": 261,
+        "end_page": 266
+      },
+      {
+        "field": "Adhyaya",
+        "name": "Adhyaya no. 23",
+        "start_page": 267,
+        "end_page": 271
+      },
+      {
+        "field": "Adhyaya",
+        "name": "Adhyaya no. 24",
+        "start_page": 272,
+        "end_page": 276
+      },
+      {
+        "field": "Adhyaya",
+        "name": "Adhyaya no. 25",
+        "start_page": 277,
+        "end_page": 281
+      },
+      {
+        "field": "Adhyaya",
+        "name": "Adhyaya no. 26",
+        "start_page": 282,
+        "end_page": 289
+      }
+    ]
+  }
+}
