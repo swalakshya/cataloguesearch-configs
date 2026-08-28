@@ -1,0 +1,11 @@
+{
+  "default": {
+    "ocr_engine": "llm",
+    "verses": ["hindi_verse", "sanskrit_verse"]
+  },
+  "Atmanushashan": {
+    "start_page": 44,
+    "end_page": 284,
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/atmanushashan_hin_scn.pdf"
+  }
+}
