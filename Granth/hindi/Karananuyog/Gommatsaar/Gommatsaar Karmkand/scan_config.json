@@ -1,0 +1,27 @@
+{
+  "default": {
+    "ocr_engine": "llm",
+    "verses": ["prakrit_verse"],
+    "ignore_bookmarks": true
+  },
+  "GommatsaarKarmkandBhag1": {
+    "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/Gommatsaar%20Karmkand%20Bhag-1.pdf",
+    "crop": { "top": 9 },
+    "sub_sections": [
+      { "field": "Adhikaar", "name": "Prakruti Samutkirtana Adhikaar", "start_page": 46, "end_page": 105 },
+      { "field": "Adhikaar", "name": "Bandhodaya Satva Adhikaar", "start_page": 106, "end_page": 640 },
+      { "field": "Adhikaar", "name": "Satvasthanabhanga Adhikaar", "start_page": 641, "end_page": 691 }
+    ]
+  },
+  "GommatsaarKarmkandBhag2": {
+    "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/Gommatsaar%20Karmkand%20Bhag-2.pdf",
+    "crop": { "top": 9 },
+    "sub_sections": [
+      { "field": "Adhikaar", "name": "Trichulika Adhikaar", "start_page": 10, "end_page": 44 },
+      { "field": "Adhikaar", "name": "Sthana Samutkirtana Adhikaar", "start_page": 45, "end_page": 484 },
+      { "field": "Adhikaar", "name": "Aasrav Adhikaar", "start_page": 485, "end_page": 519 },
+      { "field": "Adhikaar", "name": "Bhava Chulika Adhikaar", "start_page": 520, "end_page": 612 },
+      { "field": "Adhikaar", "name": "Trikarana Chulika Adhikaar", "start_page": 613, "end_page": 757 }
+    ]
+  }
+}
