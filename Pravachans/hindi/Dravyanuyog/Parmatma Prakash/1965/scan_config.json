@@ -1,0 +1,50 @@
+{
+  "default": {
+    "crop": {
+      "top": 15,
+      "bottom": 5
+    }
+  },
+  "Parmatma_Vaibhav_Part-1_H": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Parmatma%20vaibhav%20part-1_H.pdf",
+    "volume": 1,
+    "start_page": 18,
+    "end_page": 553
+  },
+  "Parmatma_Vaibhav_Part-2_H": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Parmatma%20vaibhav%20part-2_H.pdf",
+    "volume": 2,
+    "start_page": 18,
+    "end_page": 515
+  },
+  "Parmatma_Vaibhav_Part-3_H": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Parmatma%20vaibhav%20part-3_H.pdf",
+    "volume": 3,
+    "start_page": 18,
+    "end_page": 489
+  },
+  "Parmatma_Vaibhav_Part-4_H": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Parmatma%20vaibhav%20part-4_H.pdf",
+    "volume": 4,
+    "start_page": 18,
+    "end_page": 563
+  },
+  "Parmatma_Vaibhav_Part-5_H": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Parmatma%20vaibhav%20part-5_H.pdf",
+    "volume": 5,
+    "start_page": 18,
+    "end_page": 584
+  },
+  "Parmatma_Vaibhav_Part-6_H": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Parmatma%20vaibhav%20part-6_H.pdf",
+    "volume": 6,
+    "start_page": 18,
+    "end_page": 645
+  },
+  "Parmatma_Vaibhav_Part-7_H": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/679_hindi-pdf.pdf",
+    "volume": 7,
+    "start_page": 18,
+    "end_page": 709
+  }
+}

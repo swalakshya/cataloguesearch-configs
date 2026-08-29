@@ -1,0 +1,26 @@
+{
+  "default": {
+    "crop": {
+      "top": 16,
+      "bottom": 6
+    }
+  },
+  "Amrut_Bodh_Bhag_1_H": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Amrut_Bodh_Bhag_1_H.pdf",
+    "volume": 1,
+    "start_page": 13,
+    "end_page": 346
+  },
+  "Amrut_Bodh_Bhag-2_H": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Amrut_Bodh_Bhag-2_H.pdf",
+    "volume": 2,
+    "start_page": 13,
+    "end_page": 353
+  },
+  "Amrut_Bodh_Bhag_3_H": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Amrut_Bodh_Bhag_3_H.pdf",
+    "volume": 3,
+    "start_page": 13,
+    "end_page": 324
+  }
+}

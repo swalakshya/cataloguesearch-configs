@@ -1,0 +1,44 @@
+{
+  "default": {
+    "crop": {
+      "top": 16,
+      "bottom": 10
+    }
+  },
+  "Ashtpahud_Amrut_Part-1_H": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Ashtpahud_Amrut_Part-1_H.pdf",
+    "volume": 1,
+    "start_page": 18,
+    "end_page": 505
+  },
+  "Ashtpahud_Amrut_Part-2_H": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Ashtpahud_Amrut_Part-2_H.pdf",
+    "volume": 2,
+    "start_page": 18,
+    "end_page": 513
+  },
+  "Ashtpahud_Amrut_Part-3_H": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Ashtpahud_Amrut_Part-3_H%20(%20Done).pdf",
+    "volume": 3,
+    "start_page": 18,
+    "end_page": 660
+  },
+  "Ashtpahud_Amrut_Part-4_H": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Ashtpahud_Amrut_Part-4_H.pdf",
+    "volume": 4,
+    "start_page": 18,
+    "end_page": 761
+  },
+  "Ashtpahud_Amrut_Part-5_H": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Ashtpahud_Amrut_Part-5_H.pdf",
+    "volume": 5,
+    "start_page": 18,
+    "end_page": 530
+  },
+  "Ashtpahud_Amrut_Part-6_H": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Ashtpahud_Amrut_Part-6_H.pdf",
+    "volume": 6,
+    "start_page": 18,
+    "end_page": 381
+  }
+}
