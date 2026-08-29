@@ -1,0 +1,17 @@
+{
+  "default": {
+    "ocr_engine": "llm",
+    "verses": ["prakrit_verse"]
+  },
+  "SamyakGyanChandrika_Labdhisaar": {
+    "file_url": "https://atmadharma.org/shastras/samyaggnaanchandrikapart3_hin_scn.pdf",
+    "crop": { "top": 6 },
+    "sub_sections": [
+      { "field": "Adhikaar", "name": "Pithika", "start_page": 11, "end_page": 78 },
+      { "field": "Adhikaar", "name": "Darshanlabdhi Adhikaar", "start_page": 79, "end_page": 163 },
+      { "field": "Adhikaar", "name": "Kshayik Samyaktva Prarupana", "start_page": 164, "end_page": 196 },
+      { "field": "Adhikaar", "name": "Charitralabdhi Adhikaar", "start_page": 197, "end_page": 215 },
+      { "field": "Adhikaar", "name": "Charitropashamana Adhikaar", "start_page": 216, "end_page": 316 }
+    ]
+  }
+}

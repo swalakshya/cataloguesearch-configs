@@ -1,0 +1,30 @@
+{
+  "default": {
+    "ocr_engine": "llm",
+    "verses": ["prakrit_verse"],
+    "ignore_bookmarks": true
+  },
+  "SamyakGyanChandrika_KarmkandBhag1": {
+    "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/SamyakGyan%20Chandrika%20Karmkand%20Bhag-1.pdf",
+    "crop": { "top": 5 },
+    "sub_sections": [
+      { "field": "", "name": "Pithika", "start_page": 22, "end_page": 69 },
+      { "field": "Adhikaar", "name": "Prakruti Samutkirtana Adhikaar", "start_page": 70, "end_page": 121 },
+      { "field": "Adhikaar", "name": "Bandhodaya Satva Adhikaar", "start_page": 122, "end_page": 381 },
+      { "field": "Adhikaar", "name": "Satvasthanabhanga Adhikaar", "start_page": 382, "end_page": 418 },
+      { "field": "Adhikaar", "name": "Trichulika Adhikaar", "start_page": 419, "end_page": 446 }
+    ]
+  },
+  "SamyakGyanChandrika_KarmkandBhag2": {
+    "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/SamyakGyan%20Chandrika%20Karmkand%20Bhag-2.pdf",
+    "crop": { "top": 8 },
+    "sub_sections": [
+      { "field": "Adhikaar", "name": "Sthana Samutkirtana Adhikaar", "start_page": 6, "end_page": 266 },
+      { "field": "Adhikaar", "name": "Aasrav Adhikaar", "start_page": 267, "end_page": 290 },
+      { "field": "Adhikaar", "name": "Bhava Chulika Adhikaar", "start_page": 291, "end_page": 353 },
+      { "field": "Adhikaar", "name": "Trikarana Chulika Adhikaar", "start_page": 354, "end_page": 368 },
+      { "field": "Adhikaar", "name": "Karmasthiti Rachana Adhikaar", "start_page": 369, "end_page": 429 },
+      { "field": "", "name": "Aarth Sandrishti", "start_page": 430, "end_page": 587 }
+    ]
+  }
+}

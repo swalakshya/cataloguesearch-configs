@@ -1,0 +1,12 @@
+{
+  "default": {
+    "ocr_engine": "llm",
+    "verses": ["prakrit_verse"]
+  },
+  "SamyakGyanChandrika_Kshapanasaar": {
+    "file_url": "https://atmadharma.org/shastras/samyaggnaanchandrikapart3_hin_scn.pdf",
+    "crop": { "top": 6 },
+    "start_page": 317,
+    "end_page": 513
+  }
+}
