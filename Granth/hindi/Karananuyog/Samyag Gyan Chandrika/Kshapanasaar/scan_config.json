@@ -1,7 +1,8 @@
 {
   "default": {
     "ocr_engine": "llm",
-    "verses": ["prakrit_verse"]
+    "verses": ["prakrit_verse"],
+    "ignore_bookmarks": true
   },
   "SamyakGyanChandrika_Kshapanasaar": {
     "file_url": "https://atmadharma.org/shastras/samyaggnaanchandrikapart3_hin_scn.pdf",
