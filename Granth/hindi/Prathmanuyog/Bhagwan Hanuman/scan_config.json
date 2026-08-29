@@ -1,0 +1,14 @@
+{
+    "default": {
+        "crop": {
+            "top": 17,
+            "bottom": 10
+        },
+        "ignore_bookmarks": true
+    },
+    "bhagwan-hanuman-hin-2304": {
+        "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/bhagwan-hanuman-hin-2304.pdf",
+        "start_page": 4,
+        "end_page": 112
+    }
+}
