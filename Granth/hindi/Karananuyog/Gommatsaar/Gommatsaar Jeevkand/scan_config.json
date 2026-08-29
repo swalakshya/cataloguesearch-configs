@@ -1,0 +1,41 @@
+{
+  "default": {
+    "ocr_engine": "llm",
+    "verses": ["prakrit_verse"],
+    "ignore_bookmarks": true
+  },
+  "GommatsaarJeevkandBhag1": {
+    "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/Gommatsaar%20Jeevkand%20Bhag-1.pdf",
+    "crop": { "top": 9 },
+    "sub_sections": [
+      { "field": "Prarupana", "name": "Gunasthan Prarupana", "start_page": 49, "end_page": 189 },
+      { "field": "Prarupana", "name": "Jeev Samas Prayupana", "start_page": 190, "end_page": 254 },
+      { "field": "Prarupana", "name": "Paryapti Prarupana", "start_page": 255, "end_page": 311 },
+      { "field": "Prarupana", "name": "Pran Prayupana", "start_page": 312, "end_page": 316 },
+      { "field": "Prarupana", "name": "Sangya Prarupana", "start_page": 317, "end_page": 320 },
+      { "field": "Prarupana", "name": "Margana Mahadhikaar", "start_page": 321, "end_page": 340 },
+      { "field": "Prarupana", "name": "Indriya Margana Prarupana", "start_page": 341, "end_page": 358 },
+      { "field": "Prarupana", "name": "Kaya Margana Prarupana", "start_page": 359, "end_page": 401 },
+      { "field": "Prarupana", "name": "Yog Margana Prarupana", "start_page": 402, "end_page": 509 },
+      { "field": "Prarupana", "name": "Ved Margana", "start_page": 510, "end_page": 520 },
+      { "field": "Prarupana", "name": "Kashaya Margana", "start_page": 521, "end_page": 552 }
+    ]
+  },
+  "GommatsaarJeevkandBhag2": {
+    "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/Gommatsaar%20Jeevkand%20Bhag-2.pdf",
+    "crop": { "top": 9 },
+    "sub_sections": [
+      { "field": "Prarupana", "name": "Gyan Margana Adhikaar", "start_page": 14, "end_page": 188 },
+      { "field": "Prarupana", "name": "Sanyam Margana", "start_page": 189, "end_page": 198 },
+      { "field": "Prarupana", "name": "Darshan Margana", "start_page": 199, "end_page": 203 },
+      { "field": "Prarupana", "name": "Leshya Margana", "start_page": 204, "end_page": 293 },
+      { "field": "Prarupana", "name": "Bhavya Margana Adhikaar", "start_page": 294, "end_page": 308 },
+      { "field": "Prarupana", "name": "Samyaktva Margana", "start_page": 309, "end_page": 399 },
+      { "field": "Prarupana", "name": "Sangyi Margana", "start_page": 400, "end_page": 402 },
+      { "field": "Prarupana", "name": "Aahar Margana", "start_page": 403, "end_page": 407 },
+      { "field": "Prarupana", "name": "Upyog Adhikaar", "start_page": 408, "end_page": 411 },
+      { "field": "Prarupana", "name": "Oghadesh Prarupana", "start_page": 412, "end_page": 442 },
+      { "field": "Prarupana", "name": "Aalap Adhikaar", "start_page": 443, "end_page": 583 }
+    ]
+  }
+}
