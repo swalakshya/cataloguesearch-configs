@@ -1,0 +1,30 @@
+{
+  "Pravachan_Navneet_Part_1_hin": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Pravachan_Navneet_Part_1_hin.pdf",
+    "volume": 1,
+    "start_page": 1,
+    "end_page": 357,
+    "crop": { "top": 15, "bottom": 10 }
+  },
+  "Pravachan_Navneet_Part_2_hin": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Pravachan_Navneet_Part_2_hin.pdf",
+    "volume": 2,
+    "start_page": 1,
+    "end_page": 430,
+    "crop": { "top": 16, "bottom": 13 }
+  },
+  "Pravachan_Navneet_Part_3_hin": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Pravachan_Navneet_Part_3_hin.pdf",
+    "volume": 3,
+    "start_page": 9,
+    "end_page": 582,
+    "crop": { "top": 18, "bottom": 13 }
+  },
+  "Pravachan_Navneet_Part_4_hin": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/Pravachan_Navneet_Part_4_hin.pdf",
+    "volume": 4,
+    "start_page": 9,
+    "end_page": 577,
+    "crop": { "top": 15, "bottom": 13 }
+  }
+}
