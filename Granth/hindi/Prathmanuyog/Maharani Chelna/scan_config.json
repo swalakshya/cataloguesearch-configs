@@ -1,0 +1,13 @@
+{
+    "default": {
+        "crop": {
+            "top": 17,
+            "bottom": 5
+        }
+    },
+    "Maharani_Chelna": {
+        "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/Maharani%20Chelna.pdf",
+        "start_page": 6,
+        "end_page": 52
+    }
+}

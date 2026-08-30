@@ -1,0 +1,191 @@
+{
+  "default": {
+    "ocr_engine": "llm",
+    "ignore_bookmarks": true
+  },
+  "Uttar_Puran": {
+    "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/Uttar%20Puran.pdf",
+    "sub_sections": [
+      {
+        "field": "Parva",
+        "name": "Parva 48 - Ajitnath-Sagar Chakravarti",
+        "start_page": 29,
+        "end_page": 41
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 49 - Sambhavnath",
+        "start_page": 42,
+        "end_page": 46
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 50 - Abhinandannath",
+        "start_page": 47,
+        "end_page": 52
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 51 - Sumatinath",
+        "start_page": 53,
+        "end_page": 60
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 52 - Padmaprabh",
+        "start_page": 61,
+        "end_page": 66
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 53 - Suparshvanath",
+        "start_page": 67,
+        "end_page": 71
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 54 - Chandraprabh",
+        "start_page": 72,
+        "end_page": 93
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 55 - Pushpadant",
+        "start_page": 94,
+        "end_page": 98
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 56 - Shitalnath",
+        "start_page": 99,
+        "end_page": 106
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 57 - Shreyansnath-Tripushtha",
+        "start_page": 107,
+        "end_page": 114
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 58 - Vasupujya-Achal Balbhadra",
+        "start_page": 115,
+        "end_page": 124
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 59 - Vimalnath-Swayambhu",
+        "start_page": 125,
+        "end_page": 148
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 60 - Anantnath-Suprabh",
+        "start_page": 149,
+        "end_page": 155
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 61 - Dharmnath-Maghwa-Sanatkumar",
+        "start_page": 156,
+        "end_page": 165
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 62 - Aparajit Balbhadra",
+        "start_page": 166,
+        "end_page": 202
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 63 - Shantinath",
+        "start_page": 203,
+        "end_page": 240
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 64 - Kunthunath",
+        "start_page": 241,
+        "end_page": 245
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 65 - Arahnath-Subhaum",
+        "start_page": 246,
+        "end_page": 260
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 66 - Mallinath-Padma Chakravarti",
+        "start_page": 261,
+        "end_page": 271
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 67 - Munisuvrat-Harishen",
+        "start_page": 272,
+        "end_page": 305
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 68 - Ram-Lakshman-Ravan-Hanuman",
+        "start_page": 306,
+        "end_page": 358
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 69 - Naminath-Jaysen",
+        "start_page": 359,
+        "end_page": 366
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 70 - Neminath-Krishna Vijay",
+        "start_page": 367,
+        "end_page": 402
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 71 - Krishna-Baldev Purvabhav",
+        "start_page": 403,
+        "end_page": 434
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 72 - Neminath-Pradyumna-Jarasandh",
+        "start_page": 435,
+        "end_page": 456
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 73 - Parshvanath",
+        "start_page": 457,
+        "end_page": 470
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 74 - Vardhaman-Chandana-Shrenik",
+        "start_page": 471,
+        "end_page": 509
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 75 - Chetak-Chelna-Jivandhar",
+        "start_page": 510,
+        "end_page": 556
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 76 - Shwetvahan-Jambuswami-Granth Samaropa",
+        "start_page": 557,
+        "end_page": 600
+      },
+      {
+        "field": "Parva",
+        "name": "Prashasthi",
+        "start_page": 601,
+        "end_page": 607
+      }
+    ]
+  }
+}

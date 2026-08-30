@@ -1,0 +1,13 @@
+{
+    "default": {
+        "crop": {
+            "top": 18,
+            "bottom": 5
+        }
+    },
+    "gautam-charitra-hin-941": {
+        "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/gautam-charitra-hin-941.pdf",
+        "start_page": 5,
+        "end_page": 96
+    }
+}

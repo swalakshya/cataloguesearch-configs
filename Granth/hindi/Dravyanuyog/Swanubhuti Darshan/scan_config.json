@@ -1,0 +1,12 @@
+{
+  "default": {
+    "ocr_engine": "tesseract",
+    "ignore_bookmarks": true
+  },
+  "SwanubhutiDarshan": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/B/Swanubhutidarshan_H.pdf",
+    "crop": { "top": 13, "bottom": 0 },
+    "start_page": 9,
+    "end_page": 363
+  }
+}

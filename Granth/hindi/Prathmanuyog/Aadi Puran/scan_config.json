@@ -1,0 +1,298 @@
+{
+  "default": {
+    "ocr_engine": "llm",
+    "ignore_bookmarks": true
+  },
+  "Aadi_Puran_Part-01": {
+    "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/Aadi%20Puran%20Part-01.pdf",
+    "sub_sections": [
+      {
+        "field": "Parva",
+        "name": "Parva 1 - Lok Samanya",
+        "start_page": 91,
+        "end_page": 118
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 2 - Vivaksha",
+        "start_page": 119,
+        "end_page": 134
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 3 - Peethika",
+        "start_page": 135,
+        "end_page": 157
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 4 - Vishayvastu",
+        "start_page": 158,
+        "end_page": 180
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 5 - Mahabal",
+        "start_page": 181,
+        "end_page": 209
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 6 - Lalitang",
+        "start_page": 210,
+        "end_page": 228
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 7 - Vajradant",
+        "start_page": 229,
+        "end_page": 256
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 8 - Vajrajangh",
+        "start_page": 257,
+        "end_page": 279
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 9 - Shridhardev",
+        "start_page": 280,
+        "end_page": 297
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 10 - Sridharadev-Suvidhi",
+        "start_page": 298,
+        "end_page": 316
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 11 - Vajranabhi",
+        "start_page": 317,
+        "end_page": 338
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 12 - Marudevi",
+        "start_page": 339,
+        "end_page": 372
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 13 - Bhagwan Janm",
+        "start_page": 373,
+        "end_page": 393
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 14 - Janmabhishek",
+        "start_page": 394,
+        "end_page": 414
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 15 - Yauvan",
+        "start_page": 415,
+        "end_page": 435
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 16 - Bahubali-Sundari",
+        "start_page": 436,
+        "end_page": 462
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 17 - Vairagya",
+        "start_page": 463,
+        "end_page": 486
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 18 - Deeksha",
+        "start_page": 487,
+        "end_page": 508
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 19 - Vijayardh",
+        "start_page": 509,
+        "end_page": 534
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 20 - Shreyans",
+        "start_page": 535,
+        "end_page": 563
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 21 - Dhyan",
+        "start_page": 564,
+        "end_page": 595
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 22 - Kevalgyan",
+        "start_page": 596,
+        "end_page": 629
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 23 - Samavsaran",
+        "start_page": 630,
+        "end_page": 662
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 24 - Sahasranam Stavan",
+        "start_page": 663,
+        "end_page": 683
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 25 - Vihar",
+        "start_page": 684,
+        "end_page": 726
+      }
+    ]
+  },
+  "Aadi_Puran_Part-02": {
+    "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/Aadi%20Puran%20Part-02.pdf",
+    "sub_sections": [
+      {
+        "field": "Parva",
+        "name": "Parva 26 - Chakraratna Puja",
+        "start_page": 19,
+        "end_page": 35
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 27 - Ganga Varnan",
+        "start_page": 36,
+        "end_page": 50
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 28 - Digvijay Purva",
+        "start_page": 51,
+        "end_page": 79
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 29 - Dakshin Digvijay",
+        "start_page": 80,
+        "end_page": 98
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 30 - Bharat Digvijay",
+        "start_page": 99,
+        "end_page": 113
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 31 - Uttar Digvijay",
+        "start_page": 114,
+        "end_page": 129
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 32 - Vijayardh Guha",
+        "start_page": 130,
+        "end_page": 148
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 33 - Kailash Vandana",
+        "start_page": 149,
+        "end_page": 168
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 34 - Bharat Deeksha Aagraha",
+        "start_page": 169,
+        "end_page": 189
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 35 - Bahubali Yuddh Prastav",
+        "start_page": 190,
+        "end_page": 217
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 36 - Bahubali Yuddh",
+        "start_page": 218,
+        "end_page": 238
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 37 - Ayodhya Pravesh",
+        "start_page": 239,
+        "end_page": 257
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 38 - Danvidhi",
+        "start_page": 258,
+        "end_page": 286
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 39 - Deekshanvaya Kriya",
+        "start_page": 287,
+        "end_page": 307
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 40 - Sanskar Varnan",
+        "start_page": 308,
+        "end_page": 334
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 41 - Swapna Phal",
+        "start_page": 335,
+        "end_page": 348
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 42 - Rajniti Updesh",
+        "start_page": 349,
+        "end_page": 368
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 43 - Jaykumar Charitra",
+        "start_page": 369,
+        "end_page": 403
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 44 - Arkakirti-Jaykumar Yuddh",
+        "start_page": 404,
+        "end_page": 442
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 45 - Akampan Prasannata",
+        "start_page": 443,
+        "end_page": 463
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 46 - Sulochana Purvabhav",
+        "start_page": 464,
+        "end_page": 497
+      },
+      {
+        "field": "Parva",
+        "name": "Parva 47 - Bharat Nirvana",
+        "start_page": 498,
+        "end_page": 533
+      }
+    ]
+  }
+}

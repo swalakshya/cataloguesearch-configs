@@ -1,0 +1,27 @@
+{
+  "default": {
+    "ocr_engine": "tesseract",
+    "ignore_bookmarks": true
+  },
+  "ShrenikCharitra": {
+    "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/shrenik-charitra-hin-3407.pdf",
+    "crop": { "top": 18, "bottom": 10, "left": 12, "right": 12 },
+    "sub_sections": [
+      { "field": "Sarg", "name": "Sarg 1 - Upshrenik Rajya Prapti", "start_page": 5, "end_page": 19 },
+      { "field": "Sarg", "name": "Sarg 2 - Upshrenik Nagar Pravesh", "start_page": 20, "end_page": 33 },
+      { "field": "Sarg", "name": "Sarg 3 - Shrenik Nishkasan", "start_page": 34, "end_page": 56 },
+      { "field": "Sarg", "name": "Sarg 4 - Shrenik-Nandashri Vivah", "start_page": 57, "end_page": 74 },
+      { "field": "Sarg", "name": "Sarg 5 - Shrenik Rajya Prapti", "start_page": 75, "end_page": 87 },
+      { "field": "Sarg", "name": "Sarg 6 - Abhaykumar Rajagrih Aagman", "start_page": 88, "end_page": 121 },
+      { "field": "Sarg", "name": "Sarg 7 - Abhaykumar Buddhi", "start_page": 122, "end_page": 137 },
+      { "field": "Sarg", "name": "Sarg 8 - Shrenik-Chelna Vivah", "start_page": 138, "end_page": 154 },
+      { "field": "Sarg", "name": "Sarg 9 - Muniraj Samagam", "start_page": 155, "end_page": 186 },
+      { "field": "Sarg", "name": "Sarg 10 - Manogupti-Vachangupti Katha", "start_page": 187, "end_page": 215 },
+      { "field": "Sarg", "name": "Sarg 11 - Kayagupti Katha", "start_page": 216, "end_page": 267 },
+      { "field": "Sarg", "name": "Sarg 12 - Kshayik Samyagdarshan Utpatti", "start_page": 268, "end_page": 287 },
+      { "field": "Sarg", "name": "Sarg 13 - Dev Atishay Prapti", "start_page": 288, "end_page": 300 },
+      { "field": "Sarg", "name": "Sarg 14 - Shrenik-Chelna Gati", "start_page": 301, "end_page": 316 },
+      { "field": "Sarg", "name": "Sarg 15 - Padmanabh Panch Kalyanak", "start_page": 317, "end_page": 329 }
+    ]
+  }
+}
