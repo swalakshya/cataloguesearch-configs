@@ -1,0 +1,15 @@
+{
+    "default": {
+        "ocr_engine": "llm",
+        "crop": {
+            "top": 9,
+            "bottom": 0
+        },
+        "ignore_bookmarks": true
+    },
+    "Rayan_Sar": {
+        "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/Rayan%20Sar.pdf",
+        "start_page": 10,
+        "end_page": 138
+    }
+}
