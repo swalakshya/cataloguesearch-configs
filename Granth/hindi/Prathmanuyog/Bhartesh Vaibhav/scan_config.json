@@ -1,0 +1,15 @@
+{
+    "default": {
+        "ocr_engine": "llm",
+        "crop": {
+            "top": 9,
+            "bottom": 1
+        },
+        "ignore_bookmarks": true
+    },
+    "Bhartesh_Vaibhava": {
+        "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/Bhartesh%20Vaibhava.pdf",
+        "start_page": 16,
+        "end_page": 730
+    }
+}

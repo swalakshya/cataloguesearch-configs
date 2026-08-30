@@ -1,0 +1,15 @@
+{
+    "default": {
+        "ocr_engine": "llm",
+        "crop": {
+            "top": 12,
+            "bottom": 1
+        },
+        "ignore_bookmarks": true
+    },
+    "Bhagwan_Parshvanath": {
+        "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/Bhagwan%20Parshvanath.pdf",
+        "start_page": 6,
+        "end_page": 57
+    }
+}
