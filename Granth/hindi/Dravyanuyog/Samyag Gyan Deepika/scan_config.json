@@ -1,0 +1,31 @@
+{
+  "default": {
+    "ocr_engine": "llm",
+    "multi_page": true,
+    "split_percentage": 50,
+    "crop": { "top": 7, "bottom": 0 },
+    "ignore_bookmarks": true
+  },
+  "Samyag_Gyaan_Deepikaa_H": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/B/Samyag_Gyaan_Deepikaa_H.pdf",
+    "book_start_page": 18,
+    "book_start_side": "right",
+    "sub_sections": [
+      { "field": "Adhikaar", "name": "Bhumika", "start_page": 11, "start_side": "right", "end_page": 16, "end_side": "right" },
+      { "field": "Adhikaar", "name": "Samyag Gyan Deepika Praarambh", "start_page": 18, "start_side": "right", "end_page": 20, "end_side": "right" },
+      { "field": "Adhikaar", "name": "Vastu Swabhaav Vivaran", "start_page": 21, "start_side": "right", "end_page": 27, "end_side": "left" },
+      { "field": "Adhikaar", "name": "Gyaanaavaraniya Karm Vivaran", "start_page": 27, "start_side": "right", "end_page": 29, "end_side": "left" },
+      { "field": "Adhikaar", "name": "Darshanaavaraniya Karm Vivaran", "start_page": 29, "start_side": "right", "end_page": 31, "end_side": "left" },
+      { "field": "Adhikaar", "name": "Vedaniya Karm Vivaran", "start_page": 31, "start_side": "right", "end_page": 33, "end_side": "left" },
+      { "field": "Adhikaar", "name": "Mohaniya Karm Vivaran", "start_page": 33, "start_side": "right", "end_page": 35, "end_side": "left" },
+      { "field": "Adhikaar", "name": "Aayu Karm Vivaran", "start_page": 35, "start_side": "right", "end_page": 37, "end_side": "left" },
+      { "field": "Adhikaar", "name": "Naam Karm Vivaran", "start_page": 37, "start_side": "right", "end_page": 39, "end_side": "left" },
+      { "field": "Adhikaar", "name": "Gotra Karm Vivaran", "start_page": 39, "start_side": "right", "end_page": 40, "end_side": "right" },
+      { "field": "Adhikaar", "name": "Antaraay Karm Vivaran", "start_page": 41, "start_side": "left", "end_page": 42, "end_side": "right" },
+      { "field": "Adhikaar", "name": "Bhraantikhandan Drushtaant", "start_page": 43, "start_side": "left", "end_page": 81, "end_side": "right" },
+      { "field": "Adhikaar", "name": "AatmPraapti Ka Prakaar", "start_page": 82, "start_side": "left", "end_page": 89, "end_side": "left" },
+      { "field": "Adhikaar", "name": "Aakinchanya Bhaavanaa", "start_page": 89, "start_side": "right", "end_page": 90, "end_side": "left" },
+      { "field": "Adhikaar", "name": "BhedGyaan Vivaran", "start_page": 90, "start_side": "right", "end_page": 93, "end_side": "left" }
+    ]
+  }
+}
