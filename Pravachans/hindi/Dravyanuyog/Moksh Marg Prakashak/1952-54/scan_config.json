@@ -1,0 +1,19 @@
+{
+  "default": {
+    "ocr_engine": "tesseract",
+    "ignore_bookmarks": false,
+    "crop": { "top": 13, "bottom": 0 }
+  },
+  "MM_Prakashak_Pravachan_Part-01_H": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/M.M.%20Prakashak%20Pravachan%20Part%201_H.pdf",
+    "volume": 1,
+    "start_page": 18,
+    "end_page": 315
+  },
+  "MM_Prakashak_Pravachan_Part-02_H": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/M.M.%20Prakashak%20Pravachan%20Part%202_H.pdf",
+    "volume": 2,
+    "start_page": 18,
+    "end_page": 305
+  }
+}

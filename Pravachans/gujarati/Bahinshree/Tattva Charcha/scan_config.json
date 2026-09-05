@@ -1,0 +1,86 @@
+{
+  "default": {
+    "ignore_bookmarks": true
+  },
+  "Pu.Bahenshree-Champaben-Mangal-vani_G": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/BEHENSHREE-PRAVACHAN-SHASTRA/Pu.Bahenshree-Champaben-Mangal-vani_G.pdf",
+    "crop": {
+      "top": 15,
+      "bottom": 0
+    },
+    "start_page": 20,
+    "end_page": 568
+  },
+  "Pu.BahenShree-Ni-AmrutVaani-Bhag---1-A": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/BEHENSHREE-PRAVACHAN-SHASTRA/Pu.BahenShree-Ni-AmrutVaani-Bhag---1-A.pdf",
+    "crop": {
+      "top": 16,
+      "bottom": 0
+    },
+    "start_page": 11,
+    "end_page": 467
+  },
+  "Pu.BahenShree-Ni-AmrutVaani-Bhag---1-B": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/BEHENSHREE-PRAVACHAN-SHASTRA/Pu.BahenShree-Ni-AmrutVaani-Bhag---1-B.pdf",
+    "crop": {
+      "top": 7,
+      "bottom": 0
+    },
+    "start_page": 14,
+    "end_page": 336
+  },
+  "Pu.BahenShree-Ni-AmrutVaani-Bhag---1-C": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/BEHENSHREE-PRAVACHAN-SHASTRA/Pu.BahenShree-Ni-AmrutVaani-Bhag---1-C.pdf",
+    "crop": {
+      "top": 8,
+      "bottom": 0
+    },
+    "start_page": 14,
+    "end_page": 281
+  },
+  "Pu.BahenShree-Ni-AmrutVaani-Bhag---2-A": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/BEHENSHREE-PRAVACHAN-SHASTRA/Pu.BahenShree-Ni-AmrutVaani-Bhag---2-A.pdf",
+    "crop": {
+      "top": 7,
+      "bottom": 0
+    },
+    "start_page": 14,
+    "end_page": 506
+  },
+  "Pu.BahenShree-Ni-AmrutVaani-Bhag---2-B": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/BEHENSHREE-PRAVACHAN-SHASTRA/Pu.BahenShree-Ni-AmrutVaani-Bhag---2-B.pdf",
+    "crop": {
+      "top": 7,
+      "bottom": 0
+    },
+    "start_page": 14,
+    "end_page": 490
+  },
+  "Pu.BahenShree-Ni-AmrutVaani-Bhag---3-A": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/BEHENSHREE-PRAVACHAN-SHASTRA/Pu.BahenShree-Ni-AmrutVaani-Bhag---3-A.pdf",
+    "crop": {
+      "top": 13,
+      "bottom": 0
+    },
+    "start_page": 8,
+    "end_page": 437
+  },
+  "Pu.BahenShree-Ni-AmrutVaani-Bhag---3-B": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/BEHENSHREE-PRAVACHAN-SHASTRA/Pu.BahenShree-Ni-AmrutVaani-Bhag---3-B.pdf",
+    "crop": {
+      "top": 13,
+      "bottom": 0
+    },
+    "start_page": 12,
+    "end_page": 398
+  },
+  "Pu.BahenShree-Ni-AmrutVaani-Bhag---3-C": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/BEHENSHREE-PRAVACHAN-SHASTRA/Pu.BahenShree-Ni-AmrutVaani-Bhag---3-C.pdf",
+    "crop": {
+      "top": 8,
+      "bottom": 0
+    },
+    "start_page": 12,
+    "end_page": 442
+  }
+}

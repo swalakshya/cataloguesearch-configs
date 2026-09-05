@@ -1,0 +1,28 @@
+{
+  "default": {
+    "ocr_engine": "tesseract",
+    "ignore_bookmarks": false,
+    "crop": {
+      "top": 16,
+      "bottom": 5
+    }
+  },
+  "PanchaastikaaySangrah_Prakaash_Bhag-01_H": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/PanchaastikaaySangrah_Prakaash_Bhag%20-%201_H.pdf",
+    "volume": 1,
+    "start_page": 16,
+    "end_page": 575
+  },
+  "PanchaastikaaySangrah_Prakaash_Bhag-02_H": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/PanchaastikaaySangrah_Prakaash_Bhag%20-%202_H.pdf",
+    "volume": 2,
+    "start_page": 16,
+    "end_page": 586
+  },
+  "PanchaastikaaySangrah_Prakaash_Bhag-03_H": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/C/PanchaastikaaySangrah_Prakaash_Bhag%20-%203_H.pdf",
+    "volume": 3,
+    "start_page": 16,
+    "end_page": 507
+  }
+}
