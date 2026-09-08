@@ -1,0 +1,86 @@
+{
+    "default": {
+        "ocr_engine": "tesseract",
+        "ignore_bookmarks": true,
+        "crop": {
+            "top": 11
+        }
+    },
+    "ChaitanyaVihar": {
+        "file_url": "https://swalakshya.me/api/media/pdfs/CV.pdf",
+        "sub_sections": [
+            {
+                "field": "Adhyaya",
+                "name": "Jain Darshan: Swaroop Evam Samiksha",
+                "start_page": 14,
+                "end_page": 27
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Tattvagyan: Ek Anuthi Jeevan-Kala",
+                "start_page": 28,
+                "end_page": 34
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Samyagdarshan Aur Uska Vishay (Pratham)",
+                "start_page": 35,
+                "end_page": 45
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Samyagdarshan Aur Uska Vishay (Dwitiya)",
+                "start_page": 46,
+                "end_page": 71
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Gyanswabhav-Samyagyan",
+                "start_page": 72,
+                "end_page": 84
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Mahavir Ka Anekantik Ahinsa-Darshan",
+                "start_page": 85,
+                "end_page": 96
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Aparigrah: Ek Anuchintan",
+                "start_page": 97,
+                "end_page": 111
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Adhunik Vaigyanik-Pragati Aur Jaindarshan",
+                "start_page": 112,
+                "end_page": 122
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Anekant-Syadvad: Ek Vivechan",
+                "start_page": 123,
+                "end_page": 142
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Nimitta-Upadan (Pratham-Alekh)",
+                "start_page": 143,
+                "end_page": 156
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Nimitta-Upadan (Dwitiya-Alekh)",
+                "start_page": 157,
+                "end_page": 171
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Hinsa Evam Ahinsa: Ek Darshanik Chintan",
+                "start_page": 172,
+                "end_page": 188
+            }
+        ]
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "default": {
+        "ocr_engine": "tesseract",
+        "ignore_bookmarks": true,
+        "crop": {
+            "top": 11
+        }
+    },
+    "CharchaChaitanyaKiPart1": {
+        "file_url": "https://swalakshya.me/api/media/pdfs/CCK1.pdf",
+        "volume": 1,
+        "sub_sections": [
+            {
+                "field": "Tattvacharcha",
+                "name": "Tattvacharcha 1",
+                "start_page": 11,
+                "end_page": 29
+            },
+            {
+                "field": "Tattvacharcha",
+                "name": "Tattvacharcha 2",
+                "start_page": 30,
+                "end_page": 53
+            },
+            {
+                "field": "Tattvacharcha",
+                "name": "Tattvacharcha 3",
+                "start_page": 54,
+                "end_page": 76
+            },
+            {
+                "field": "Tattvacharcha",
+                "name": "Tattvacharcha 4",
+                "start_page": 77,
+                "end_page": 91
+            },
+            {
+                "field": "Tattvacharcha",
+                "name": "Tattvacharcha 5",
+                "start_page": 92,
+                "end_page": 110
+            },
+            {
+                "field": "Tattvacharcha",
+                "name": "Tattvacharcha 6",
+                "start_page": 111,
+                "end_page": 139
+            },
+            {
+                "field": "Tattvacharcha",
+                "name": "Tattvacharcha 7",
+                "start_page": 140,
+                "end_page": 164
+            },
+            {
+                "field": "Tattvacharcha",
+                "name": "Tattvacharcha 8",
+                "start_page": 165,
+                "end_page": 194
+            },
+            {
+                "field": "Tattvacharcha",
+                "name": "Tattvacharcha 9",
+                "start_page": 195,
+                "end_page": 222
+            },
+            {
+                "field": "Tattvacharcha",
+                "name": "Tattvacharcha 10",
+                "start_page": 223,
+                "end_page": 240
+            },
+            {
+                "field": "Tattvacharcha",
+                "name": "Tattvacharcha 11",
+                "start_page": 241,
+                "end_page": 266
+            }
+        ]
+    },
+    "CharchaChaitanyaKiPart2": {
+        "file_url": "https://swalakshya.me/api/media/pdfs/CCK2.pdf",
+        "volume": 2,
+        "sub_sections": [
+            {
+                "field": "Tattvacharcha",
+                "name": "Tattvacharcha 12",
+                "start_page": 14,
+                "end_page": 42
+            },
+            {
+                "field": "Tattvacharcha",
+                "name": "Tattvacharcha 13",
+                "start_page": 43,
+                "end_page": 73
+            },
+            {
+                "field": "Tattvacharcha",
+                "name": "Tattvacharcha 14",
+                "start_page": 74,
+                "end_page": 100
+            },
+            {
+                "field": "Tattvacharcha",
+                "name": "Tattvacharcha 15",
+                "start_page": 101,
+                "end_page": 131
+            },
+            {
+                "field": "Tattvacharcha",
+                "name": "Tattvacharcha 16",
+                "start_page": 132,
+                "end_page": 163
+            },
+            {
+                "field": "Tattvacharcha",
+                "name": "Tattvacharcha 17",
+                "start_page": 164,
+                "end_page": 187
+            },
+            {
+                "field": "Tattvacharcha",
+                "name": "Tattvacharcha 18",
+                "start_page": 188,
+                "end_page": 209
+            },
+            {
+                "field": "Tattvacharcha",
+                "name": "Tattvacharcha 19",
+                "start_page": 210,
+                "end_page": 236
+            },
+            {
+                "field": "Tattvacharcha",
+                "name": "Tattvacharcha 20",
+                "start_page": 237,
+                "end_page": 265
+            },
+            {
+                "field": "Tattvacharcha",
+                "name": "Tattvacharcha 21",
+                "start_page": 266,
+                "end_page": 295
+            },
+            {
+                "field": "Tattvacharcha",
+                "name": "Tattvacharcha 22",
+                "start_page": 296,
+                "end_page": 329
+            }
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "default": {
+        "ocr_engine": "tesseract",
+        "ignore_bookmarks": true,
+        "crop": {
+            "top": 11
+        }
+    },
+    "JainKshitijKeUditNakshatra": {
+        "file_url": "https://swalakshya.me/api/media/pdfs/JKUN.pdf",
+        "sub_sections": [
+            {
+                "field": "Adhyaya",
+                "name": "Jeevan Evam Darshan - Bhagwan Mahavir",
+                "start_page": 16,
+                "end_page": 25
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Acharya Kundkund Evam Unka Pradeya",
+                "start_page": 26,
+                "end_page": 56
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Mahakavi Banarasidas Evam Unka Sahityik Mulyankan",
+                "start_page": 57,
+                "end_page": 92
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Ek Mahan Vyaktitva: Acharyakalp Pandit Todarmal",
+                "start_page": 93,
+                "end_page": 99
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Mokshamarg Prakashak: Ek Adhyayan",
+                "start_page": 100,
+                "end_page": 125
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Sarvodayi-Yuganeta: Shri Kanji Swami",
+                "start_page": 126,
+                "end_page": 135
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Naatak: Bharat-Bahubali",
+                "start_page": 136,
+                "end_page": 168
+            }
+        ]
+    }
+}

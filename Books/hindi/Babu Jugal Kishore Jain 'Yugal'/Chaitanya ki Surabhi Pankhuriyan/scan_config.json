@@ -1,0 +1,38 @@
+{
+    "default": {
+        "ocr_engine": "tesseract",
+        "ignore_bookmarks": true,
+        "crop": {
+            "top": 11
+        }
+    },
+    "ChaitanyaKiSurabhiPankhuriyan": {
+        "file_url": "https://swalakshya.me/api/media/pdfs/CSP.pdf",
+        "sub_sections": [
+            {
+                "field": "Adhyaya",
+                "name": "Chintan Shatak",
+                "start_page": 8,
+                "end_page": 135
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Mumukshu Sadan ki Chahal Pahal",
+                "start_page": 136,
+                "end_page": 147
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Gurudevshri Dwara Mumukshu ko Samarpit",
+                "start_page": 148,
+                "end_page": 148
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Mumukshuta ka Yashogaan",
+                "start_page": 149,
+                "end_page": 153
+            }
+        ]
+    }
+}
