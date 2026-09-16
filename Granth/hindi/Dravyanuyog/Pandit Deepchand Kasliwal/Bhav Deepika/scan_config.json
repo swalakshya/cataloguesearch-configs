@@ -5,6 +5,7 @@
             "bottom": 2
         },
         "ocr_engine": "llm",
+        "language": "dhundhari",
         "ignore_bookmarks": true
     },
     "BhavDeepika": {

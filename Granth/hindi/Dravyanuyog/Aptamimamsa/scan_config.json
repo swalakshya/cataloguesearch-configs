@@ -1,0 +1,86 @@
+{
+    "default": {
+        "crop": {
+            "top": 9,
+            "bottom": 0
+        },
+        "ocr_engine": "llm",
+        "language": "dhundhari",
+        "verses": [
+            "hindi_verse",
+            "sanskrit_verse"
+        ],
+        "ignore_bookmarks": true
+    },
+    "Aptamimamsa": {
+        "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/aapt-mimansa-hin-932.pdf",
+        "sub_sections": [
+            {
+                "field": "Parichhed",
+                "name": "Bhumika",
+                "start_page": 6,
+                "end_page": 14
+            },
+            {
+                "field": "Parichhed",
+                "name": "Prathm Parichhed",
+                "start_page": 26,
+                "end_page": 57
+            },
+            {
+                "field": "Parichhed",
+                "name": "Dwitiya Parichhed",
+                "start_page": 58,
+                "end_page": 70
+            },
+            {
+                "field": "Parichhed",
+                "name": "Tritiya Parichhed",
+                "start_page": 71,
+                "end_page": 89
+            },
+            {
+                "field": "Parichhed",
+                "name": "Chaturth Parichhed",
+                "start_page": 90,
+                "end_page": 98
+            },
+            {
+                "field": "Parichhed",
+                "name": "Pancham Parichhed",
+                "start_page": 99,
+                "end_page": 101
+            },
+            {
+                "field": "Parichhed",
+                "name": "Shashth Parichhed",
+                "start_page": 102,
+                "end_page": 103
+            },
+            {
+                "field": "Parichhed",
+                "name": "Saptam Parichhed",
+                "start_page": 104,
+                "end_page": 112
+            },
+            {
+                "field": "Parichhed",
+                "name": "Ashtam Parichhed",
+                "start_page": 113,
+                "end_page": 116
+            },
+            {
+                "field": "Parichhed",
+                "name": "Navam Parichhed",
+                "start_page": 117,
+                "end_page": 120
+            },
+            {
+                "field": "Parichhed",
+                "name": "Dasham Parichhed",
+                "start_page": 121,
+                "end_page": 143
+            }
+        ]
+    }
+}
