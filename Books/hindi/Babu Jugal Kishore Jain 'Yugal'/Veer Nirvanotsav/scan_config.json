@@ -1,0 +1,11 @@
+{
+    "default": {
+        "ocr_engine": "tesseract",
+        "ignore_bookmarks": true
+    },
+    "VN": {
+        "file_url": "https://swalakshya.me/api/media/pdfs/VN.pdf",
+        "start_page": 1,
+        "end_page": 5
+    }
+}

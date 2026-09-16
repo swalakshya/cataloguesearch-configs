@@ -1,0 +1,39 @@
+{
+    "default": {
+        "ocr_engine": "llm",
+        "ignore_bookmarks": true,
+        "crop": {
+            "top": 9,
+            "bottom": 0
+        }
+    },
+    "NayChakko": {
+        "file_url": "https://vitragelibrary.org/documents/default.aspx?f=shastra/pdf/Nay%20Chakko.pdf",
+        "sub_sections": [
+            {
+                "field": "Section",
+                "name": "Prastavana",
+                "start_page": 13,
+                "end_page": 44
+            },
+            {
+                "field": "Section",
+                "name": "Naychakra (Mool evam Tika)",
+                "start_page": 51,
+                "end_page": 258
+            },
+            {
+                "field": "Section",
+                "name": "Parishisht 1 - Alapapaddhati",
+                "start_page": 259,
+                "end_page": 278
+            },
+            {
+                "field": "Section",
+                "name": "Parishisht 2 - Nayavivaran",
+                "start_page": 279,
+                "end_page": 318
+            }
+        ]
+    }
+}

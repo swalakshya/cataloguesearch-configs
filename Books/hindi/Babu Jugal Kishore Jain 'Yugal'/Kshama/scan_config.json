@@ -1,0 +1,15 @@
+{
+    "default": {
+        "ocr_engine": "tesseract",
+        "ignore_bookmarks": true,
+        "crop": {
+            "top": 7,
+            "bottom": 3
+        }
+    },
+    "Kshama": {
+        "file_url": "https://swalakshya.me/api/media/pdfs/Kshama.pdf",
+        "start_page": 1,
+        "end_page": 17
+    }
+}

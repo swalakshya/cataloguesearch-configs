@@ -1,0 +1,27 @@
+{
+    "default": {
+        "ocr_engine": "tesseract",
+        "ignore_bookmarks": true,
+        "crop": {
+            "top": 7,
+            "bottom": 0
+        }
+    },
+    "DLP": {
+        "file_url": "https://swalakshya.me/api/media/pdfs/DLP.pdf",
+        "sub_sections": [
+            {
+                "field": "Adhyaya",
+                "name": "Dravya Paksh evam Bhav Paksh",
+                "start_page": 1,
+                "end_page": 25
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Shuddh Chetan Tattva ki Upasana",
+                "start_page": 26,
+                "end_page": 30
+            }
+        ]
+    }
+}

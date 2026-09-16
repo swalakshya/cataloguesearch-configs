@@ -1,0 +1,27 @@
+{
+  "Panchadhyayi": {
+    "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/E/Panchadhyayi_Subodhi%20Tika_H.pdf",
+    "crop": {
+      "top": 8,
+      "bottom": 3
+    },
+    "ocr_engine": "llm",
+    "ignore_bookmarks": true,
+    "sub_sections": [
+      {
+        "field": "Ardh",
+        "name": "Purvardh",
+        "start_page": 20,
+        "end_page": 245,
+        "volume": 1
+      },
+      {
+        "field": "Ardh",
+        "name": "Uttarardh",
+        "start_page": 264,
+        "end_page": 581,
+        "volume": 2
+      }
+    ]
+  }
+}
