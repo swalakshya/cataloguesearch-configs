@@ -9,11 +9,30 @@
             "prakrit_verse",
             "hindi_verse",
             "sanskrit_verse"
-        ]
+        ],
+        "ignore_bookmarks": true
     },
     "Panchastikaya": {
         "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/punchaastikaaisangrah_hin_txt.pdf",
-        "start_page": 30,
-        "end_page": 293
+        "sub_sections": [
+            {
+                "field": "Adhikar",
+                "name": "Upodghaat",
+                "start_page": 11,
+                "end_page": 18
+            },
+            {
+                "field": "Adhikar",
+                "name": "Shad Dravya Panchastikaya Varnan",
+                "start_page": 30,
+                "end_page": 189
+            },
+            {
+                "field": "Adhikar",
+                "name": "Nava Padarth Purvak Moksha Marg Prapanch Varnan",
+                "start_page": 190,
+                "end_page": 293
+            }
+        ]
     }
 }

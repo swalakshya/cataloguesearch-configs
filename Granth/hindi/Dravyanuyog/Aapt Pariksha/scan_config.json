@@ -1,0 +1,85 @@
+{
+    "default": {
+        "crop": {
+            "top": 8,
+            "bottom": 4
+        },
+        "ocr_engine": "llm",
+        "verses": [
+            "hindi_verse",
+            "sanskrit_verse"
+        ],
+        "ignore_bookmarks": true
+    },
+    "Aapt Pariksha": {
+        "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/Aapt%20Pariksha.pdf",
+        "sub_sections": [
+            {
+                "field": "Parichhed",
+                "name": "Prastavana",
+                "start_page": 32,
+                "end_page": 100
+            },
+            {
+                "field": "Parichhed",
+                "name": "Parmeshthi Gunastotra Prayojan",
+                "start_page": 114,
+                "end_page": 133
+            },
+            {
+                "field": "Parichhed",
+                "name": "Ishwar Pariksha",
+                "start_page": 134,
+                "end_page": 316
+            },
+            {
+                "field": "Parichhed",
+                "name": "Kapil Pariksha",
+                "start_page": 317,
+                "end_page": 331
+            },
+            {
+                "field": "Parichhed",
+                "name": "Sugat Pariksha",
+                "start_page": 332,
+                "end_page": 370
+            },
+            {
+                "field": "Parichhed",
+                "name": "Parampurush Pariksha",
+                "start_page": 371,
+                "end_page": 385
+            },
+            {
+                "field": "Parichhed",
+                "name": "Arhat Sarvagya Siddhi",
+                "start_page": 386,
+                "end_page": 429
+            },
+            {
+                "field": "Parichhed",
+                "name": "Arhat Karmabhubhridhetutva Siddhi",
+                "start_page": 430,
+                "end_page": 445
+            },
+            {
+                "field": "Parichhed",
+                "name": "Arhat Mokshamarganetritva Siddhi",
+                "start_page": 446,
+                "end_page": 458
+            },
+            {
+                "field": "Parichhed",
+                "name": "Arhat Vandya Siddhi",
+                "start_page": 459,
+                "end_page": 463
+            },
+            {
+                "field": "Parichhed",
+                "name": "Upsanhar",
+                "start_page": 464,
+                "end_page": 466
+            }
+        ]
+    }
+}

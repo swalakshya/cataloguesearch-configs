@@ -9,11 +9,90 @@
             "prakrit_verse",
             "hindi_verse",
             "sanskrit_verse"
-        ]
+        ],
+        "ignore_bookmarks": true
     },
     "Niyamsaar": {
         "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/Niyamsar_Hi.pdf",
-        "start_page": 28,
-        "end_page": 402
+        "sub_sections": [
+            {
+                "field": "Adhikar",
+                "name": "Upodghaat",
+                "start_page": 9,
+                "end_page": 17
+            },
+            {
+                "field": "Adhikar",
+                "name": "Jeev Adhikar",
+                "start_page": 28,
+                "end_page": 75
+            },
+            {
+                "field": "Adhikar",
+                "name": "Ajeev Adhikar",
+                "start_page": 76,
+                "end_page": 103
+            },
+            {
+                "field": "Adhikar",
+                "name": "Shuddhabhav Adhikar",
+                "start_page": 104,
+                "end_page": 137
+            },
+            {
+                "field": "Adhikar",
+                "name": "Vyavaharcharitra Adhikar",
+                "start_page": 138,
+                "end_page": 175
+            },
+            {
+                "field": "Adhikar",
+                "name": "Paramarth Pratikraman Adhikar",
+                "start_page": 176,
+                "end_page": 207
+            },
+            {
+                "field": "Adhikar",
+                "name": "Nishchay Pratyakhyan Adhikar",
+                "start_page": 208,
+                "end_page": 235
+            },
+            {
+                "field": "Adhikar",
+                "name": "Param Aalochana Adhikar",
+                "start_page": 236,
+                "end_page": 254
+            },
+            {
+                "field": "Adhikar",
+                "name": "Shuddha Nishchay Prayashchitt Adhikar",
+                "start_page": 255,
+                "end_page": 273
+            },
+            {
+                "field": "Adhikar",
+                "name": "Param Samadhi Adhikar",
+                "start_page": 274,
+                "end_page": 294
+            },
+            {
+                "field": "Adhikar",
+                "name": "Param Bhakti Adhikar",
+                "start_page": 295,
+                "end_page": 308
+            },
+            {
+                "field": "Adhikar",
+                "name": "Nishchay Paramavashyak Adhikar",
+                "start_page": 309,
+                "end_page": 344
+            },
+            {
+                "field": "Adhikar",
+                "name": "Shuddhopayog Adhikar",
+                "start_page": 345,
+                "end_page": 402
+            }
+        ]
     }
 }

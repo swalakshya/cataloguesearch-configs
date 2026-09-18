@@ -1,0 +1,58 @@
+{
+    "default": {
+        "crop": {
+            "top": 18,
+            "bottom": 5
+        },
+        "ocr_engine": "llm",
+        "language": "dhundhari",
+        "ignore_bookmarks": true
+    },
+    "SudrushtiTarangani": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/B/Sudrushti_Tarangani_H.pdf",
+        "sub_sections": [
+            {"field": "Parv", "name": "Parv 1", "start_page": 12, "end_page": 23},
+            {"field": "Parv", "name": "Parv 2", "start_page": 24, "end_page": 43},
+            {"field": "Parv", "name": "Parv 3", "start_page": 44, "end_page": 57},
+            {"field": "Parv", "name": "Parv 4", "start_page": 58, "end_page": 89},
+            {"field": "Parv", "name": "Parv 5", "start_page": 90, "end_page": 108},
+            {"field": "Parv", "name": "Parv 6", "start_page": 109, "end_page": 122},
+            {"field": "Parv", "name": "Parv 7", "start_page": 123, "end_page": 134},
+            {"field": "Parv", "name": "Parv 8", "start_page": 135, "end_page": 153},
+            {"field": "Parv", "name": "Parv 9", "start_page": 154, "end_page": 164},
+            {"field": "Parv", "name": "Parv 10", "start_page": 165, "end_page": 188},
+            {"field": "Parv", "name": "Parv 11", "start_page": 189, "end_page": 199},
+            {"field": "Parv", "name": "Parv 12", "start_page": 200, "end_page": 214},
+            {"field": "Parv", "name": "Parv 13", "start_page": 215, "end_page": 237},
+            {"field": "Parv", "name": "Parv 14", "start_page": 238, "end_page": 249},
+            {"field": "Parv", "name": "Parv 15", "start_page": 250, "end_page": 254},
+            {"field": "Parv", "name": "Parv 16", "start_page": 255, "end_page": 256},
+            {"field": "Parv", "name": "Parv 17", "start_page": 257, "end_page": 259},
+            {"field": "Parv", "name": "Parv 18", "start_page": 260, "end_page": 263},
+            {"field": "Parv", "name": "Parv 19", "start_page": 264, "end_page": 282},
+            {"field": "Parv", "name": "Parv 20", "start_page": 283, "end_page": 290},
+            {"field": "Parv", "name": "Parv 21", "start_page": 291, "end_page": 308},
+            {"field": "Parv", "name": "Parv 22", "start_page": 309, "end_page": 327},
+            {"field": "Parv", "name": "Parv 23", "start_page": 328, "end_page": 345},
+            {"field": "Parv", "name": "Parv 24", "start_page": 346, "end_page": 362},
+            {"field": "Parv", "name": "Parv 25", "start_page": 363, "end_page": 378},
+            {"field": "Parv", "name": "Parv 26", "start_page": 379, "end_page": 398},
+            {"field": "Parv", "name": "Parv 27", "start_page": 399, "end_page": 410},
+            {"field": "Parv", "name": "Parv 28", "start_page": 411, "end_page": 424},
+            {"field": "Parv", "name": "Parv 29", "start_page": 425, "end_page": 466},
+            {"field": "Parv", "name": "Parv 30", "start_page": 467, "end_page": 483},
+            {"field": "Parv", "name": "Parv 31", "start_page": 484, "end_page": 499},
+            {"field": "Parv", "name": "Parv 32", "start_page": 500, "end_page": 521},
+            {"field": "Parv", "name": "Parv 33", "start_page": 522, "end_page": 531},
+            {"field": "Parv", "name": "Parv 34", "start_page": 532, "end_page": 544},
+            {"field": "Parv", "name": "Parv 35", "start_page": 545, "end_page": 550},
+            {"field": "Parv", "name": "Parv 36", "start_page": 551, "end_page": 554},
+            {"field": "Parv", "name": "Parv 37", "start_page": 555, "end_page": 577},
+            {"field": "Parv", "name": "Parv 38", "start_page": 578, "end_page": 582},
+            {"field": "Parv", "name": "Parv 39", "start_page": 583, "end_page": 620},
+            {"field": "Parv", "name": "Parv 40", "start_page": 621, "end_page": 631},
+            {"field": "Parv", "name": "Parv 41", "start_page": 632, "end_page": 641},
+            {"field": "Parv", "name": "Parv 42", "start_page": 642, "end_page": 644}
+        ]
+    }
+}

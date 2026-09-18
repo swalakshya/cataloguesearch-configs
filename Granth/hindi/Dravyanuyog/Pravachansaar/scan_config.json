@@ -9,11 +9,42 @@
             "prakrit_verse",
             "hindi_verse",
             "sanskrit_verse"
-        ]
+        ],
+        "ignore_bookmarks": true
     },
     "Pravachansaar": {
         "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/Pravachansar_Hi.pdf",
-        "start_page": 34,
-        "end_page": 538
+        "sub_sections": [
+            {
+                "field": "Adhikar",
+                "name": "Upodghaat",
+                "start_page": 12,
+                "end_page": 20
+            },
+            {
+                "field": "Adhikar",
+                "name": "Gyaan Tattva Pragyapan",
+                "start_page": 34,
+                "end_page": 194
+            },
+            {
+                "field": "Adhikar",
+                "name": "Gyeya Tattva Pragyapan",
+                "start_page": 195,
+                "end_page": 404
+            },
+            {
+                "field": "Adhikar",
+                "name": "Charananuyog Suchak Chulika",
+                "start_page": 405,
+                "end_page": 525
+            },
+            {
+                "field": "Adhikar",
+                "name": "Parishisht",
+                "start_page": 526,
+                "end_page": 538
+            }
+        ]
     }
 }

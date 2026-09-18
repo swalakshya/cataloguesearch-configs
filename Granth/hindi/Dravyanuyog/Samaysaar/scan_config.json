@@ -9,11 +9,84 @@
             "prakrit_verse",
             "hindi_verse",
             "sanskrit_verse"
-        ]
+        ],
+        "ignore_bookmarks": true
     },
     "Samaysaar": {
         "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/SAMAYASARJI_HI.pdf",
-        "start_page": 34,
-        "end_page": 662
+        "sub_sections": [
+            {
+                "field": "Adhikar",
+                "name": "Upodghaat",
+                "start_page": 14,
+                "end_page": 20
+            },
+            {
+                "field": "Adhikar",
+                "name": "Purvarang",
+                "start_page": 34,
+                "end_page": 118
+            },
+            {
+                "field": "Adhikar",
+                "name": "Jeev-Ajeev Adhikar",
+                "start_page": 119,
+                "end_page": 161
+            },
+            {
+                "field": "Adhikar",
+                "name": "Karta-Karma Adhikar",
+                "start_page": 162,
+                "end_page": 267
+            },
+            {
+                "field": "Adhikar",
+                "name": "Punya-Paap Adhikar",
+                "start_page": 268,
+                "end_page": 293
+            },
+            {
+                "field": "Adhikar",
+                "name": "Aashrav Adhikar",
+                "start_page": 294,
+                "end_page": 317
+            },
+            {
+                "field": "Adhikar",
+                "name": "Sanvar Adhikar",
+                "start_page": 318,
+                "end_page": 334
+            },
+            {
+                "field": "Adhikar",
+                "name": "Nirjara Adhikar",
+                "start_page": 335,
+                "end_page": 400
+            },
+            {
+                "field": "Adhikar",
+                "name": "Bandh Adhikar",
+                "start_page": 401,
+                "end_page": 456
+            },
+            {
+                "field": "Adhikar",
+                "name": "Moksha Adhikar",
+                "start_page": 457,
+                "end_page": 487
+            },
+            {
+                "field": "Adhikar",
+                "name": "Sarvavishuddhagyan Adhikar",
+                "start_page": 488,
+                "end_page": 624
+            },
+            {
+                "field": "Adhikar",
+                "name": "Parishisht",
+                "start_page": 625,
+                "end_page": 662
+            }
+        ]
     }
 }
