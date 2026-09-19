@@ -1,0 +1,40 @@
+{
+    "default": {
+        "crop": {
+            "top": 7,
+            "bottom": 2
+        },
+        "ocr_engine": "llm",
+        "language": "dhundhari",
+        "ignore_bookmarks": true
+    },
+    "BhavDeepika": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/B/bhavdipika_hin_scn.pdf",
+        "sub_sections": [
+            { "field": "Adhikaar", "name": "Samanya Adhikaar", "start_page": 13, "end_page": 17 },
+            { "field": "Adhikaar", "name": "Parinamik Adhikaar", "start_page": 18, "end_page": 21 },
+            { "field": "Adhikaar", "name": "Karm Adhikaar", "start_page": 22, "end_page": 34 },
+            { "field": "Adhikaar", "name": "Audayik Bhav - Gatibhav Antaradhikar", "start_page": 35, "end_page": 39 },
+            { "field": "Adhikaar", "name": "Audayik Bhav - Mithyatvabhav Antaradhikar", "start_page": 40, "end_page": 60 },
+            { "field": "Adhikaar", "name": "Audayik Bhav - Kashaybhav Antaradhikar", "start_page": 61, "end_page": 82 },
+            { "field": "Adhikaar", "name": "Audayik Bhav - Leshyabhav Antaradhikar", "start_page": 83, "end_page": 100 },
+            { "field": "Adhikaar", "name": "Audayik Bhav - Vedbhav Antaradhikar", "start_page": 101, "end_page": 102 },
+            { "field": "Adhikaar", "name": "Audayik Bhav - Asamyambhav Antaradhikar", "start_page": 103, "end_page": 103 },
+            { "field": "Adhikaar", "name": "Audayik Bhav - Agyanbhav Antaradhikar", "start_page": 104, "end_page": 104 },
+            { "field": "Adhikaar", "name": "Audayik Bhav - Asiddhabhav Antaradhikar", "start_page": 105, "end_page": 105 },
+            { "field": "Adhikaar", "name": "Kshayopshamik Bhav Adhikaar", "start_page": 106, "end_page": 106 },
+            { "field": "Adhikaar", "name": "Kshayopshamik Bhav - Kugyan Antaradhikar", "start_page": 107, "end_page": 109 },
+            { "field": "Adhikaar", "name": "Kshayopshamik Bhav - Sugyan Antaradhikar", "start_page": 110, "end_page": 129 },
+            { "field": "Adhikaar", "name": "Kshayopshamik Bhav - Kshayopashamik Darshan Bhav Antaradhikar", "start_page": 130, "end_page": 131 },
+            { "field": "Adhikaar", "name": "Kshayopshamik Bhav - Panch Kshayopashamik Labdhi Bhav Antaradhikar", "start_page": 132, "end_page": 133 },
+            { "field": "Adhikaar", "name": "Kshayopshamik Bhav - Kshayopashamik Samyaktva Bhav Antaradhikar", "start_page": 134, "end_page": 149 },
+            { "field": "Adhikaar", "name": "Kshayopshamik Bhav - Deshvirat Sanyamasanyam Bhav Antaradhikar", "start_page": 150, "end_page": 160 },
+            { "field": "Adhikaar", "name": "Kshayopshamik Bhav - Kshayopashamik Charitra Bhav Antaradhikar", "start_page": 161, "end_page": 191 },
+            { "field": "Adhikaar", "name": "Aupshamik Bhav - Aupshamik Samyaktva Bhav Antaradhikar", "start_page": 192, "end_page": 201 },
+            { "field": "Adhikaar", "name": "Aupshamik Bhav - Aupshamik Charitra Bhav Antaradhikar", "start_page": 202, "end_page": 205 },
+            { "field": "Adhikaar", "name": "Kshayik Bhav - Kshayik Samyaktva Bhav Antaradhikar", "start_page": 206, "end_page": 209 },
+            { "field": "Adhikaar", "name": "Kshayik Bhav - Kshayik Charitra Bhav Antaradhikar", "start_page": 210, "end_page": 226 },
+            { "field": "Adhikaar", "name": "Chulika Adhikaar", "start_page": 227, "end_page": 255 }
+        ]
+    }
+}
