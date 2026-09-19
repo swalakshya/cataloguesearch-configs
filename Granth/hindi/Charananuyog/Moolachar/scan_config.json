@@ -1,0 +1,33 @@
+{
+  "default": {
+    "ocr_engine": "llm",
+    "verses": ["prakrit_verse", "hindi_verse"],
+    "ignore_bookmarks": true
+  },
+  "Mulachar_Purvardh": {
+    "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/Mulachar%20Purvardh.pdf",
+    "crop": { "top": 10, "bottom": 3 },
+    "sub_sections": [
+      { "field": "Adhikaar", "name": "Upodghaat", "start_page": 13, "end_page": 43 },
+      { "field": "Adhikaar", "name": "Moolgun Adhikaar", "start_page": 59, "end_page": 106 },
+      { "field": "Adhikaar", "name": "Brihat Pratyakhyan Stav Adhikaar", "start_page": 107, "end_page": 154 },
+      { "field": "Adhikaar", "name": "Sankshep Pratyakhyan Adhikaar", "start_page": 155, "end_page": 163 },
+      { "field": "Adhikaar", "name": "Samachar Adhikaar", "start_page": 164, "end_page": 218 },
+      { "field": "Adhikaar", "name": "Panchachar Adhikaar", "start_page": 219, "end_page": 387 },
+      { "field": "Adhikaar", "name": "Pindshuddhi Adhikaar", "start_page": 388, "end_page": 441 },
+      { "field": "Adhikaar", "name": "Shadavashyak Adhikaar", "start_page": 442, "end_page": 562 }
+    ]
+  },
+  "Mulachar_Uttarardh": {
+    "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/Mulachar%20Uttarardh.pdf",
+    "crop": { "top": 9, "bottom": 3 },
+    "sub_sections": [
+      { "field": "Adhikaar", "name": "Upodghaat", "start_page": 15, "end_page": 26 },
+      { "field": "Adhikaar", "name": "Dvadashanupreksha Adhikaar", "start_page": 35, "end_page": 72 },
+      { "field": "Adhikaar", "name": "Anagarbhavana Adhikaar", "start_page": 73, "end_page": 140 },
+      { "field": "Adhikaar", "name": "Samayasaar Adhikaar", "start_page": 141, "end_page": 208 },
+      { "field": "Adhikaar", "name": "Sheelguna Adhikaar", "start_page": 209, "end_page": 237 },
+      { "field": "Adhikaar", "name": "Paryapti Adhikaar", "start_page": 238, "end_page": 426 }
+    ]
+  }
+}
