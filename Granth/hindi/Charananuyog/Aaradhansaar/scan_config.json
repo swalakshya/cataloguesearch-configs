@@ -4,12 +4,26 @@
             "top": 16,
             "bottom": 5
         },
-        "ocr_engine": "llm"
+        "ocr_engine": "llm",
+        "ignore_bookmarks": true
     },
     "Aaradhansar": {
         "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/A/Aaradhanasar_H.pdf",
         "qa_merge": false,
-        "start_page": 25,
-        "end_page": 243
+        "sub_sections": [
+            { "field": "Adhikaar", "name": "Mangalacharan", "start_page": 25, "end_page": 41 },
+            { "field": "Adhikaar", "name": "Vyavaharaaradhana", "start_page": 42, "end_page": 59 },
+            { "field": "Adhikaar", "name": "Nishchayaaradhana", "start_page": 60, "end_page": 84 },
+            { "field": "Adhikaar", "name": "Arha Adhikaar", "start_page": 85, "end_page": 93 },
+            { "field": "Adhikaar", "name": "Sang Tyag Adhikaar", "start_page": 94, "end_page": 98 },
+            { "field": "Adhikaar", "name": "Kashay Sallekhana Adhikaar", "start_page": 99, "end_page": 106 },
+            { "field": "Adhikaar", "name": "Parishahchamu Vijay Adhikaar", "start_page": 107, "end_page": 123 },
+            { "field": "Adhikaar", "name": "Upsarg Sahan Adhikaar", "start_page": 124, "end_page": 150 },
+            { "field": "Adhikaar", "name": "Indriyamall Jay Adhikaar", "start_page": 151, "end_page": 158 },
+            { "field": "Adhikaar", "name": "Manogaj Prasar Nirodh Adhikaar", "start_page": 159, "end_page": 182 },
+            { "field": "Adhikaar", "name": "Shunya Dhyan", "start_page": 183, "end_page": 205 },
+            { "field": "Adhikaar", "name": "Sallekhana", "start_page": 206, "end_page": 241 },
+            { "field": "Adhikaar", "name": "Sanskrit Tikakaar Prashasti", "start_page": 242, "end_page": 243 }
+        ]
     }
 }
