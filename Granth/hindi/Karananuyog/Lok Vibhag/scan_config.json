@@ -1,0 +1,89 @@
+{
+    "default": {
+        "crop": {
+            "top": 9,
+            "bottom": 4
+        },
+        "ocr_engine": "llm",
+        "ignore_bookmarks": true
+    },
+    "LokVibhag": {
+        "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/lok-vibhag-hin-2205.pdf",
+        "start_page": 12,
+        "end_page": 280,
+        "sub_sections": [
+            {
+                "field": "Adhikaar",
+                "name": "Prastavana",
+                "start_page": 12,
+                "end_page": 39
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Pratham Vibhag - Jambudvip",
+                "start_page": 56,
+                "end_page": 102
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Dwitiya Vibhag - Lavan Samudra",
+                "start_page": 103,
+                "end_page": 114
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Tritiya Vibhag - Manushyakshetra",
+                "start_page": 115,
+                "end_page": 126
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Chaturth Vibhag - Samudradi Varnan",
+                "start_page": 127,
+                "end_page": 137
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Panchama Vibhag - Kaal",
+                "start_page": 138,
+                "end_page": 156
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Shashth Vibhag - Jyotirlok",
+                "start_page": 157,
+                "end_page": 188
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Saptam Vibhag - Bhavanvasi",
+                "start_page": 189,
+                "end_page": 199
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Ashtam Vibhag - Adholok",
+                "start_page": 200,
+                "end_page": 219
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Navam Vibhag - Vyantar",
+                "start_page": 220,
+                "end_page": 228
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Dasham Vibhag - Swarg",
+                "start_page": 229,
+                "end_page": 273
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Ekadash Vibhag - Moksh",
+                "start_page": 274,
+                "end_page": 280
+            }
+        ]
+    }
+}

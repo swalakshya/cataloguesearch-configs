@@ -9,11 +9,74 @@
             "prakrit_verse",
             "hindi_verse",
             "sanskrit_verse"
-        ]
+        ],
+        "ignore_bookmarks": true
     },
     "AnagaarDharmamrut": {
         "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/B/Anagaar%20Dharmaamrut_H.pdf",
-        "start_page": 12,
-        "end_page": 889
+        "start_page": 4,
+        "end_page": 890,
+        "sub_sections": [
+            {
+                "field": "Adhyaya",
+                "name": "Prastavana",
+                "start_page": 4,
+                "end_page": 10
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Pratham Adhyay",
+                "start_page": 12,
+                "end_page": 117
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Dwitiya Adhyay",
+                "start_page": 118,
+                "end_page": 231
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Tritiya Adhyay",
+                "start_page": 232,
+                "end_page": 257
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Chaturth Adhyay",
+                "start_page": 258,
+                "end_page": 480
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Panchama Adhyay",
+                "start_page": 481,
+                "end_page": 522
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Shashth Adhyay",
+                "start_page": 524,
+                "end_page": 612
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Saptam Adhyay",
+                "start_page": 613,
+                "end_page": 681
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Ashtam Adhyay",
+                "start_page": 682,
+                "end_page": 796
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Navam Adhyay",
+                "start_page": 797,
+                "end_page": 883
+            }
+        ]
     }
 }

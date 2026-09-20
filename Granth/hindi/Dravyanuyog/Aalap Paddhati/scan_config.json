@@ -1,0 +1,137 @@
+{
+    "default": {
+        "crop": {
+            "top": 9,
+            "bottom": 4
+        },
+        "ocr_engine": "llm",
+        "ignore_bookmarks": true
+    },
+    "AalapPaddhati": {
+        "file_url": "https://vitragelibrary.org/documents/default.aspx?f=shastra/pdf/Aalap%20Paddhati.pdf",
+        "start_page": 5,
+        "end_page": 167,
+        "sub_sections": [
+            {
+                "field": "Adhikaar",
+                "name": "Prastavana",
+                "start_page": 6,
+                "end_page": 39
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Mangalacharan",
+                "start_page": 44,
+                "end_page": 44
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Dravya Adhikaar",
+                "start_page": 45,
+                "end_page": 47
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Gun Adhikaar",
+                "start_page": 48,
+                "end_page": 53
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Paryay Adhikaar",
+                "start_page": 54,
+                "end_page": 67
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Swabhav Adhikaar",
+                "start_page": 68,
+                "end_page": 74
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Praman Adhikaar",
+                "start_page": 75,
+                "end_page": 80
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Nay Adhikaar",
+                "start_page": 81,
+                "end_page": 106
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Gun Vyutpatti Adhikaar",
+                "start_page": 107,
+                "end_page": 114
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Paryay Vyutpatti Adhikaar",
+                "start_page": 115,
+                "end_page": 115
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Swabhav Vyutpatti Adhikaar",
+                "start_page": 116,
+                "end_page": 126
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Ekantpakshbodh Adhikaar",
+                "start_page": 127,
+                "end_page": 140
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Nay Yojana Adhikaar",
+                "start_page": 141,
+                "end_page": 150
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Pramanlakshan Bhed",
+                "start_page": 151,
+                "end_page": 152
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Nay ke Swaroop aur Bhed",
+                "start_page": 153,
+                "end_page": 153
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Nikshep evam Dravyarthik Nay Bhed Vyutpatti",
+                "start_page": 154,
+                "end_page": 155
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Paryayarthik Nay Vyutpatti",
+                "start_page": 156,
+                "end_page": 156
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Naigamadi Nay Vyutpatti",
+                "start_page": 157,
+                "end_page": 158
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Nishchay-Vyavahar Nay Bhed",
+                "start_page": 159,
+                "end_page": 162
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Adhyatma Nay Bhed",
+                "start_page": 163,
+                "end_page": 167
+            }
+        ]
+    }
+}

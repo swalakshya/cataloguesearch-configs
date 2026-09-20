@@ -1,0 +1,48 @@
+{
+    "default": {
+        "crop": {
+            "top": 16.5,
+            "bottom": 9
+        },
+        "ocr_engine": "llm",
+        "verses": [
+            "prakrit_verse"
+        ],
+        "ignore_bookmarks": true
+    },
+    "RatnakarandShravakachar": {
+        "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/Ratnakarand%20Shravakachar_G.pdf",
+        "sub_sections": [
+            {
+                "field": "Adhikaar",
+                "name": "Samyagdarshan Adhikaar",
+                "start_page": 15,
+                "end_page": 131
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Gyan Adhikaar",
+                "start_page": 132,
+                "end_page": 146
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Charitra Adhikaar",
+                "start_page": 147,
+                "end_page": 243
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Shikshavrat Adhikaar",
+                "start_page": 244,
+                "end_page": 297
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Sallekhana Pratima Adhikaar",
+                "start_page": 298,
+                "end_page": 338
+            }
+        ]
+    }
+}

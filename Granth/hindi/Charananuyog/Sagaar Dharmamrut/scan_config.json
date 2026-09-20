@@ -4,11 +4,68 @@
             "top": 9,
             "bottom": 3
         },
-        "ocr_engine": "llm"
+        "ocr_engine": "llm",
+        "ignore_bookmarks": true
     },
     "SagaarDharmamrut": {
         "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/B/dharmamrutsagaar_hin_scn.pdf",
-        "start_page": 31,
-        "end_page": 384
+        "start_page": 7,
+        "end_page": 384,
+        "sub_sections": [
+            {
+                "field": "Adhyaya",
+                "name": "Prastavana",
+                "start_page": 7,
+                "end_page": 24
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Pratham Adhyay",
+                "start_page": 31,
+                "end_page": 69
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Dwitiya Adhyay",
+                "start_page": 70,
+                "end_page": 149
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Tritiya Adhyay",
+                "start_page": 150,
+                "end_page": 174
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Chaturth Adhyay",
+                "start_page": 175,
+                "end_page": 233
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Panchama Adhyay",
+                "start_page": 234,
+                "end_page": 285
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Shashth Adhyay",
+                "start_page": 286,
+                "end_page": 308
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Saptam Adhyay",
+                "start_page": 309,
+                "end_page": 338
+            },
+            {
+                "field": "Adhyaya",
+                "name": "Ashtam Adhyay",
+                "start_page": 339,
+                "end_page": 384
+            }
+        ]
     }
 }
