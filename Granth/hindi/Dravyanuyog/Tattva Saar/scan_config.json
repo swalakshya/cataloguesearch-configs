@@ -1,0 +1,16 @@
+{
+    "default": {
+        "crop": {
+            "top": 5,
+            "bottom": 4
+        },
+        "ocr_engine": "llm",
+        "verses": ["prakrit_verse"],
+        "ignore_bookmarks": true
+    },
+    "TattvaSaar": {
+        "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/tattva-saar-hin-3415.pdf",
+        "start_page": 5,
+        "end_page": 39
+    }
+}

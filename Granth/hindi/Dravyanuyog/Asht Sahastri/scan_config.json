@@ -1,0 +1,106 @@
+{
+    "default": {
+        "crop": {
+            "top": 9,
+            "bottom": 2
+        },
+        "ocr_engine": "llm",
+        "verses": [
+            "sanskrit_verse"
+        ],
+        "ignore_bookmarks": true
+    },
+    "AshtSahastriBhag1": {
+        "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/ashta-sahastri-bhag--1-hin-890.pdf",
+        "start_page": 18,
+        "end_page": 527,
+        "sub_sections": [
+            {
+                "field": "Parichhed",
+                "name": "Prastavana",
+                "start_page": 20,
+                "end_page": 67
+            },
+            {
+                "field": "Parichhed",
+                "name": "Parichhed 1",
+                "start_page": 84,
+                "end_page": 515
+            }
+        ]
+    },
+    "AshtSahastriBhag2": {
+        "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/ashta-sahastri-bhag--2-hin-891.pdf",
+        "start_page": 11,
+        "end_page": 493,
+        "sub_sections": [
+            {
+                "field": "Parichhed",
+                "name": "Parichhed 1",
+                "start_page": 70,
+                "end_page": 488
+            }
+        ]
+    },
+    "AshtSahastriBhag3": {
+        "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/ashta-sahastri-bhag--3-hin-892.pdf",
+        "start_page": 13,
+        "end_page": 687,
+        "sub_sections": [
+            {
+                "field": "Parichhed",
+                "name": "Dwitiya Parichhed",
+                "start_page": 80,
+                "end_page": 179
+            },
+            {
+                "field": "Parichhed",
+                "name": "Tritiya Parichhed",
+                "start_page": 180,
+                "end_page": 338
+            },
+            {
+                "field": "Parichhed",
+                "name": "Chaturth Parichhed",
+                "start_page": 339,
+                "end_page": 414
+            },
+            {
+                "field": "Parichhed",
+                "name": "Panchama Parichhed",
+                "start_page": 415,
+                "end_page": 428
+            },
+            {
+                "field": "Parichhed",
+                "name": "Shashtam Parichhed",
+                "start_page": 429,
+                "end_page": 453
+            },
+            {
+                "field": "Parichhed",
+                "name": "Saptam Parichhed",
+                "start_page": 454,
+                "end_page": 515
+            },
+            {
+                "field": "Parichhed",
+                "name": "Ashtam Parichhed",
+                "start_page": 516,
+                "end_page": 527
+            },
+            {
+                "field": "Parichhed",
+                "name": "Navam Parichhed",
+                "start_page": 528,
+                "end_page": 538
+            },
+            {
+                "field": "Parichhed",
+                "name": "Dasham Parichhed",
+                "start_page": 539,
+                "end_page": 677
+            }
+        ]
+    }
+}

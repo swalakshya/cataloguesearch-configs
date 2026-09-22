@@ -1,0 +1,152 @@
+{
+    "default": {
+        "crop": {
+            "top": 10,
+            "bottom": 4
+        },
+        "ocr_engine": "llm",
+        "verses": [
+            "sanskrit_verse"
+        ],
+        "ignore_bookmarks": true
+    },
+    "DharmPariksha": {
+        "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/Dharm%20Pariksha_By%20BAVP.pdf",
+        "start_page": 8,
+        "end_page": 399,
+        "sub_sections": [
+            {
+                "field": "Parichhed",
+                "name": "Prastavana",
+                "start_page": 8,
+                "end_page": 21
+            },
+            {
+                "field": "Parichhed",
+                "name": "Parichhed 1",
+                "start_page": 24,
+                "end_page": 41
+            },
+            {
+                "field": "Parichhed",
+                "name": "Parichhed 2",
+                "start_page": 42,
+                "end_page": 59
+            },
+            {
+                "field": "Parichhed",
+                "name": "Parichhed 3",
+                "start_page": 60,
+                "end_page": 75
+            },
+            {
+                "field": "Parichhed",
+                "name": "Parichhed 4",
+                "start_page": 76,
+                "end_page": 91
+            },
+            {
+                "field": "Parichhed",
+                "name": "Parichhed 5",
+                "start_page": 92,
+                "end_page": 109
+            },
+            {
+                "field": "Parichhed",
+                "name": "Parichhed 6",
+                "start_page": 110,
+                "end_page": 126
+            },
+            {
+                "field": "Parichhed",
+                "name": "Parichhed 7",
+                "start_page": 127,
+                "end_page": 142
+            },
+            {
+                "field": "Parichhed",
+                "name": "Parichhed 8",
+                "start_page": 143,
+                "end_page": 158
+            },
+            {
+                "field": "Parichhed",
+                "name": "Parichhed 9",
+                "start_page": 159,
+                "end_page": 174
+            },
+            {
+                "field": "Parichhed",
+                "name": "Parichhed 10",
+                "start_page": 175,
+                "end_page": 191
+            },
+            {
+                "field": "Parichhed",
+                "name": "Parichhed 11",
+                "start_page": 192,
+                "end_page": 208
+            },
+            {
+                "field": "Parichhed",
+                "name": "Parichhed 12",
+                "start_page": 209,
+                "end_page": 225
+            },
+            {
+                "field": "Parichhed",
+                "name": "Parichhed 13",
+                "start_page": 226,
+                "end_page": 243
+            },
+            {
+                "field": "Parichhed",
+                "name": "Parichhed 14",
+                "start_page": 244,
+                "end_page": 260
+            },
+            {
+                "field": "Parichhed",
+                "name": "Parichhed 15",
+                "start_page": 261,
+                "end_page": 277
+            },
+            {
+                "field": "Parichhed",
+                "name": "Parichhed 16",
+                "start_page": 278,
+                "end_page": 294
+            },
+            {
+                "field": "Parichhed",
+                "name": "Parichhed 17",
+                "start_page": 295,
+                "end_page": 314
+            },
+            {
+                "field": "Parichhed",
+                "name": "Parichhed 18",
+                "start_page": 315,
+                "end_page": 332
+            },
+            {
+                "field": "Parichhed",
+                "name": "Parichhed 19",
+                "start_page": 333,
+                "end_page": 351
+            },
+            {
+                "field": "Parichhed",
+                "name": "Parichhed 20",
+                "start_page": 352,
+                "end_page": 368
+            },
+            {
+                "field": "Parichhed",
+                "name": "Prashasti",
+                "start_page": 369,
+                "end_page": 373
+            }
+        ]
+    }
+}

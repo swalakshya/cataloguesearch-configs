@@ -1,0 +1,44 @@
+{
+    "default": {
+        "crop": {
+            "top": 12,
+            "bottom": 2
+        },
+        "ocr_engine": "llm",
+        "verses": [
+            "sanskrit_verse"
+        ],
+        "ignore_bookmarks": true
+    },
+    "Amrutashiti": {
+        "file_url": "https://vitragelibrary.org/imagehandler/image-handler.ashx?imagepath=shastra/pdf/amrutashiti-hin-1031.pdf",
+        "start_page": 16,
+        "end_page": 206,
+        "sub_sections": [
+            {
+                "field": "Adhikaar",
+                "name": "Prastavana",
+                "start_page": 16,
+                "end_page": 32
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Arthoparjan Prayaso Ki Samiksha",
+                "start_page": 36,
+                "end_page": 76
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Samata Vivechan",
+                "start_page": 77,
+                "end_page": 86
+            },
+            {
+                "field": "Adhikaar",
+                "name": "Dhyan-Yog Vivechan",
+                "start_page": 87,
+                "end_page": 197
+            }
+        ]
+    }
+}

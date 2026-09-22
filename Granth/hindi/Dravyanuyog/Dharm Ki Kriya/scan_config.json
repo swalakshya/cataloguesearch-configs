@@ -1,0 +1,234 @@
+{
+    "default": {
+        "crop": {
+            "top": 7,
+            "bottom": 2
+        },
+        "ocr_engine": "tesseract",
+        "ignore_bookmarks": true
+    },
+    "DharmKiKriya": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/E/Dharm_Ki_Kriya_H.pdf",
+        "start_page": 1,
+        "end_page": 227,
+        "sub_sections": [
+            {
+                "field": "Prakaran",
+                "name": "Prastavana",
+                "start_page": 5,
+                "end_page": 14
+            },
+            {
+                "field": "Prakaran",
+                "name": "Gyankriyabhyam Moksha",
+                "start_page": 17,
+                "end_page": 26
+            },
+            {
+                "field": "Prakaran",
+                "name": "Gyaptikriya",
+                "start_page": 27,
+                "end_page": 33
+            },
+            {
+                "field": "Prakaran",
+                "name": "Karotikriya",
+                "start_page": 34,
+                "end_page": 49
+            },
+            {
+                "field": "Prakaran",
+                "name": "Moksha Ko Katarnewali Kriya Kaun Si Hai?",
+                "start_page": 50,
+                "end_page": 53
+            },
+            {
+                "field": "Prakaran",
+                "name": "Samayik Ka Swaroop Samjhe Bina Ki Hui Samayik Kriya Ka Phal",
+                "start_page": 54,
+                "end_page": 55
+            },
+            {
+                "field": "Prakaran",
+                "name": "Sachchi Samayik Kriya Ka Swaroop",
+                "start_page": 56,
+                "end_page": 59
+            },
+            {
+                "field": "Prakaran",
+                "name": "Kupratikraman Aur Supratikraman Ka Swaroop",
+                "start_page": 60,
+                "end_page": 61
+            },
+            {
+                "field": "Prakaran",
+                "name": "Sachcha Pratyakhyan Kya Hai?",
+                "start_page": 62,
+                "end_page": 65
+            },
+            {
+                "field": "Prakaran",
+                "name": "Sachcha (Samyak-Sat) Tap Kya Hai?",
+                "start_page": 66,
+                "end_page": 68
+            },
+            {
+                "field": "Prakaran",
+                "name": "Sachchi (Samyak) Gupti-Samiti Kya Hai?",
+                "start_page": 69,
+                "end_page": 69
+            },
+            {
+                "field": "Prakaran",
+                "name": "Dharm, Anupreksha Aur Parishahjaya Ka Swaroop Kya Hai?",
+                "start_page": 70,
+                "end_page": 71
+            },
+            {
+                "field": "Prakaran",
+                "name": "Bhakti Ka Swaroop",
+                "start_page": 72,
+                "end_page": 73
+            },
+            {
+                "field": "Prakaran",
+                "name": "Prashastrag - Daan, Sheel, Tap, Bhav",
+                "start_page": 74,
+                "end_page": 77
+            },
+            {
+                "field": "Prakaran",
+                "name": "Deh-Daman-Indriya Nigrah Aur Sharirik Kriya Ka Swaroop",
+                "start_page": 78,
+                "end_page": 81
+            },
+            {
+                "field": "Prakaran",
+                "name": "Mokshamarg Mein Gyan Kitne Pratishat Aur Kriya Kitne Pratishat",
+                "start_page": 82,
+                "end_page": 83
+            },
+            {
+                "field": "Prakaran",
+                "name": "Jeev Ko Pratham Kya Karna Chahiye?",
+                "start_page": 84,
+                "end_page": 88
+            },
+            {
+                "field": "Prakaran",
+                "name": "Nimitt Pardravya Ka Kya Kar Sakta Hai? (1)",
+                "start_page": 89,
+                "end_page": 106
+            },
+            {
+                "field": "Prakaran",
+                "name": "Nishchay-Vyavahar Ke Prashna Aur Unke Arth",
+                "start_page": 107,
+                "end_page": 111
+            },
+            {
+                "field": "Prakaran",
+                "name": "Jeev Ki Anadi Se Chali Aa Rahi Bhoolein",
+                "start_page": 112,
+                "end_page": 113
+            },
+            {
+                "field": "Prakaran",
+                "name": "Jeev Ke Anadi Ke Saat Vyasan",
+                "start_page": 114,
+                "end_page": 115
+            },
+            {
+                "field": "Prakaran",
+                "name": "Satya Purushaarth",
+                "start_page": 116,
+                "end_page": 118
+            },
+            {
+                "field": "Prakaran",
+                "name": "Samyak Tap Ka Swaroop (1)",
+                "start_page": 119,
+                "end_page": 132
+            },
+            {
+                "field": "Prakaran",
+                "name": "Daya, Danadi Ka Vastavik Swaroop",
+                "start_page": 133,
+                "end_page": 146
+            },
+            {
+                "field": "Prakaran",
+                "name": "Traas Ka Samrajya Aur Use Door Karne Ka Upay - Samyagjnan",
+                "start_page": 147,
+                "end_page": 156
+            },
+            {
+                "field": "Prakaran",
+                "name": "Vishwa-Prem",
+                "start_page": 157,
+                "end_page": 161
+            },
+            {
+                "field": "Prakaran",
+                "name": "Paap Door Karne Ka Sachcha Upay Kya Hai? (1)",
+                "start_page": 162,
+                "end_page": 174
+            },
+            {
+                "field": "Prakaran",
+                "name": "Paap Door Karne Ka Sachcha Upay Kya Hai? (2)",
+                "start_page": 175,
+                "end_page": 180
+            },
+            {
+                "field": "Prakaran",
+                "name": "Sachcha 'Michhami Dukkadam' Kab Hota Hai?",
+                "start_page": 181,
+                "end_page": 184
+            },
+            {
+                "field": "Prakaran",
+                "name": "Sachcha Pratikraman",
+                "start_page": 185,
+                "end_page": 192
+            },
+            {
+                "field": "Prakaran",
+                "name": "Vyavahar",
+                "start_page": 193,
+                "end_page": 196
+            },
+            {
+                "field": "Prakaran",
+                "name": "Prashna Aur Uttar",
+                "start_page": 197,
+                "end_page": 200
+            },
+            {
+                "field": "Prakaran",
+                "name": "Dharm Ki Kriya Pragat Karne Ke Liye Samyagdarshan Ki Bhavna Kare!",
+                "start_page": 201,
+                "end_page": 204
+            },
+            {
+                "field": "Prakaran",
+                "name": "Adharm Ki Kriya Ko Door Karne Ke Liye Mithyatva Ka Vaman Karo!",
+                "start_page": 205,
+                "end_page": 209
+            },
+            {
+                "field": "Prakaran",
+                "name": "Kriya: Swaroop Evam Prakar",
+                "start_page": 210,
+                "end_page": 217
+            },
+            {
+                "field": "Prakaran",
+                "name": "Tattva-Charcha",
+                "start_page": 218,
+                "end_page": 227
+            }
+        ],
+        "crop": {"top": 7, "bottom": 2, "left": 0, "right": 0}
+    }
+}
