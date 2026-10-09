@@ -1,0 +1,60 @@
+{
+    "default": {
+        "ocr_engine": "tesseract",
+        "chunk_strategy": "advanced",
+        "psm": 6,
+        "ignore_bookmarks": true,
+        "crop": {
+            "top": 8,
+            "bottom": 8
+        }
+    },
+    "Jain-Darshan-Sameeksha-Part-1": {
+        "file_url": "https://cdn.babuyugalji.com/library/jain-darshan-sameeksha-1/hi/Jain-Darshan-Sameeksha-Part-1.pdf",
+        "volume": 1,
+        "start_page": 1,
+        "end_page": 9
+    },
+    "Jain-Darshan-Sameeksha-Part-2": {
+        "file_url": "https://cdn.babuyugalji.com/library/jain-darshan-sameeksha-2/hi/Jain-Darshan-Sameeksha-Part-2.pdf",
+        "volume": 2,
+        "start_page": 1,
+        "end_page": 12
+    },
+    "Jain-Darshan-Sameeksha-Part-3": {
+        "file_url": "https://cdn.babuyugalji.com/library/jain-darshan-sameeksha-3/hi/Jain-Darshan-Sameeksha-Part-3.pdf",
+        "volume": 3,
+        "start_page": 1,
+        "end_page": 9
+    },
+    "Jain-Darshan-Sameeksha-Part-4": {
+        "file_url": "https://cdn.babuyugalji.com/library/jain-darshan-sameeksha-4/hi/Jain-Darshan-Sameeksha-Part-4.pdf",
+        "volume": 4,
+        "start_page": 1,
+        "end_page": 14
+    },
+    "Jain-Darshan-Sameeksha-Part-5": {
+        "file_url": "https://cdn.babuyugalji.com/library/jain-darshan-sameeksha-5/hi/Jain-Darshan-Sameeksha-Part-5.pdf",
+        "volume": 5,
+        "start_page": 1,
+        "end_page": 12
+    },
+    "Jain-Darshan-Sameeksha-Part-6": {
+        "file_url": "https://cdn.babuyugalji.com/library/jain-darshan-sameeksha-6/hi/Jain-Darshan-Sameeksha-Part-6.pdf",
+        "volume": 6,
+        "start_page": 1,
+        "end_page": 6
+    },
+    "Jain-Darshan-Sameeksha-Part-7": {
+        "file_url": "https://cdn.babuyugalji.com/library/jain-darshan-sameeksha-7/hi/Jain-Darshan-Sameeksha-Part-7.pdf",
+        "volume": 7,
+        "start_page": 1,
+        "end_page": 13
+    },
+    "Jain-Darshan-Sameeksha-Part-8": {
+        "file_url": "https://cdn.babuyugalji.com/library/jain-darshan-sameeksha-8/hi/Jain-Darshan-Sameeksha-Part-8.pdf",
+        "volume": 8,
+        "start_page": 1,
+        "end_page": 8
+    }
+}

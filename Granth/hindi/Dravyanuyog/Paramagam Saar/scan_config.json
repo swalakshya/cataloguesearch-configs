@@ -1,0 +1,17 @@
+{
+    "default": {
+        "ocr_engine": "tesseract",
+        "chunk_strategy": "advanced",
+        "psm": 6,
+        "ignore_bookmarks": true,
+        "crop": {
+            "top": 7.5,
+            "bottom": 4
+        }
+    },
+    "Paramagamsaar_H": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/E/Paramagamsaar_H.pdf",
+        "start_page": 13,
+        "end_page": 242
+    }
+}

@@ -1,0 +1,965 @@
+{
+    "default": {
+        "ocr_engine": "tesseract",
+        "chunk_strategy": "advanced",
+        "psm": 6,
+        "ignore_bookmarks": true,
+        "crop": {
+            "top": 15.5,
+            "bottom": 10
+        }
+    },
+    "Mangal_Teerth_Yatra_Vibhag_1_2_H": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/E/Mangal_Teerth_Yatra_Vibhag_1_2_H.pdf",
+        "start_page": 23,
+        "end_page": 605,
+        "skip_pdf_pages": [
+            475,
+            476
+        ],
+        "sub_sections": [
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Mangal Prasthaan",
+                "start_page": 23,
+                "end_page": 25
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Songadh Se Mumbai",
+                "start_page": 26,
+                "end_page": 28
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Sabarmati Naukaa Vihaar",
+                "start_page": 29,
+                "end_page": 47
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Mumbai Nagaree Mein.......",
+                "start_page": 48,
+                "end_page": 52
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Mumbai Se Mangal Prasthaan",
+                "start_page": 53,
+                "end_page": 55
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Bhiwandi Shahar",
+                "start_page": 56,
+                "end_page": 56
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Gajpanthaa Siddhkshetra",
+                "start_page": 57,
+                "end_page": 61
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Maangee-Tungee Siddhkshetra",
+                "start_page": 62,
+                "end_page": 74
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Dhooliya Shahar",
+                "start_page": 75,
+                "end_page": 76
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Badhhawanee Siddhkshetra",
+                "start_page": 77,
+                "end_page": 88
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Paavaagiri-Un Siddhkshetra",
+                "start_page": 89,
+                "end_page": 95
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Khandawa Shahar",
+                "start_page": 96,
+                "end_page": 99
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Sanaavad",
+                "start_page": 100,
+                "end_page": 101
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Siddhvarkut Jaane Par Naukaa Vihaar",
+                "start_page": 102,
+                "end_page": 105
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Om Chidaanandaay Nam:",
+                "start_page": 106,
+                "end_page": 108
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Siddhvarkut Siddhkshetra Ki Yaatraa",
+                "start_page": 109,
+                "end_page": 111
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Siddhvarkut SiddhDhaam Mein Ullasit Siddh Bhakti",
+                "start_page": 112,
+                "end_page": 125
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Indore Shahar",
+                "start_page": 126,
+                "end_page": 141
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Ujjain Shahar",
+                "start_page": 142,
+                "end_page": 144
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Maxi Paarasnath / Sarangpur",
+                "start_page": 145,
+                "end_page": 145
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Byaavaraa Aur Raaghavgadh",
+                "start_page": 146,
+                "end_page": 148
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Bhopal Shahar",
+                "start_page": 149,
+                "end_page": 151
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Gunaa Shahar",
+                "start_page": 152,
+                "end_page": 153
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Badarwas-Kolaras-Sesai-Shivpuri-",
+                "start_page": 154,
+                "end_page": 154
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Jhansi Nagari",
+                "start_page": 155,
+                "end_page": 160
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Sonaagiri Siddhkshetra",
+                "start_page": 161,
+                "end_page": 162
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Sonaagiri Siddhkshetra Ki Yaatraa",
+                "start_page": 163,
+                "end_page": 171
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Gwalior - Lashkar",
+                "start_page": 172,
+                "end_page": 175
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Dhaulpur",
+                "start_page": 176,
+                "end_page": 176
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Aagraa Shahar",
+                "start_page": 177,
+                "end_page": 181
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Teerthdhaam Shauripur Ki Yaatraa",
+                "start_page": 182,
+                "end_page": 187
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Bateshwar",
+                "start_page": 188,
+                "end_page": 188
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Mathuraa Siddhkshetra Ki Yaatraa",
+                "start_page": 189,
+                "end_page": 198
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Firojaabaad",
+                "start_page": 199,
+                "end_page": 203
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Mainpuri",
+                "start_page": 204,
+                "end_page": 207
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Kaanpur",
+                "start_page": 208,
+                "end_page": 208
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Lakhnau Shahar",
+                "start_page": 209,
+                "end_page": 211
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Ratnapuri Teerthdhaam Ki Yaatraa",
+                "start_page": 212,
+                "end_page": 214
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Anant Teerthankaro Ki Shaashwat Janmbhoomi Ayodhyaapuri Teerth",
+                "start_page": 215,
+                "end_page": 219
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — 24 Bhagwan Ke Solah Janmdhaam / Chaubees Bhagwanto Ke Nirvaandhaam",
+                "start_page": 220,
+                "end_page": 220
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Shaashwat Teerthdhaam Ayodhyaapuri Mein Paanch Bhagwanto Ke Janmdhaam Ki Yaatraa",
+                "start_page": 221,
+                "end_page": 234
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Teerthdhaam Banaaras",
+                "start_page": 235,
+                "end_page": 236
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Chandrapuri Teerthdhaam Ki Yaatraa",
+                "start_page": 237,
+                "end_page": 237
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Sinhpuri Teerthdhaam Ki Yaatraa",
+                "start_page": 238,
+                "end_page": 240
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Paarshwa-Janmdhaam Ki Yaatraa",
+                "start_page": 241,
+                "end_page": 243
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — SuPaarshwa-Janmdhaam Ki Yaatraa",
+                "start_page": 244,
+                "end_page": 251
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — DaalmiyaaNagar",
+                "start_page": 252,
+                "end_page": 257
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — AaraaNagar (Jainpuri)",
+                "start_page": 258,
+                "end_page": 263
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Siddhkshetra Patanaa Shahar",
+                "start_page": 264,
+                "end_page": 264
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Patanaa - Siddhkshetra Ki Yaatraa",
+                "start_page": 265,
+                "end_page": 268
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Raajgruhi Nagari",
+                "start_page": 269,
+                "end_page": 271
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Raajgruhi Teerthdhaam - Siddhidhaam Ki Yaatraa",
+                "start_page": 272,
+                "end_page": 273
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Vipulaachal Teerthdhaam Ki Yaatraa",
+                "start_page": 274,
+                "end_page": 277
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Ratnaagiri Teerthdhaam Ki Yaatraa",
+                "start_page": 278,
+                "end_page": 279
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Udaygiri Teerthdhaam Ki Yaatraa",
+                "start_page": 280,
+                "end_page": 283
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Vaibhaavgiri Teerthdhaam Ki Yaatraa",
+                "start_page": 284,
+                "end_page": 289
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Shramangiri (Sonaagiri) Teerth Ki Yaatraa",
+                "start_page": 290,
+                "end_page": 293
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Kundalpur Tathaa Naalandaa",
+                "start_page": 294,
+                "end_page": 295
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Paavaapuri Siddhidhaam",
+                "start_page": 296,
+                "end_page": 298
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Paavaapuri Siddhidhaam Ki Yaatraa",
+                "start_page": 299,
+                "end_page": 310
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Gautamdhaam Gunaavaa Siddhkshetra",
+                "start_page": 311,
+                "end_page": 313
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Gayaa Shahar",
+                "start_page": 314,
+                "end_page": 316
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — SammedShikhar Dhaam Mein...",
+                "start_page": 317,
+                "end_page": 333
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — SammedShikhar - Shaashwat Siddhidhaam Mangal TeerthYaatraa",
+                "start_page": 334,
+                "end_page": 397
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Champaapuri-Mandaargiri Teerthdhaam",
+                "start_page": 398,
+                "end_page": 400
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Mandaargiri Siddhdhaam Ki Yaatraa",
+                "start_page": 401,
+                "end_page": 403
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Shikharji Ki Chhaayaa - Madhuvan Mein",
+                "start_page": 404,
+                "end_page": 409
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Rujuvaalikaa Ke Teer",
+                "start_page": 410,
+                "end_page": 413
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Jamshedpur / Zareeyaa Tathaa Dhanbaad",
+                "start_page": 414,
+                "end_page": 415
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Kolkataa Shahar",
+                "start_page": 416,
+                "end_page": 419
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Khandgiri-Udaygiri Teerth Ki Yaatraa",
+                "start_page": 420,
+                "end_page": 427
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Kolkataa Ki Kaartiki Poornimaa Ki RathYaatraa",
+                "start_page": 428,
+                "end_page": 433
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Kolkataa Se Delhi Ki Or...",
+                "start_page": 434,
+                "end_page": 435
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Hastinaapur Teerthdhaam Ki Yaatraa",
+                "start_page": 436,
+                "end_page": 438
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Bhaarat Ki Raajdhaani - Delhi Shar Mein.....",
+                "start_page": 439,
+                "end_page": 440
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Sahaaranpur",
+                "start_page": 441,
+                "end_page": 441
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Alwar",
+                "start_page": 442,
+                "end_page": 442
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Jaipur",
+                "start_page": 443,
+                "end_page": 445
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Aligadh - Tonk",
+                "start_page": 446,
+                "end_page": 446
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Ajamer",
+                "start_page": 447,
+                "end_page": 450
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Laadanoo",
+                "start_page": 451,
+                "end_page": 451
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Kuchaaman / Kishangadh",
+                "start_page": 452,
+                "end_page": 452
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Byaavar",
+                "start_page": 453,
+                "end_page": 453
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Aaboo",
+                "start_page": 454,
+                "end_page": 454
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Jaawal Mein Punaraagaman",
+                "start_page": 455,
+                "end_page": 456
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Jaawal Se Taarangaa",
+                "start_page": 457,
+                "end_page": 457
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Taarangaa Siddhidhaam",
+                "start_page": 458,
+                "end_page": 458
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Taarangaa Siddhidhaam Ki Yaatraa",
+                "start_page": 459,
+                "end_page": 462
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Ahmedabad / Vaishakh Shukla Dooj : Pujya Gurudev Ka 68th Mangalkaaree Janmotsav",
+                "start_page": 463,
+                "end_page": 463
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Teerthdhaam Songadh Mein...",
+                "start_page": 464,
+                "end_page": 469
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Swagat Geet",
+                "start_page": 470,
+                "end_page": 470
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Raajgruhi",
+                "start_page": 471,
+                "end_page": 471
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — TeerthYaatraa Ke Liye Gurudev Ka Mangal Vihaar / Ayodhyaa",
+                "start_page": 472,
+                "end_page": 473
+            },
+            {
+                "field": "Section",
+                "name": "Pratham Vibhag — Chalo....Shikharji Dhaam Mein.....",
+                "start_page": 474,
+                "end_page": 474
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Dakshin Yaatraa Ka Kaaryakram Aur Sankshipt Parichay",
+                "start_page": 477,
+                "end_page": 487
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — ......Pujya Gurudev Ka Mangal Prasthaan",
+                "start_page": 488,
+                "end_page": 491
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Mumbai Panchkalyaanak Pratishthha Mahotsav",
+                "start_page": 492,
+                "end_page": 495
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Mumbai Samaachaar",
+                "start_page": 496,
+                "end_page": 500
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Omkaar DivyaDhwani Ka Aalekhan Karte Pujya GurudevShree KanjiSwami",
+                "start_page": 501,
+                "end_page": 505
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Kolhapur",
+                "start_page": 506,
+                "end_page": 506
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Stavnidhi Hokar Belgaon",
+                "start_page": 507,
+                "end_page": 507
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Hubalee Shahar",
+                "start_page": 508,
+                "end_page": 508
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Jogfalls",
+                "start_page": 509,
+                "end_page": 509
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Humach",
+                "start_page": 510,
+                "end_page": 511
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — KundPrabhu Ka Samaadhi-Sthaan",
+                "start_page": 512,
+                "end_page": 512
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Moolbidri Mein Ratna Pratimaa Darshan",
+                "start_page": 513,
+                "end_page": 513
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Kaarkal / Vainur Aur Halebeedu",
+                "start_page": 514,
+                "end_page": 514
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — ....Shravanbelgol",
+                "start_page": 515,
+                "end_page": 515
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Chandragiri Ki Yaatraa",
+                "start_page": 516,
+                "end_page": 516
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — JinNathPuri",
+                "start_page": 517,
+                "end_page": 517
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — ....Baahubalee Prabhu Ki Doosaree Yaatraa Aur Abhishek",
+                "start_page": 518,
+                "end_page": 519
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Mysore Shahar / Banglore City",
+                "start_page": 520,
+                "end_page": 520
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Pundi Nagari / Madras Shahar",
+                "start_page": 521,
+                "end_page": 521
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Abhinandan Patra",
+                "start_page": 522,
+                "end_page": 524
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Vaandewas / Kundkund Prabhu Ki Pavitra Tapobhoomi Ponnurdhaam Ki Ullaasbharee Yaatraa",
+                "start_page": 525,
+                "end_page": 527
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Akalank Vasatee",
+                "start_page": 528,
+                "end_page": 528
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Hyderabad Ke Aek JinMandir Ke Bhagwant / Bejwada - Hyderabad",
+                "start_page": 529,
+                "end_page": 530
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Dhaaraashiv Ki Jain Gufaaye",
+                "start_page": 531,
+                "end_page": 531
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Kunthalgiri Ka Sunder Drashya",
+                "start_page": 532,
+                "end_page": 532
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Kunthalgiri Siddhkshetra",
+                "start_page": 533,
+                "end_page": 533
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Kunthalgiri Ke Ratnatray Bhagwant",
+                "start_page": 534,
+                "end_page": 535
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Aurangabad",
+                "start_page": 536,
+                "end_page": 536
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Jalgaon Shahar",
+                "start_page": 537,
+                "end_page": 537
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Malkaapur",
+                "start_page": 538,
+                "end_page": 538
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Kaaranjaa",
+                "start_page": 539,
+                "end_page": 539
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Paratwada (Aelachpur) / Muktaagiri Siddhkshetra",
+                "start_page": 540,
+                "end_page": 543
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Amraavati Hokar Nagpur Ki Or.....",
+                "start_page": 544,
+                "end_page": 544
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Nagpur / Dongargadh-Khairaagadh",
+                "start_page": 545,
+                "end_page": 545
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Khairaagadh MadhyaPradesh Mein JinBimb Vedi Pratishthha Mahotsav",
+                "start_page": 546,
+                "end_page": 546
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Raamtek",
+                "start_page": 547,
+                "end_page": 547
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Sivanee / Jabalpur",
+                "start_page": 548,
+                "end_page": 549
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Madhheeyaaji",
+                "start_page": 550,
+                "end_page": 551
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Bhelughaat - Kudaratee Drashya",
+                "start_page": 552,
+                "end_page": 552
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Panaagar Mein Jinbimb Darshan Aur Swagat / Damoh",
+                "start_page": 553,
+                "end_page": 553
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Kundalgiri Siddhkshetra / Kundalgiri SiddhDhaam Ki Yaatraa",
+                "start_page": 554,
+                "end_page": 555
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Shahpur",
+                "start_page": 556,
+                "end_page": 556
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Sagar Shahar",
+                "start_page": 557,
+                "end_page": 559
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Nainaagiri - Reshandeegiri Siddhkshetra",
+                "start_page": 560,
+                "end_page": 561
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Dronaagiri SiddhiDhaam Ki Yaatraa",
+                "start_page": 562,
+                "end_page": 564
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Khajaraah",
+                "start_page": 565,
+                "end_page": 565
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Papauraajee",
+                "start_page": 566,
+                "end_page": 568
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Lalitpur / Devgadh",
+                "start_page": 569,
+                "end_page": 570
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Baaraan Hokar Chaandkhedee",
+                "start_page": 571,
+                "end_page": 571
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Chaandkhedee",
+                "start_page": 572,
+                "end_page": 574
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Zaalaraapaatan / Kota Shahar",
+                "start_page": 575,
+                "end_page": 577
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Neemach / Chittaud",
+                "start_page": 578,
+                "end_page": 578
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Udaypur",
+                "start_page": 579,
+                "end_page": 579
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Kesariyaaji",
+                "start_page": 580,
+                "end_page": 580
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Idar",
+                "start_page": 581,
+                "end_page": 581
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Sonaasan",
+                "start_page": 582,
+                "end_page": 582
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Fatepur",
+                "start_page": 583,
+                "end_page": 583
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — FatepurNagari Mein Pujya GurudevShree Ka 70th Janmotsav / Talod",
+                "start_page": 584,
+                "end_page": 584
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Rakhiyaal / Dehgaam / Kalol",
+                "start_page": 585,
+                "end_page": 586
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — BHavnagar / Teerthdhaam Songadh Mein Pujya Gurudev Ka Aagaman",
+                "start_page": 587,
+                "end_page": 589
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Parishisht - 1. Girnaar - Siddhkshetra Mein Mangal Pratishthha Mahotsav",
+                "start_page": 590,
+                "end_page": 595
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — Parishisht - 2. Muktipuree Ke Pathik Pujya SadGurudevShree KanjiSwami Ne...",
+                "start_page": 596,
+                "end_page": 596
+            },
+            {
+                "field": "Section",
+                "name": "Dwitiya Vibhag — NirvaanBhoomi / JanmDhaam / SaadhanaaDhaam Ki, Ki Hui Mangal Yaatraa",
+                "start_page": 597,
+                "end_page": 605
+            }
+        ]
+    }
+}

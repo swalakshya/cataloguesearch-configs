@@ -1,0 +1,43 @@
+{
+    "default": {
+        "ocr_engine": "tesseract",
+        "chunk_strategy": "advanced",
+        "psm": 6,
+        "ignore_bookmarks": true,
+        "crop": {
+            "top": 10,
+            "bottom": 4
+        }
+    },
+    "Adhyatma_Paraag_H": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/E/Adhyatma_Paraag_H.pdf",
+        "start_page": 5,
+        "end_page": 62,
+        "sub_sections": [
+            {
+                "field": "Section",
+                "name": "Pujya Gurudevshri ke Vachanamrut",
+                "start_page": 5,
+                "end_page": 23
+            },
+            {
+                "field": "Section",
+                "name": "Shrimad Rajchandraji ke Vachanamrut",
+                "start_page": 24,
+                "end_page": 33
+            },
+            {
+                "field": "Section",
+                "name": "Shri Nihalchandraji Sogani ke Vachanamrut",
+                "start_page": 34,
+                "end_page": 43
+            },
+            {
+                "field": "Section",
+                "name": "Pujya Bahinshree Champaben ke Vachanamrut",
+                "start_page": 44,
+                "end_page": 62
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "default": {
+        "ocr_engine": "tesseract",
+        "chunk_strategy": "advanced",
+        "psm": 6,
+        "ignore_bookmarks": true,
+        "crop": {
+            "top": 9,
+            "bottom": 4
+        }
+    },
+    "Guru_Gun_Sambharna_Hindi": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/E/Guru_Gun_Sambharna_Hindi.pdf",
+        "start_page": 1,
+        "end_page": 61,
+        "multi_page": true,
+        "split_percentage": 50,
+        "book_start_page": 1,
+        "book_start_side": "left",
+        "start_side": "left",
+        "end_side": "right"
+    }
+}
