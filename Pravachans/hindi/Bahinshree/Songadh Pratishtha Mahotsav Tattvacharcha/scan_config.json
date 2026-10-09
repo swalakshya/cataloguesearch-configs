@@ -1,0 +1,115 @@
+{
+    "default": {
+        "ocr_engine": "tesseract",
+        "chunk_strategy": "advanced",
+        "psm": 6,
+        "ignore_bookmarks": true,
+        "crop": {
+            "top": 13.9,
+            "bottom": 5
+        }
+    },
+    "Songadh_Pratishtha_Bahenshree_Tatvacharcha_H": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/E/Songadh_Pratishtha_Bahenshree_Tatvacharcha_H.pdf",
+        "start_page": 3,
+        "end_page": 102,
+        "sub_sections": [
+            {
+                "field": "Section",
+                "name": "18-01-2024",
+                "start_page": 3,
+                "end_page": 6
+            },
+            {
+                "field": "Section",
+                "name": "19-01-2024 प्रातः",
+                "start_page": 7,
+                "end_page": 12
+            },
+            {
+                "field": "Section",
+                "name": "19-01-2024 सायं",
+                "start_page": 13,
+                "end_page": 19
+            },
+            {
+                "field": "Section",
+                "name": "20-01-2024 प्रातः",
+                "start_page": 20,
+                "end_page": 26
+            },
+            {
+                "field": "Section",
+                "name": "20-01-2024 सायं",
+                "start_page": 27,
+                "end_page": 31
+            },
+            {
+                "field": "Section",
+                "name": "21-01-2024 प्रातः",
+                "start_page": 32,
+                "end_page": 37
+            },
+            {
+                "field": "Section",
+                "name": "21-01-2024 सायं",
+                "start_page": 38,
+                "end_page": 43
+            },
+            {
+                "field": "Section",
+                "name": "22-01-2024 प्रातः",
+                "start_page": 44,
+                "end_page": 50
+            },
+            {
+                "field": "Section",
+                "name": "22-01-2024 सायं",
+                "start_page": 51,
+                "end_page": 55
+            },
+            {
+                "field": "Section",
+                "name": "23-01-2024 प्रातः",
+                "start_page": 56,
+                "end_page": 62
+            },
+            {
+                "field": "Section",
+                "name": "23-01-2024 सायं",
+                "start_page": 63,
+                "end_page": 68
+            },
+            {
+                "field": "Section",
+                "name": "24-01-2024 प्रातः",
+                "start_page": 69,
+                "end_page": 77
+            },
+            {
+                "field": "Section",
+                "name": "24-01-2024 सायं",
+                "start_page": 78,
+                "end_page": 83
+            },
+            {
+                "field": "Section",
+                "name": "25-01-2024 प्रातः",
+                "start_page": 84,
+                "end_page": 89
+            },
+            {
+                "field": "Section",
+                "name": "25-01-2024 सायं",
+                "start_page": 90,
+                "end_page": 95
+            },
+            {
+                "field": "Section",
+                "name": "26-01-2024 प्रातः",
+                "start_page": 96,
+                "end_page": 102
+            }
+        ]
+    }
+}

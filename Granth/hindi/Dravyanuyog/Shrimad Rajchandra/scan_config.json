@@ -1,0 +1,182 @@
+{
+    "default": {
+        "ocr_engine": "llm",
+        "ignore_bookmarks": true,
+        "crop": {
+            "top": 5,
+            "bottom": 1
+        },
+        "verses": [
+            "hindi_verse",
+            "sanskrit_verse",
+            "prakrit_verse"
+        ],
+    },
+    "Shrimad Rajchandra": {
+        "file_url": "https://vitragelibrary.org/documents/default.aspx?f=shastra/pdf/Shrimad%20Rajchandra.pdf",
+        "skip_pdf_pages": [
+            108,
+            111,
+            214,
+            217,
+            220,
+            221,
+            408,
+            776,
+            778,
+            798,
+            799
+        ],
+        "sub_sections": [
+            {
+                "field": "Section",
+                "name": "17ven Varsh se Pehle",
+                "start_page": 74,
+                "end_page": 106
+            },
+            {
+                "field": "Section",
+                "name": "17van Varsh — Bhavanabodh",
+                "start_page": 107,
+                "end_page": 135
+            },
+            {
+                "field": "Section",
+                "name": "17van Varsh — Mokshmala",
+                "start_page": 136,
+                "end_page": 212
+            },
+            {
+                "field": "Section",
+                "name": "19van Varsh",
+                "start_page": 213,
+                "end_page": 218
+            },
+            {
+                "field": "Section",
+                "name": "20van Varsh — Mahaneeti aur Vachanamrut",
+                "start_page": 219,
+                "end_page": 251
+            },
+            {
+                "field": "Section",
+                "name": "21van Varsh",
+                "start_page": 252,
+                "end_page": 260
+            },
+            {
+                "field": "Section",
+                "name": "22van Varsh",
+                "start_page": 261,
+                "end_page": 286
+            },
+            {
+                "field": "Section",
+                "name": "23van Varsh",
+                "start_page": 287,
+                "end_page": 330
+            },
+            {
+                "field": "Section",
+                "name": "24van Varsh",
+                "start_page": 331,
+                "end_page": 404
+            },
+            {
+                "field": "Section",
+                "name": "25van Varsh",
+                "start_page": 405,
+                "end_page": 472
+            },
+            {
+                "field": "Section",
+                "name": "26van Varsh",
+                "start_page": 473,
+                "end_page": 505
+            },
+            {
+                "field": "Section",
+                "name": "27van Varsh",
+                "start_page": 506,
+                "end_page": 552
+            },
+            {
+                "field": "Section",
+                "name": "28van Varsh",
+                "start_page": 553,
+                "end_page": 606
+            },
+            {
+                "field": "Section",
+                "name": "29van Varsh",
+                "start_page": 607,
+                "end_page": 684
+            },
+            {
+                "field": "Section",
+                "name": "30van Varsh",
+                "start_page": 685,
+                "end_page": 746
+            },
+            {
+                "field": "Section",
+                "name": "31van Varsh",
+                "start_page": 747,
+                "end_page": 759
+            },
+            {
+                "field": "Section",
+                "name": "32van Varsh",
+                "start_page": 760,
+                "end_page": 773
+            },
+            {
+                "field": "Section",
+                "name": "33van Varsh",
+                "start_page": 774,
+                "end_page": 799
+            },
+            {
+                "field": "Section",
+                "name": "34van Varsh",
+                "start_page": 800,
+                "end_page": 803
+            },
+            {
+                "field": "Section",
+                "name": "Updesh Nondh",
+                "start_page": 804,
+                "end_page": 827
+            },
+            {
+                "field": "Section",
+                "name": "Updesh Chhaya",
+                "start_page": 828,
+                "end_page": 881
+            },
+            {
+                "field": "Section",
+                "name": "Vyakhyansaar — 1",
+                "start_page": 882,
+                "end_page": 908
+            },
+            {
+                "field": "Section",
+                "name": "Vyakhyansaar — 2",
+                "start_page": 909,
+                "end_page": 933
+            },
+            {
+                "field": "Section",
+                "name": "Abhyantar Parinam Avalokan — Sansmaran Pothi 1–3",
+                "start_page": 936,
+                "end_page": 986
+            }
+        ],
+        "language": "hi",
+        "ocr_engine": "llm",
+        "multi_page": false,
+        "llm_model": "gemini-2.5-flash",
+        "crop": {"top": 5, "bottom": 0, "left": 0, "right": 0}
+    }
+}

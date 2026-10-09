@@ -1,0 +1,105 @@
+{
+    "default": {
+        "ocr_engine": "tesseract",
+        "chunk_strategy": "advanced",
+        "psm": 6,
+        "ignore_bookmarks": true,
+        "crop": {
+            "top": 9.4,
+            "bottom": 5
+        }
+    },
+    "Vachnamrutsar": {
+        "file_url": "https://www.vitragvani.com/files/document.ashx?path=uploads/pdfs/E/Vachnamrutsar.pdf",
+        "start_page": 22,
+        "end_page": 159,
+        "multi_page": true,
+        "split_percentage": 50,
+        "book_start_page": 22,
+        "book_start_side": "left",
+        "start_side": "left",
+        "end_side": "left",
+        "sub_sections": [
+            {
+                "field": "Section",
+                "name": "अनादि की मूल भूल",
+                "start_page": 22,
+                "start_side": "left",
+                "end_page": 26,
+                "end_side": "right"
+            },
+            {
+                "field": "Section",
+                "name": "पात्रता",
+                "start_page": 27,
+                "start_side": "left",
+                "end_page": 54,
+                "end_side": "right"
+            },
+            {
+                "field": "Section",
+                "name": "वैराग्य",
+                "start_page": 55,
+                "start_side": "left",
+                "end_page": 69,
+                "end_side": "right"
+            },
+            {
+                "field": "Section",
+                "name": "देव-शास्त्र-गुरु",
+                "start_page": 70,
+                "start_side": "left",
+                "end_page": 81,
+                "end_side": "right"
+            },
+            {
+                "field": "Section",
+                "name": "भेद-ज्ञान",
+                "start_page": 82,
+                "start_side": "left",
+                "end_page": 96,
+                "end_side": "left"
+            },
+            {
+                "field": "Section",
+                "name": "सम्यग्दर्शन",
+                "start_page": 96,
+                "start_side": "right",
+                "end_page": 116,
+                "end_side": "right"
+            },
+            {
+                "field": "Section",
+                "name": "द्रव्य-गुण-पर्याय",
+                "start_page": 117,
+                "start_side": "left",
+                "end_page": 134,
+                "end_side": "left"
+            },
+            {
+                "field": "Section",
+                "name": "निश्चय-व्यवहार",
+                "start_page": 134,
+                "start_side": "right",
+                "end_page": 137,
+                "end_side": "right"
+            },
+            {
+                "field": "Section",
+                "name": "निमित्त-उपादान",
+                "start_page": 138,
+                "start_side": "left",
+                "end_page": 146,
+                "end_side": "right"
+            },
+            {
+                "field": "Section",
+                "name": "क्रमबद्धपर्याय",
+                "start_page": 147,
+                "start_side": "left",
+                "end_page": 159,
+                "end_side": "left"
+            }
+        ]
+    }
+}
